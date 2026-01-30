@@ -347,5 +347,79 @@ def main():
     print("\nReady for Flourish import!")
 
 
+def generate_combined_csv():
+    """
+    Generate a single combined CSV with a Filter column for Flourish toggle.
+    This is the main file used by the live Flourish visualization.
+    """
+    # Create analysis grids (logarithmic scales)
+    durations = np.logspace(
+        np.log2(DURATION_MIN),
+        np.log2(DURATION_MAX),
+        num=NUM_POINTS,
+        base=2
+    )
+
+    frequencies = np.logspace(
+        0,  # log10(1) = 0
+        np.log10(FREQUENCY_MAX),
+        num=NUM_POINTS
+    )
+
+    combined_results = []
+
+    # Generate for both filter options
+    for filter_name, technologies in [
+        ("PHES excluded", {k: v for k, v in base_technologies.items() if k != "Pumped hydro"}),
+        ("PHES included", base_technologies)
+    ]:
+        results = {}
+        for duration in durations:
+            for frequency in frequencies:
+                if duration * frequency > HOURS_PER_CYCLE_MAX:
+                    continue
+
+                duration_fmt = format_value(duration)
+                frequency_fmt = format_value(frequency)
+                key = (duration_fmt, frequency_fmt)
+
+                if key in results:
+                    continue
+
+                d_check = float(duration_fmt)
+                f_check = float(frequency_fmt)
+                if d_check * f_check > HOURS_PER_CYCLE_MAX:
+                    continue
+
+                lcos_values = {}
+                for tech_name, params in technologies.items():
+                    lcos = calculate_lcos(duration=duration, frequency=frequency, **params)
+                    lcos_values[tech_name] = lcos
+
+                sorted_techs = sorted(lcos_values.items(), key=lambda x: x[1])
+                if len(sorted_techs) < 2:
+                    continue
+
+                best_tech, best_lcos = sorted_techs[0]
+                second_tech, second_lcos = sorted_techs[1]
+                gap = (second_lcos - best_lcos) / best_lcos if best_lcos > 0 else 0
+                category = create_category(best_tech, gap)
+
+                results[key] = {
+                    "Discharge duration (h)": duration_fmt,
+                    "Cycles per year": frequency_fmt,
+                    "Category": category,
+                    "Filter": filter_name
+                }
+
+        combined_results.extend(results.values())
+
+    df = pd.DataFrame(combined_results)
+    df.to_csv("LDES_LCOS_flourish_combined.csv", index=False)
+    print(f"Generated combined CSV with {len(df)} rows")
+    return df
+
+
 if __name__ == "__main__":
     main()
+    generate_combined_csv()
