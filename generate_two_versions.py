@@ -41,7 +41,7 @@ base_technologies = {
         "var_om": 0.8,
     },
     "CAES": {
-        "capex_power": 500,
+        "capex_power": 2500,
         "capex_energy": 50,
         "efficiency": 0.55,
         "lifetime_years": 50,
