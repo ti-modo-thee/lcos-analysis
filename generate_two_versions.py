@@ -32,7 +32,7 @@ base_technologies = {
         "var_om": 1.0,           # $/MWh
     },
     "Pumped hydro": {
-        "capex_power": 1500,
+        "capex_power": 2125,       # Updated: 1500 → 2125 (NREL/Thunder Said Energy avg)
         "capex_energy": 50,
         "efficiency": 0.80,
         "lifetime_years": 60,
@@ -41,18 +41,18 @@ base_technologies = {
         "var_om": 0.8,
     },
     "CAES": {
-        "capex_power": 2500,
-        "capex_energy": 50,
-        "efficiency": 0.55,
+        "capex_power": 1500,       # Updated: 2500 → 1500 (NREL/Thunder Said Energy)
+        "capex_energy": 90,        # Updated: 50 → 90 (PMC/BloombergNEF avg)
+        "efficiency": 0.60,        # Updated: 0.55 → 0.60 (A-CAES potential)
         "lifetime_years": 50,
         "cycle_life": 15000,
         "fixed_om_frac": 0.02,
         "var_om": 1.0,
     },
     "LAES": {
-        "capex_power": 700,
-        "capex_energy": 80,
-        "efficiency": 0.65,
+        "capex_power": 1000,       # Updated: 700 → 1000 (LDES Council/PV Magazine)
+        "capex_energy": 175,       # Updated: 80 → 175 (UK Industry/LDES Council avg)
+        "efficiency": 0.55,        # Updated: 0.65 → 0.55 (standalone system)
         "lifetime_years": 30,
         "cycle_life": 10000,
         "fixed_om_frac": 0.02,
@@ -60,7 +60,7 @@ base_technologies = {
     },
     "Iron-air": {
         "capex_power": 1700,
-        "capex_energy": 5,
+        "capex_energy": 35,        # Updated: 5 → 35 (Form Energy target + margin)
         "efficiency": 0.40,
         "lifetime_years": 17,
         "cycle_life": 10000,
@@ -68,7 +68,7 @@ base_technologies = {
         "var_om": 1.0,
     },
     "VRFB": {
-        "capex_power": 800,
+        "capex_power": 1100,       # Updated: 800 → 1100 (LDES Council avg)
         "capex_energy": 150,
         "efficiency": 0.75,
         "lifetime_years": 30,
@@ -296,8 +296,93 @@ def print_summary(df: pd.DataFrame, title: str):
 # MAIN EXECUTION
 # =============================================================================
 
+def generate_combined_csv(
+    durations: np.ndarray,
+    frequencies: np.ndarray,
+    output_filename: str = "LDES_LCOS_flourish_combined.csv"
+) -> pd.DataFrame:
+    """
+    Generate a combined CSV with both PHES included and excluded versions.
+
+    The output has columns matching the Flourish visualization:
+    - Discharge duration (h)
+    - Cycles per year
+    - Category
+    - Filter (PHES excluded / PHES included)
+    """
+    all_results = []
+
+    # Technologies without Pumped hydro (PHES excluded)
+    techs_sans_pumped = {k: v for k, v in base_technologies.items() if k != "Pumped hydro"}
+
+    for filter_name, technologies in [
+        ("PHES excluded", techs_sans_pumped),
+        ("PHES included", base_technologies)
+    ]:
+        seen_keys = set()
+
+        for duration in durations:
+            for frequency in frequencies:
+                # Check physical constraint
+                if duration * frequency > HOURS_PER_CYCLE_MAX:
+                    continue
+
+                # Format values
+                duration_fmt = format_value(duration)
+                frequency_fmt = format_value(frequency)
+                key = (duration_fmt, frequency_fmt, filter_name)
+
+                if key in seen_keys:
+                    continue
+                seen_keys.add(key)
+
+                # Verify constraint after rounding
+                d_check = float(duration_fmt)
+                f_check = float(frequency_fmt)
+                if d_check * f_check > HOURS_PER_CYCLE_MAX:
+                    continue
+
+                # Calculate LCOS for each technology
+                lcos_values = {}
+                for tech_name, params in technologies.items():
+                    lcos = calculate_lcos(
+                        duration=duration,
+                        frequency=frequency,
+                        **params
+                    )
+                    lcos_values[tech_name] = lcos
+
+                # Sort by LCOS (ascending)
+                sorted_techs = sorted(lcos_values.items(), key=lambda x: x[1])
+
+                if len(sorted_techs) < 2:
+                    continue
+
+                best_tech, best_lcos = sorted_techs[0]
+                second_tech, second_lcos = sorted_techs[1]
+
+                # Calculate gap
+                gap = (second_lcos - best_lcos) / best_lcos if best_lcos > 0 else 0
+
+                # Create category
+                category = create_category(best_tech, gap)
+
+                all_results.append({
+                    "Discharge duration (h)": duration_fmt,
+                    "Cycles per year": frequency_fmt,
+                    "Category": category,
+                    "Filter": filter_name
+                })
+
+    # Create DataFrame and save
+    df = pd.DataFrame(all_results)
+    df.to_csv(output_filename, index=False)
+
+    return df
+
+
 def main():
-    """Generate both CSV versions for Flourish."""
+    """Generate CSV files for Flourish."""
 
     # Create analysis grids (logarithmic scales)
     durations = np.logspace(
@@ -318,8 +403,22 @@ def main():
     print(f"Frequency range: {FREQUENCY_MIN} to {FREQUENCY_MAX} cycles/year ({NUM_POINTS} points, log10 scale)")
     print(f"Physical constraint: Duration × Frequency ≤ {HOURS_PER_CYCLE_MAX}h")
 
+    # Generate COMBINED CSV for Flourish (with Filter column for toggle)
+    print("\n[1/3] Generating COMBINED version for Flourish...")
+    df_combined = generate_combined_csv(
+        durations=durations,
+        frequencies=frequencies,
+        output_filename="LDES_LCOS_flourish_combined.csv"
+    )
+    print(f"\n{'='*60}")
+    print(" COMBINED VERSION (for Flourish toggle)")
+    print(f"{'='*60}")
+    print(f"Total points: {len(df_combined)}")
+    print(f"  - PHES excluded: {len(df_combined[df_combined['Filter'] == 'PHES excluded'])} points")
+    print(f"  - PHES included: {len(df_combined[df_combined['Filter'] == 'PHES included'])} points")
+
     # Version 1: WITH Pumped hydro (all technologies)
-    print("\n[1/2] Generating version WITH Pumped hydro...")
+    print("\n[2/3] Generating version WITH Pumped hydro...")
     df_with_pumped = generate_lcos_csv(
         technologies=base_technologies,
         output_filename="LDES_LCOS_flourish_AVEC_Pumped_hydro.csv",
@@ -329,7 +428,7 @@ def main():
     print_summary(df_with_pumped, "VERSION AVEC Pumped hydro")
 
     # Version 2: WITHOUT Pumped hydro
-    print("\n[2/2] Generating version WITHOUT Pumped hydro...")
+    print("\n[3/3] Generating version WITHOUT Pumped hydro...")
     techs_sans_pumped = {k: v for k, v in base_technologies.items() if k != "Pumped hydro"}
     df_sans_pumped = generate_lcos_csv(
         technologies=techs_sans_pumped,
@@ -342,84 +441,11 @@ def main():
     print("\n" + "="*60)
     print(" FILES GENERATED:")
     print("="*60)
+    print("  - LDES_LCOS_flourish_combined.csv  <-- USE THIS FOR FLOURISH")
     print("  - LDES_LCOS_flourish_AVEC_Pumped_hydro.csv")
     print("  - LDES_LCOS_flourish_SANS_Pumped_hydro.csv")
     print("\nReady for Flourish import!")
 
 
-def generate_combined_csv():
-    """
-    Generate a single combined CSV with a Filter column for Flourish toggle.
-    This is the main file used by the live Flourish visualization.
-    """
-    # Create analysis grids (logarithmic scales)
-    durations = np.logspace(
-        np.log2(DURATION_MIN),
-        np.log2(DURATION_MAX),
-        num=NUM_POINTS,
-        base=2
-    )
-
-    frequencies = np.logspace(
-        0,  # log10(1) = 0
-        np.log10(FREQUENCY_MAX),
-        num=NUM_POINTS
-    )
-
-    combined_results = []
-
-    # Generate for both filter options
-    for filter_name, technologies in [
-        ("PHES excluded", {k: v for k, v in base_technologies.items() if k != "Pumped hydro"}),
-        ("PHES included", base_technologies)
-    ]:
-        results = {}
-        for duration in durations:
-            for frequency in frequencies:
-                if duration * frequency > HOURS_PER_CYCLE_MAX:
-                    continue
-
-                duration_fmt = format_value(duration)
-                frequency_fmt = format_value(frequency)
-                key = (duration_fmt, frequency_fmt)
-
-                if key in results:
-                    continue
-
-                d_check = float(duration_fmt)
-                f_check = float(frequency_fmt)
-                if d_check * f_check > HOURS_PER_CYCLE_MAX:
-                    continue
-
-                lcos_values = {}
-                for tech_name, params in technologies.items():
-                    lcos = calculate_lcos(duration=duration, frequency=frequency, **params)
-                    lcos_values[tech_name] = lcos
-
-                sorted_techs = sorted(lcos_values.items(), key=lambda x: x[1])
-                if len(sorted_techs) < 2:
-                    continue
-
-                best_tech, best_lcos = sorted_techs[0]
-                second_tech, second_lcos = sorted_techs[1]
-                gap = (second_lcos - best_lcos) / best_lcos if best_lcos > 0 else 0
-                category = create_category(best_tech, gap)
-
-                results[key] = {
-                    "Discharge duration (h)": duration_fmt,
-                    "Cycles per year": frequency_fmt,
-                    "Category": category,
-                    "Filter": filter_name
-                }
-
-        combined_results.extend(results.values())
-
-    df = pd.DataFrame(combined_results)
-    df.to_csv("LDES_LCOS_flourish_combined.csv", index=False)
-    print(f"Generated combined CSV with {len(df)} rows")
-    return df
-
-
 if __name__ == "__main__":
     main()
-    generate_combined_csv()
