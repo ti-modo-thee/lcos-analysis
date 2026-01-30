@@ -148,691 +148,691 @@ Discharge duration (h),Cycles per year,Category,Filter
 4,418,Li-ion 40%+,PHES excluded
 4,495,Li-ion 40%+,PHES excluded
 4,585,Li-ion 40%+,PHES excluded
-4,692,Li-ion 40%+,PHES excluded
-4,818,Li-ion 40%+,PHES excluded
+4,692,Li-ion 30%,PHES excluded
+4,818,Li-ion 30%,PHES excluded
 4,968,Li-ion 30%,PHES excluded
-5,1,Li-ion 40%+,PHES excluded
-5,2,Li-ion 40%+,PHES excluded
-5,3,Li-ion 40%+,PHES excluded
-5,4,Li-ion 40%+,PHES excluded
-5,5,Li-ion 40%+,PHES excluded
-5,6,Li-ion 40%+,PHES excluded
-5,7,Li-ion 40%+,PHES excluded
-5,9,Li-ion 40%+,PHES excluded
-5,10,Li-ion 40%+,PHES excluded
-5,12,Li-ion 40%+,PHES excluded
-5,15,Li-ion 40%+,PHES excluded
-5,17,Li-ion 40%+,PHES excluded
-5,20,Li-ion 40%+,PHES excluded
-5,24,Li-ion 40%+,PHES excluded
-5,29,Li-ion 40%+,PHES excluded
-5,34,Li-ion 40%+,PHES excluded
-5,40,Li-ion 40%+,PHES excluded
-5,47,Li-ion 40%+,PHES excluded
-5,56,Li-ion 40%+,PHES excluded
-5,66,Li-ion 40%+,PHES excluded
-5,78,Li-ion 40%+,PHES excluded
-5,93,Li-ion 40%+,PHES excluded
-5,109,Li-ion 40%+,PHES excluded
-5,129,Li-ion 40%+,PHES excluded
-5,153,Li-ion 40%+,PHES excluded
-5,181,Li-ion 40%+,PHES excluded
-5,214,Li-ion 40%+,PHES excluded
-5,253,Li-ion 40%+,PHES excluded
-5,299,Li-ion 40%+,PHES excluded
-5,354,Li-ion 40%+,PHES excluded
-5,418,Li-ion 40%+,PHES excluded
-5,495,Li-ion 40%+,PHES excluded
-5,585,Li-ion 40%+,PHES excluded
-5,692,Li-ion 40%+,PHES excluded
-5,818,Li-ion 30%,PHES excluded
-6,1,Li-ion 40%+,PHES excluded
-6,2,Li-ion 40%+,PHES excluded
-6,3,Li-ion 40%+,PHES excluded
-6,4,Li-ion 40%+,PHES excluded
-6,5,Li-ion 40%+,PHES excluded
-6,6,Li-ion 40%+,PHES excluded
-6,7,Li-ion 40%+,PHES excluded
-6,9,Li-ion 40%+,PHES excluded
-6,10,Li-ion 40%+,PHES excluded
-6,12,Li-ion 40%+,PHES excluded
-6,15,Li-ion 40%+,PHES excluded
-6,17,Li-ion 40%+,PHES excluded
-6,20,Li-ion 40%+,PHES excluded
-6,24,Li-ion 40%+,PHES excluded
-6,29,Li-ion 40%+,PHES excluded
-6,34,Li-ion 40%+,PHES excluded
-6,40,Li-ion 40%+,PHES excluded
-6,47,Li-ion 40%+,PHES excluded
-6,56,Li-ion 40%+,PHES excluded
-6,66,Li-ion 40%+,PHES excluded
-6,78,Li-ion 40%+,PHES excluded
-6,93,Li-ion 40%+,PHES excluded
-6,109,Li-ion 40%+,PHES excluded
-6,129,Li-ion 40%+,PHES excluded
-6,153,Li-ion 40%+,PHES excluded
-6,181,Li-ion 40%+,PHES excluded
-6,214,Li-ion 40%+,PHES excluded
-6,253,Li-ion 40%+,PHES excluded
-6,299,Li-ion 40%+,PHES excluded
-6,354,Li-ion 40%+,PHES excluded
-6,418,Li-ion 40%+,PHES excluded
-6,495,Li-ion 40%+,PHES excluded
-6,585,Li-ion 40%+,PHES excluded
-6,692,Li-ion 30%,PHES excluded
-7,1,Li-ion 40%+,PHES excluded
-7,2,Li-ion 40%+,PHES excluded
-7,3,Li-ion 40%+,PHES excluded
-7,4,Li-ion 40%+,PHES excluded
-7,5,Li-ion 40%+,PHES excluded
-7,6,Li-ion 40%+,PHES excluded
-7,7,Li-ion 40%+,PHES excluded
-7,9,Li-ion 40%+,PHES excluded
-7,10,Li-ion 40%+,PHES excluded
-7,12,Li-ion 40%+,PHES excluded
-7,15,Li-ion 40%+,PHES excluded
-7,17,Li-ion 40%+,PHES excluded
-7,20,Li-ion 40%+,PHES excluded
-7,24,Li-ion 40%+,PHES excluded
-7,29,Li-ion 40%+,PHES excluded
-7,34,Li-ion 40%+,PHES excluded
-7,40,Li-ion 40%+,PHES excluded
-7,47,Li-ion 40%+,PHES excluded
-7,56,Li-ion 40%+,PHES excluded
-7,66,Li-ion 40%+,PHES excluded
-7,78,Li-ion 40%+,PHES excluded
-7,93,Li-ion 40%+,PHES excluded
-7,109,Li-ion 40%+,PHES excluded
-7,129,Li-ion 40%+,PHES excluded
-7,153,Li-ion 40%+,PHES excluded
-7,181,Li-ion 40%+,PHES excluded
-7,214,Li-ion 40%+,PHES excluded
-7,253,Li-ion 40%+,PHES excluded
-7,299,Li-ion 40%+,PHES excluded
-7,354,Li-ion 40%+,PHES excluded
-7,418,Li-ion 40%+,PHES excluded
-7,495,Li-ion 40%+,PHES excluded
-7,585,Li-ion 40%+,PHES excluded
-8,1,Li-ion 40%+,PHES excluded
-8,2,Li-ion 40%+,PHES excluded
-8,3,Li-ion 40%+,PHES excluded
-8,4,Li-ion 40%+,PHES excluded
-8,5,Li-ion 40%+,PHES excluded
-8,6,Li-ion 40%+,PHES excluded
-8,7,Li-ion 40%+,PHES excluded
-8,9,Li-ion 40%+,PHES excluded
-8,10,Li-ion 40%+,PHES excluded
-8,12,Li-ion 40%+,PHES excluded
-8,15,Li-ion 40%+,PHES excluded
-8,17,Li-ion 40%+,PHES excluded
-8,20,Li-ion 40%+,PHES excluded
-8,24,Li-ion 40%+,PHES excluded
-8,29,Li-ion 40%+,PHES excluded
-8,34,Li-ion 40%+,PHES excluded
-8,40,Li-ion 40%+,PHES excluded
-8,47,Li-ion 40%+,PHES excluded
-8,56,Li-ion 40%+,PHES excluded
-8,66,Li-ion 40%+,PHES excluded
-8,78,Li-ion 40%+,PHES excluded
-8,93,Li-ion 40%+,PHES excluded
-8,109,Li-ion 40%+,PHES excluded
-8,129,Li-ion 40%+,PHES excluded
-8,153,Li-ion 40%+,PHES excluded
-8,181,Li-ion 40%+,PHES excluded
-8,214,Li-ion 40%+,PHES excluded
-8,253,Li-ion 40%+,PHES excluded
-8,299,Li-ion 40%+,PHES excluded
-8,354,Li-ion 40%+,PHES excluded
-8,418,Li-ion 40%+,PHES excluded
-8,495,Li-ion 40%+,PHES excluded
-9,1,Li-ion 40%+,PHES excluded
-9,2,Li-ion 40%+,PHES excluded
-9,3,Li-ion 40%+,PHES excluded
-9,4,Li-ion 40%+,PHES excluded
-9,5,Li-ion 40%+,PHES excluded
-9,6,Li-ion 40%+,PHES excluded
-9,7,Li-ion 40%+,PHES excluded
-9,9,Li-ion 40%+,PHES excluded
-9,10,Li-ion 40%+,PHES excluded
-9,12,Li-ion 40%+,PHES excluded
-9,15,Li-ion 40%+,PHES excluded
-9,17,Li-ion 40%+,PHES excluded
-9,20,Li-ion 40%+,PHES excluded
-9,24,Li-ion 40%+,PHES excluded
-9,29,Li-ion 40%+,PHES excluded
-9,34,Li-ion 40%+,PHES excluded
-9,40,Li-ion 40%+,PHES excluded
-9,47,Li-ion 40%+,PHES excluded
-9,56,Li-ion 40%+,PHES excluded
-9,66,Li-ion 40%+,PHES excluded
-9,78,Li-ion 40%+,PHES excluded
-9,93,Li-ion 40%+,PHES excluded
-9,109,Li-ion 40%+,PHES excluded
-9,129,Li-ion 40%+,PHES excluded
-9,153,Li-ion 40%+,PHES excluded
-9,181,Li-ion 40%+,PHES excluded
-9,214,Li-ion 40%+,PHES excluded
-9,253,Li-ion 40%+,PHES excluded
-9,299,Li-ion 40%+,PHES excluded
-9,354,Li-ion 40%+,PHES excluded
-9,418,Li-ion 40%+,PHES excluded
-11,1,Li-ion 40%+,PHES excluded
-11,2,Li-ion 40%+,PHES excluded
-11,3,Li-ion 40%+,PHES excluded
-11,4,Li-ion 40%+,PHES excluded
-11,5,Li-ion 40%+,PHES excluded
-11,6,Li-ion 40%+,PHES excluded
-11,7,Li-ion 40%+,PHES excluded
-11,9,Li-ion 40%+,PHES excluded
-11,10,Li-ion 40%+,PHES excluded
-11,12,Li-ion 40%+,PHES excluded
-11,15,Li-ion 40%+,PHES excluded
-11,17,Li-ion 40%+,PHES excluded
-11,20,Li-ion 40%+,PHES excluded
-11,24,Li-ion 40%+,PHES excluded
-11,29,Li-ion 40%+,PHES excluded
-11,34,Li-ion 40%+,PHES excluded
-11,40,Li-ion 40%+,PHES excluded
-11,47,Li-ion 40%+,PHES excluded
-11,56,Li-ion 40%+,PHES excluded
-11,66,Li-ion 40%+,PHES excluded
-11,78,Li-ion 40%+,PHES excluded
-11,93,Li-ion 40%+,PHES excluded
-11,109,Li-ion 40%+,PHES excluded
-11,129,Li-ion 40%+,PHES excluded
-11,153,Li-ion 40%+,PHES excluded
-11,181,Li-ion 40%+,PHES excluded
-11,214,Li-ion 40%+,PHES excluded
-11,253,Li-ion 40%+,PHES excluded
-11,299,Li-ion 40%+,PHES excluded
-11,354,Li-ion 40%+,PHES excluded
-13,1,Li-ion 40%+,PHES excluded
-13,2,Li-ion 40%+,PHES excluded
-13,3,Li-ion 40%+,PHES excluded
-13,4,Li-ion 40%+,PHES excluded
-13,5,Li-ion 40%+,PHES excluded
-13,6,Li-ion 40%+,PHES excluded
-13,7,Li-ion 40%+,PHES excluded
-13,9,Li-ion 40%+,PHES excluded
-13,10,Li-ion 40%+,PHES excluded
-13,12,Li-ion 40%+,PHES excluded
-13,15,Li-ion 40%+,PHES excluded
-13,17,Li-ion 40%+,PHES excluded
-13,20,Li-ion 40%+,PHES excluded
-13,24,Li-ion 40%+,PHES excluded
-13,29,Li-ion 40%+,PHES excluded
-13,34,Li-ion 40%+,PHES excluded
-13,40,Li-ion 40%+,PHES excluded
-13,47,Li-ion 40%+,PHES excluded
-13,56,Li-ion 40%+,PHES excluded
-13,66,Li-ion 40%+,PHES excluded
-13,78,Li-ion 40%+,PHES excluded
-13,93,Li-ion 40%+,PHES excluded
-13,109,Li-ion 40%+,PHES excluded
-13,129,Li-ion 40%+,PHES excluded
-13,153,Li-ion 40%+,PHES excluded
-13,181,Li-ion 40%+,PHES excluded
-13,214,Li-ion 40%+,PHES excluded
-13,253,Li-ion 40%+,PHES excluded
-13,299,Li-ion 40%+,PHES excluded
-15,1,Li-ion 40%+,PHES excluded
-15,2,Li-ion 40%+,PHES excluded
-15,3,Li-ion 40%+,PHES excluded
-15,4,Li-ion 40%+,PHES excluded
-15,5,Li-ion 40%+,PHES excluded
-15,6,Li-ion 40%+,PHES excluded
-15,7,Li-ion 40%+,PHES excluded
-15,9,Li-ion 40%+,PHES excluded
-15,10,Li-ion 40%+,PHES excluded
-15,12,Li-ion 40%+,PHES excluded
-15,15,Li-ion 40%+,PHES excluded
-15,17,Li-ion 40%+,PHES excluded
-15,20,Li-ion 40%+,PHES excluded
-15,24,Li-ion 40%+,PHES excluded
-15,29,Li-ion 40%+,PHES excluded
-15,34,Li-ion 40%+,PHES excluded
-15,40,Li-ion 40%+,PHES excluded
-15,47,Li-ion 40%+,PHES excluded
-15,56,Li-ion 40%+,PHES excluded
-15,66,Li-ion 40%+,PHES excluded
-15,78,Li-ion 40%+,PHES excluded
-15,93,Li-ion 40%+,PHES excluded
-15,109,Li-ion 40%+,PHES excluded
-15,129,Li-ion 40%+,PHES excluded
-15,153,Li-ion 40%+,PHES excluded
-15,181,Li-ion 40%+,PHES excluded
-15,214,Li-ion 40%+,PHES excluded
-15,253,Li-ion 40%+,PHES excluded
-17,1,Li-ion 30%,PHES excluded
-17,2,Li-ion 30%,PHES excluded
-17,3,Li-ion 30%,PHES excluded
-17,4,Li-ion 30%,PHES excluded
-17,5,Li-ion 30%,PHES excluded
-17,6,Li-ion 30%,PHES excluded
-17,7,Li-ion 30%,PHES excluded
-17,9,Li-ion 30%,PHES excluded
-17,10,Li-ion 30%,PHES excluded
-17,12,Li-ion 30%,PHES excluded
-17,15,Li-ion 30%,PHES excluded
-17,17,Li-ion 30%,PHES excluded
-17,20,Li-ion 30%,PHES excluded
-17,24,Li-ion 30%,PHES excluded
-17,29,Li-ion 30%,PHES excluded
-17,34,Li-ion 30%,PHES excluded
-17,40,Li-ion 30%,PHES excluded
-17,47,Li-ion 30%,PHES excluded
-17,56,Li-ion 30%,PHES excluded
-17,66,Li-ion 30%,PHES excluded
-17,78,Li-ion 30%,PHES excluded
-17,93,Li-ion 30%,PHES excluded
-17,109,Li-ion 30%,PHES excluded
-17,129,Li-ion 30%,PHES excluded
-17,153,Li-ion 30%,PHES excluded
-17,181,Li-ion 30%,PHES excluded
-17,214,Li-ion 30%,PHES excluded
-17,253,Li-ion 30%,PHES excluded
-20,1,Li-ion 30%,PHES excluded
-20,2,Li-ion 30%,PHES excluded
-20,3,Li-ion 30%,PHES excluded
-20,4,Li-ion 30%,PHES excluded
-20,5,Li-ion 30%,PHES excluded
-20,6,Li-ion 30%,PHES excluded
-20,7,Li-ion 30%,PHES excluded
-20,9,Li-ion 30%,PHES excluded
-20,10,Li-ion 30%,PHES excluded
-20,12,Li-ion 30%,PHES excluded
-20,15,Li-ion 30%,PHES excluded
-20,17,Li-ion 30%,PHES excluded
-20,20,Li-ion 30%,PHES excluded
-20,24,Li-ion 30%,PHES excluded
-20,29,Li-ion 30%,PHES excluded
-20,34,Li-ion 30%,PHES excluded
-20,40,Li-ion 30%,PHES excluded
-20,47,Li-ion 30%,PHES excluded
-20,56,Li-ion 30%,PHES excluded
-20,66,Li-ion 30%,PHES excluded
-20,78,Li-ion 30%,PHES excluded
-20,93,Li-ion 30%,PHES excluded
-20,109,Li-ion 30%,PHES excluded
-20,129,Li-ion 30%,PHES excluded
-20,153,Li-ion 30%,PHES excluded
-20,181,Li-ion 30%,PHES excluded
-20,214,Li-ion 30%,PHES excluded
-23,1,Li-ion 20%,PHES excluded
-23,2,Li-ion 20%,PHES excluded
-23,3,Li-ion 20%,PHES excluded
-23,4,Li-ion 20%,PHES excluded
-23,5,Li-ion 20%,PHES excluded
-23,6,Li-ion 20%,PHES excluded
-23,7,Li-ion 20%,PHES excluded
-23,9,Li-ion 20%,PHES excluded
-23,10,Li-ion 20%,PHES excluded
-23,12,Li-ion 20%,PHES excluded
-23,15,Li-ion 20%,PHES excluded
-23,17,Li-ion 20%,PHES excluded
-23,20,Li-ion 20%,PHES excluded
-23,24,Li-ion 20%,PHES excluded
-23,29,Li-ion 20%,PHES excluded
-23,34,Li-ion 20%,PHES excluded
-23,40,Li-ion 20%,PHES excluded
-23,47,Li-ion 20%,PHES excluded
-23,56,Li-ion 20%,PHES excluded
-23,66,Li-ion 20%,PHES excluded
-23,78,Li-ion 20%,PHES excluded
-23,93,Li-ion 20%,PHES excluded
-23,109,Li-ion 20%,PHES excluded
-23,129,Li-ion 20%,PHES excluded
-23,153,Li-ion 20%,PHES excluded
-23,181,Li-ion 20%,PHES excluded
-26,1,Li-ion 10%,PHES excluded
-26,2,Li-ion 10%,PHES excluded
-26,3,Li-ion 10%,PHES excluded
-26,4,Li-ion 10%,PHES excluded
-26,5,Li-ion 10%,PHES excluded
-26,6,Li-ion 10%,PHES excluded
-26,7,Li-ion 10%,PHES excluded
-26,9,Li-ion 10%,PHES excluded
-26,10,Li-ion 10%,PHES excluded
-26,12,Li-ion 10%,PHES excluded
-26,15,Li-ion 10%,PHES excluded
-26,17,Li-ion 10%,PHES excluded
-26,20,Li-ion 10%,PHES excluded
-26,24,Li-ion 10%,PHES excluded
-26,29,Li-ion 10%,PHES excluded
-26,34,Li-ion 10%,PHES excluded
-26,40,Li-ion 10%,PHES excluded
-26,47,Li-ion 10%,PHES excluded
-26,56,Li-ion 10%,PHES excluded
-26,66,Li-ion 10%,PHES excluded
-26,78,Li-ion 10%,PHES excluded
-26,93,Li-ion 10%,PHES excluded
-26,109,Li-ion 10%,PHES excluded
-26,129,Li-ion 10%,PHES excluded
-26,153,Li-ion 10%,PHES excluded
-31,1,Li-ion 10%,PHES excluded
-31,2,Li-ion 10%,PHES excluded
-31,3,Li-ion 10%,PHES excluded
-31,4,Li-ion 10%,PHES excluded
-31,5,Li-ion 10%,PHES excluded
-31,6,Li-ion 10%,PHES excluded
-31,7,Li-ion 10%,PHES excluded
-31,9,Li-ion 10%,PHES excluded
-31,10,Li-ion 10%,PHES excluded
-31,12,Li-ion 10%,PHES excluded
-31,15,Li-ion 10%,PHES excluded
-31,17,Li-ion 10%,PHES excluded
-31,20,Li-ion 10%,PHES excluded
-31,24,Li-ion 10%,PHES excluded
-31,29,Li-ion 10%,PHES excluded
-31,34,Li-ion 10%,PHES excluded
-31,40,Li-ion 10%,PHES excluded
-31,47,Li-ion 10%,PHES excluded
-31,56,Li-ion 10%,PHES excluded
-31,66,Li-ion 10%,PHES excluded
-31,78,Li-ion 10%,PHES excluded
-31,93,Li-ion 10%,PHES excluded
-31,109,Li-ion 10%,PHES excluded
-31,129,Li-ion 10%,PHES excluded
-36,1,Li-ion 5%,PHES excluded
-36,2,Li-ion 5%,PHES excluded
-36,3,Li-ion 5%,PHES excluded
-36,4,Li-ion 5%,PHES excluded
-36,5,Li-ion 5%,PHES excluded
-36,6,Li-ion 5%,PHES excluded
-36,7,Li-ion 5%,PHES excluded
-36,9,Li-ion 5%,PHES excluded
-36,10,Li-ion 5%,PHES excluded
-36,12,Li-ion 5%,PHES excluded
-36,15,Li-ion 5%,PHES excluded
-36,17,Li-ion 5%,PHES excluded
-36,20,Li-ion 5%,PHES excluded
-36,24,Li-ion 5%,PHES excluded
-36,29,Li-ion 5%,PHES excluded
-36,34,Li-ion 5%,PHES excluded
-36,40,Li-ion 5%,PHES excluded
-36,47,Li-ion 5%,PHES excluded
-36,56,Li-ion 5%,PHES excluded
-36,66,Li-ion 5%,PHES excluded
-36,78,Li-ion 5%,PHES excluded
-36,93,Li-ion 5%,PHES excluded
-36,109,Li-ion 5%,PHES excluded
-41,1,Li-ion 5%,PHES excluded
-41,2,Li-ion 5%,PHES excluded
-41,3,Li-ion 5%,PHES excluded
-41,4,Li-ion 5%,PHES excluded
-41,5,Li-ion 5%,PHES excluded
-41,6,Li-ion 5%,PHES excluded
-41,7,Li-ion 5%,PHES excluded
-41,9,Li-ion 5%,PHES excluded
-41,10,Li-ion 5%,PHES excluded
-41,12,Li-ion 5%,PHES excluded
-41,15,Li-ion 5%,PHES excluded
-41,17,Li-ion 5%,PHES excluded
-41,20,Li-ion 5%,PHES excluded
-41,24,Li-ion 5%,PHES excluded
-41,29,Li-ion 5%,PHES excluded
-41,34,Li-ion 5%,PHES excluded
-41,40,Li-ion 5%,PHES excluded
-41,47,Li-ion 5%,PHES excluded
-41,56,Li-ion 5%,PHES excluded
-41,66,Li-ion 5%,PHES excluded
-41,78,Li-ion 5%,PHES excluded
-41,93,Li-ion 5%,PHES excluded
-48,1,Li-ion < 5%,PHES excluded
-48,2,Li-ion < 5%,PHES excluded
-48,3,Li-ion < 5%,PHES excluded
-48,4,Li-ion < 5%,PHES excluded
-48,5,Li-ion < 5%,PHES excluded
-48,6,Li-ion < 5%,PHES excluded
-48,7,Li-ion < 5%,PHES excluded
-48,9,Li-ion < 5%,PHES excluded
-48,10,Li-ion < 5%,PHES excluded
-48,12,Li-ion < 5%,PHES excluded
-48,15,Li-ion < 5%,PHES excluded
-48,17,Li-ion < 5%,PHES excluded
-48,20,Li-ion < 5%,PHES excluded
-48,24,Li-ion < 5%,PHES excluded
-48,29,Li-ion < 5%,PHES excluded
-48,34,Li-ion < 5%,PHES excluded
-48,40,Li-ion < 5%,PHES excluded
-48,47,Li-ion < 5%,PHES excluded
-48,56,Li-ion < 5%,PHES excluded
-48,66,Li-ion < 5%,PHES excluded
-48,78,Li-ion < 5%,PHES excluded
-56,1,CAES < 5%,PHES excluded
-56,2,CAES < 5%,PHES excluded
-56,3,CAES < 5%,PHES excluded
-56,4,CAES < 5%,PHES excluded
-56,5,CAES < 5%,PHES excluded
-56,6,CAES < 5%,PHES excluded
-56,7,CAES < 5%,PHES excluded
-56,9,CAES < 5%,PHES excluded
-56,10,CAES < 5%,PHES excluded
-56,12,CAES < 5%,PHES excluded
-56,15,CAES < 5%,PHES excluded
-56,17,CAES < 5%,PHES excluded
-56,20,CAES < 5%,PHES excluded
-56,24,CAES < 5%,PHES excluded
-56,29,CAES < 5%,PHES excluded
-56,34,CAES < 5%,PHES excluded
-56,40,CAES < 5%,PHES excluded
-56,47,CAES < 5%,PHES excluded
-56,56,CAES < 5%,PHES excluded
-56,66,CAES < 5%,PHES excluded
-56,78,CAES < 5%,PHES excluded
-65,1,CAES < 5%,PHES excluded
-65,2,CAES < 5%,PHES excluded
-65,3,CAES < 5%,PHES excluded
-65,4,CAES < 5%,PHES excluded
-65,5,CAES < 5%,PHES excluded
-65,6,CAES < 5%,PHES excluded
-65,7,CAES < 5%,PHES excluded
-65,9,CAES < 5%,PHES excluded
-65,10,CAES < 5%,PHES excluded
-65,12,CAES < 5%,PHES excluded
-65,15,CAES < 5%,PHES excluded
-65,17,CAES < 5%,PHES excluded
-65,20,CAES < 5%,PHES excluded
-65,24,CAES < 5%,PHES excluded
-65,29,CAES < 5%,PHES excluded
-65,34,CAES < 5%,PHES excluded
-65,40,CAES < 5%,PHES excluded
-65,47,CAES < 5%,PHES excluded
-65,56,CAES < 5%,PHES excluded
-65,66,CAES < 5%,PHES excluded
-75,1,on par,PHES excluded
-75,2,on par,PHES excluded
-75,3,on par,PHES excluded
-75,4,on par,PHES excluded
-75,5,on par,PHES excluded
-75,6,on par,PHES excluded
-75,7,on par,PHES excluded
-75,9,on par,PHES excluded
-75,10,on par,PHES excluded
-75,12,on par,PHES excluded
-75,15,on par,PHES excluded
-75,17,on par,PHES excluded
-75,20,on par,PHES excluded
-75,24,on par,PHES excluded
-75,29,on par,PHES excluded
-75,34,on par,PHES excluded
-75,40,on par,PHES excluded
-75,47,on par,PHES excluded
-75,56,on par,PHES excluded
-87,1,Iron-air < 5%,PHES excluded
-87,2,Iron-air < 5%,PHES excluded
-87,3,Iron-air < 5%,PHES excluded
-87,4,Iron-air < 5%,PHES excluded
-87,5,Iron-air < 5%,PHES excluded
-87,6,Iron-air < 5%,PHES excluded
-87,7,Iron-air < 5%,PHES excluded
-87,9,Iron-air < 5%,PHES excluded
-87,10,Iron-air < 5%,PHES excluded
-87,12,Iron-air < 5%,PHES excluded
-87,15,Iron-air < 5%,PHES excluded
-87,17,Iron-air < 5%,PHES excluded
-87,20,Iron-air < 5%,PHES excluded
-87,24,Iron-air < 5%,PHES excluded
-87,29,Iron-air < 5%,PHES excluded
-87,34,Iron-air < 5%,PHES excluded
-87,40,Iron-air < 5%,PHES excluded
-87,47,Iron-air < 5%,PHES excluded
-101,1,Iron-air 5%,PHES excluded
-101,2,Iron-air 5%,PHES excluded
-101,3,Iron-air 5%,PHES excluded
-101,4,Iron-air 5%,PHES excluded
-101,5,Iron-air 5%,PHES excluded
-101,6,Iron-air 5%,PHES excluded
-101,7,Iron-air 5%,PHES excluded
-101,9,Iron-air 5%,PHES excluded
-101,10,Iron-air 5%,PHES excluded
-101,12,Iron-air 5%,PHES excluded
-101,15,Iron-air 5%,PHES excluded
-101,17,Iron-air 5%,PHES excluded
-101,20,Iron-air 5%,PHES excluded
-101,24,Iron-air 5%,PHES excluded
-101,29,Iron-air 5%,PHES excluded
-101,34,Iron-air 5%,PHES excluded
-101,40,Iron-air 5%,PHES excluded
-118,1,Iron-air 5%,PHES excluded
-118,2,Iron-air 5%,PHES excluded
-118,3,Iron-air 5%,PHES excluded
-118,4,Iron-air 5%,PHES excluded
-118,5,Iron-air 5%,PHES excluded
-118,6,Iron-air 5%,PHES excluded
-118,7,Iron-air 5%,PHES excluded
-118,9,Iron-air 5%,PHES excluded
-118,10,Iron-air 5%,PHES excluded
-118,12,Iron-air 5%,PHES excluded
-118,15,Iron-air 5%,PHES excluded
-118,17,Iron-air 5%,PHES excluded
-118,20,Iron-air 5%,PHES excluded
-118,24,Iron-air 5%,PHES excluded
-118,29,Iron-air 5%,PHES excluded
-118,34,Iron-air 5%,PHES excluded
-136,1,Iron-air 10%,PHES excluded
-136,2,Iron-air 10%,PHES excluded
-136,3,Iron-air 10%,PHES excluded
-136,4,Iron-air 10%,PHES excluded
-136,5,Iron-air 10%,PHES excluded
-136,6,Iron-air 10%,PHES excluded
-136,7,Iron-air 10%,PHES excluded
-136,9,Iron-air 10%,PHES excluded
-136,10,Iron-air 10%,PHES excluded
-136,12,Iron-air 10%,PHES excluded
-136,15,Iron-air 10%,PHES excluded
-136,17,Iron-air 10%,PHES excluded
-136,20,Iron-air 10%,PHES excluded
-136,24,Iron-air 10%,PHES excluded
-136,29,Iron-air 10%,PHES excluded
-158,1,Iron-air 10%,PHES excluded
-158,2,Iron-air 10%,PHES excluded
-158,3,Iron-air 10%,PHES excluded
-158,4,Iron-air 10%,PHES excluded
-158,5,Iron-air 10%,PHES excluded
-158,6,Iron-air 10%,PHES excluded
-158,7,Iron-air 10%,PHES excluded
-158,9,Iron-air 10%,PHES excluded
-158,10,Iron-air 10%,PHES excluded
-158,12,Iron-air 10%,PHES excluded
-158,15,Iron-air 10%,PHES excluded
-158,17,Iron-air 10%,PHES excluded
-158,20,Iron-air 10%,PHES excluded
-158,24,Iron-air 10%,PHES excluded
-184,1,Iron-air 10%,PHES excluded
-184,2,Iron-air 10%,PHES excluded
-184,3,Iron-air 10%,PHES excluded
-184,4,Iron-air 10%,PHES excluded
-184,5,Iron-air 10%,PHES excluded
-184,6,Iron-air 10%,PHES excluded
-184,7,Iron-air 10%,PHES excluded
-184,9,Iron-air 10%,PHES excluded
-184,10,Iron-air 10%,PHES excluded
-184,12,Iron-air 10%,PHES excluded
-184,15,Iron-air 10%,PHES excluded
-184,17,Iron-air 10%,PHES excluded
-184,20,Iron-air 10%,PHES excluded
-213,1,Iron-air 10%,PHES excluded
-213,2,Iron-air 10%,PHES excluded
-213,3,Iron-air 10%,PHES excluded
-213,4,Iron-air 10%,PHES excluded
-213,5,Iron-air 10%,PHES excluded
-213,6,Iron-air 10%,PHES excluded
-213,7,Iron-air 10%,PHES excluded
-213,9,Iron-air 10%,PHES excluded
-213,10,Iron-air 10%,PHES excluded
-213,12,Iron-air 10%,PHES excluded
-213,15,Iron-air 10%,PHES excluded
-213,17,Iron-air 10%,PHES excluded
-213,20,Iron-air 10%,PHES excluded
-247,1,Iron-air 20%,PHES excluded
-247,2,Iron-air 20%,PHES excluded
-247,3,Iron-air 20%,PHES excluded
-247,4,Iron-air 20%,PHES excluded
-247,5,Iron-air 20%,PHES excluded
-247,6,Iron-air 20%,PHES excluded
-247,7,Iron-air 20%,PHES excluded
-247,9,Iron-air 20%,PHES excluded
-247,10,Iron-air 20%,PHES excluded
-247,12,Iron-air 20%,PHES excluded
-247,15,Iron-air 20%,PHES excluded
-247,17,Iron-air 20%,PHES excluded
-287,1,Iron-air 20%,PHES excluded
-287,2,Iron-air 20%,PHES excluded
-287,3,Iron-air 20%,PHES excluded
-287,4,Iron-air 20%,PHES excluded
-287,5,Iron-air 20%,PHES excluded
-287,6,Iron-air 20%,PHES excluded
-287,7,Iron-air 20%,PHES excluded
-287,9,Iron-air 20%,PHES excluded
-287,10,Iron-air 20%,PHES excluded
-287,12,Iron-air 20%,PHES excluded
-287,15,Iron-air 20%,PHES excluded
-333,1,Iron-air 20%,PHES excluded
-333,2,Iron-air 20%,PHES excluded
-333,3,Iron-air 20%,PHES excluded
-333,4,Iron-air 20%,PHES excluded
-333,5,Iron-air 20%,PHES excluded
-333,6,Iron-air 20%,PHES excluded
-333,7,Iron-air 20%,PHES excluded
-333,9,Iron-air 20%,PHES excluded
-333,10,Iron-air 20%,PHES excluded
-333,12,Iron-air 20%,PHES excluded
-387,1,Iron-air 20%,PHES excluded
-387,2,Iron-air 20%,PHES excluded
-387,3,Iron-air 20%,PHES excluded
-387,4,Iron-air 20%,PHES excluded
-387,5,Iron-air 20%,PHES excluded
-387,6,Iron-air 20%,PHES excluded
-387,7,Iron-air 20%,PHES excluded
-387,9,Iron-air 20%,PHES excluded
-387,10,Iron-air 20%,PHES excluded
-449,1,Iron-air 20%,PHES excluded
-449,2,Iron-air 20%,PHES excluded
-449,3,Iron-air 20%,PHES excluded
-449,4,Iron-air 20%,PHES excluded
-449,5,Iron-air 20%,PHES excluded
-449,6,Iron-air 20%,PHES excluded
-449,7,Iron-air 20%,PHES excluded
-449,9,Iron-air 20%,PHES excluded
-521,1,Iron-air 20%,PHES excluded
-521,2,Iron-air 20%,PHES excluded
-521,3,Iron-air 20%,PHES excluded
-521,4,Iron-air 20%,PHES excluded
-521,5,Iron-air 20%,PHES excluded
-521,6,Iron-air 20%,PHES excluded
-521,7,Iron-air 20%,PHES excluded
-605,1,Iron-air 20%,PHES excluded
-605,2,Iron-air 20%,PHES excluded
-605,3,Iron-air 20%,PHES excluded
-605,4,Iron-air 20%,PHES excluded
-605,5,Iron-air 20%,PHES excluded
-605,6,Iron-air 20%,PHES excluded
-702,1,Iron-air 20%,PHES excluded
-702,2,Iron-air 20%,PHES excluded
-702,3,Iron-air 20%,PHES excluded
-702,4,Iron-air 20%,PHES excluded
-702,5,Iron-air 20%,PHES excluded
+5,1,Li-ion 30%,PHES excluded
+5,2,Li-ion 30%,PHES excluded
+5,3,Li-ion 30%,PHES excluded
+5,4,Li-ion 30%,PHES excluded
+5,5,Li-ion 30%,PHES excluded
+5,6,Li-ion 30%,PHES excluded
+5,7,Li-ion 30%,PHES excluded
+5,9,Li-ion 30%,PHES excluded
+5,10,Li-ion 30%,PHES excluded
+5,12,Li-ion 30%,PHES excluded
+5,15,Li-ion 30%,PHES excluded
+5,17,Li-ion 30%,PHES excluded
+5,20,Li-ion 30%,PHES excluded
+5,24,Li-ion 30%,PHES excluded
+5,29,Li-ion 30%,PHES excluded
+5,34,Li-ion 30%,PHES excluded
+5,40,Li-ion 30%,PHES excluded
+5,47,Li-ion 30%,PHES excluded
+5,56,Li-ion 30%,PHES excluded
+5,66,Li-ion 30%,PHES excluded
+5,78,Li-ion 30%,PHES excluded
+5,93,Li-ion 30%,PHES excluded
+5,109,Li-ion 30%,PHES excluded
+5,129,Li-ion 30%,PHES excluded
+5,153,Li-ion 30%,PHES excluded
+5,181,Li-ion 30%,PHES excluded
+5,214,Li-ion 30%,PHES excluded
+5,253,Li-ion 30%,PHES excluded
+5,299,Li-ion 30%,PHES excluded
+5,354,Li-ion 30%,PHES excluded
+5,418,Li-ion 30%,PHES excluded
+5,495,Li-ion 30%,PHES excluded
+5,585,Li-ion 20%,PHES excluded
+5,692,Li-ion 20%,PHES excluded
+5,818,Li-ion 20%,PHES excluded
+6,1,Li-ion 20%,PHES excluded
+6,2,Li-ion 20%,PHES excluded
+6,3,Li-ion 20%,PHES excluded
+6,4,Li-ion 20%,PHES excluded
+6,5,Li-ion 20%,PHES excluded
+6,6,Li-ion 20%,PHES excluded
+6,7,Li-ion 20%,PHES excluded
+6,9,Li-ion 20%,PHES excluded
+6,10,Li-ion 20%,PHES excluded
+6,12,Li-ion 20%,PHES excluded
+6,15,Li-ion 20%,PHES excluded
+6,17,Li-ion 20%,PHES excluded
+6,20,Li-ion 20%,PHES excluded
+6,24,Li-ion 20%,PHES excluded
+6,29,Li-ion 20%,PHES excluded
+6,34,Li-ion 20%,PHES excluded
+6,40,Li-ion 20%,PHES excluded
+6,47,Li-ion 20%,PHES excluded
+6,56,Li-ion 20%,PHES excluded
+6,66,Li-ion 20%,PHES excluded
+6,78,Li-ion 20%,PHES excluded
+6,93,Li-ion 20%,PHES excluded
+6,109,Li-ion 20%,PHES excluded
+6,129,Li-ion 20%,PHES excluded
+6,153,Li-ion 20%,PHES excluded
+6,181,Li-ion 20%,PHES excluded
+6,214,Li-ion 20%,PHES excluded
+6,253,Li-ion 20%,PHES excluded
+6,299,Li-ion 20%,PHES excluded
+6,354,Li-ion 20%,PHES excluded
+6,418,Li-ion 30%,PHES excluded
+6,495,Li-ion 20%,PHES excluded
+6,585,Li-ion 20%,PHES excluded
+6,692,Li-ion 10%,PHES excluded
+7,1,Li-ion 20%,PHES excluded
+7,2,Li-ion 20%,PHES excluded
+7,3,Li-ion 20%,PHES excluded
+7,4,Li-ion 20%,PHES excluded
+7,5,Li-ion 20%,PHES excluded
+7,6,Li-ion 20%,PHES excluded
+7,7,Li-ion 20%,PHES excluded
+7,9,Li-ion 20%,PHES excluded
+7,10,Li-ion 20%,PHES excluded
+7,12,Li-ion 20%,PHES excluded
+7,15,Li-ion 20%,PHES excluded
+7,17,Li-ion 20%,PHES excluded
+7,20,Li-ion 20%,PHES excluded
+7,24,Li-ion 20%,PHES excluded
+7,29,Li-ion 20%,PHES excluded
+7,34,Li-ion 20%,PHES excluded
+7,40,Li-ion 20%,PHES excluded
+7,47,Li-ion 20%,PHES excluded
+7,56,Li-ion 20%,PHES excluded
+7,66,Li-ion 20%,PHES excluded
+7,78,Li-ion 20%,PHES excluded
+7,93,Li-ion 20%,PHES excluded
+7,109,Li-ion 20%,PHES excluded
+7,129,Li-ion 20%,PHES excluded
+7,153,Li-ion 20%,PHES excluded
+7,181,Li-ion 20%,PHES excluded
+7,214,Li-ion 20%,PHES excluded
+7,253,Li-ion 20%,PHES excluded
+7,299,Li-ion 20%,PHES excluded
+7,354,Li-ion 20%,PHES excluded
+7,418,Li-ion 20%,PHES excluded
+7,495,Li-ion 20%,PHES excluded
+7,585,Li-ion 10%,PHES excluded
+8,1,Li-ion 10%,PHES excluded
+8,2,Li-ion 10%,PHES excluded
+8,3,Li-ion 10%,PHES excluded
+8,4,Li-ion 10%,PHES excluded
+8,5,Li-ion 10%,PHES excluded
+8,6,Li-ion 10%,PHES excluded
+8,7,Li-ion 10%,PHES excluded
+8,9,Li-ion 10%,PHES excluded
+8,10,Li-ion 10%,PHES excluded
+8,12,Li-ion 10%,PHES excluded
+8,15,Li-ion 10%,PHES excluded
+8,17,Li-ion 10%,PHES excluded
+8,20,Li-ion 10%,PHES excluded
+8,24,Li-ion 10%,PHES excluded
+8,29,Li-ion 10%,PHES excluded
+8,34,Li-ion 10%,PHES excluded
+8,40,Li-ion 10%,PHES excluded
+8,47,Li-ion 10%,PHES excluded
+8,56,Li-ion 10%,PHES excluded
+8,66,Li-ion 10%,PHES excluded
+8,78,Li-ion 10%,PHES excluded
+8,93,Li-ion 10%,PHES excluded
+8,109,Li-ion 10%,PHES excluded
+8,129,Li-ion 10%,PHES excluded
+8,153,Li-ion 10%,PHES excluded
+8,181,Li-ion 10%,PHES excluded
+8,214,Li-ion 10%,PHES excluded
+8,253,Li-ion 10%,PHES excluded
+8,299,Li-ion 10%,PHES excluded
+8,354,Li-ion 10%,PHES excluded
+8,418,Li-ion 10%,PHES excluded
+8,495,Li-ion 10%,PHES excluded
+9,1,Li-ion 5%,PHES excluded
+9,2,Li-ion 5%,PHES excluded
+9,3,Li-ion 5%,PHES excluded
+9,4,Li-ion 5%,PHES excluded
+9,5,Li-ion 5%,PHES excluded
+9,6,Li-ion 5%,PHES excluded
+9,7,Li-ion 5%,PHES excluded
+9,9,Li-ion 5%,PHES excluded
+9,10,Li-ion 5%,PHES excluded
+9,12,Li-ion 5%,PHES excluded
+9,15,Li-ion 5%,PHES excluded
+9,17,Li-ion 5%,PHES excluded
+9,20,Li-ion 5%,PHES excluded
+9,24,Li-ion 5%,PHES excluded
+9,29,Li-ion 5%,PHES excluded
+9,34,Li-ion 5%,PHES excluded
+9,40,Li-ion 5%,PHES excluded
+9,47,Li-ion 5%,PHES excluded
+9,56,Li-ion 5%,PHES excluded
+9,66,Li-ion 5%,PHES excluded
+9,78,Li-ion 5%,PHES excluded
+9,93,Li-ion 5%,PHES excluded
+9,109,Li-ion 5%,PHES excluded
+9,129,Li-ion 5%,PHES excluded
+9,153,Li-ion 5%,PHES excluded
+9,181,Li-ion 5%,PHES excluded
+9,214,Li-ion 5%,PHES excluded
+9,253,Li-ion 5%,PHES excluded
+9,299,Li-ion 5%,PHES excluded
+9,354,Li-ion 10%,PHES excluded
+9,418,Li-ion 10%,PHES excluded
+11,1,Li-ion 5%,PHES excluded
+11,2,Li-ion 5%,PHES excluded
+11,3,Li-ion 5%,PHES excluded
+11,4,Li-ion 5%,PHES excluded
+11,5,Li-ion 5%,PHES excluded
+11,6,Li-ion 5%,PHES excluded
+11,7,Li-ion 5%,PHES excluded
+11,9,Li-ion 5%,PHES excluded
+11,10,Li-ion 5%,PHES excluded
+11,12,Li-ion 5%,PHES excluded
+11,15,Li-ion 5%,PHES excluded
+11,17,Li-ion 5%,PHES excluded
+11,20,Li-ion 5%,PHES excluded
+11,24,Li-ion 5%,PHES excluded
+11,29,Li-ion 5%,PHES excluded
+11,34,Li-ion 5%,PHES excluded
+11,40,Li-ion 5%,PHES excluded
+11,47,Li-ion 5%,PHES excluded
+11,56,Li-ion 5%,PHES excluded
+11,66,Li-ion 5%,PHES excluded
+11,78,Li-ion 5%,PHES excluded
+11,93,Li-ion 5%,PHES excluded
+11,109,Li-ion 5%,PHES excluded
+11,129,Li-ion 5%,PHES excluded
+11,153,Li-ion 5%,PHES excluded
+11,181,Li-ion 5%,PHES excluded
+11,214,Li-ion 5%,PHES excluded
+11,253,Li-ion 5%,PHES excluded
+11,299,Li-ion 5%,PHES excluded
+11,354,Li-ion 5%,PHES excluded
+13,1,on par,PHES excluded
+13,2,on par,PHES excluded
+13,3,on par,PHES excluded
+13,4,on par,PHES excluded
+13,5,on par,PHES excluded
+13,6,on par,PHES excluded
+13,7,on par,PHES excluded
+13,9,on par,PHES excluded
+13,10,on par,PHES excluded
+13,12,on par,PHES excluded
+13,15,on par,PHES excluded
+13,17,on par,PHES excluded
+13,20,on par,PHES excluded
+13,24,on par,PHES excluded
+13,29,on par,PHES excluded
+13,34,on par,PHES excluded
+13,40,on par,PHES excluded
+13,47,on par,PHES excluded
+13,56,on par,PHES excluded
+13,66,on par,PHES excluded
+13,78,on par,PHES excluded
+13,93,on par,PHES excluded
+13,109,on par,PHES excluded
+13,129,on par,PHES excluded
+13,153,on par,PHES excluded
+13,181,on par,PHES excluded
+13,214,on par,PHES excluded
+13,253,on par,PHES excluded
+13,299,on par,PHES excluded
+15,1,LAES < 5%,PHES excluded
+15,2,LAES < 5%,PHES excluded
+15,3,LAES < 5%,PHES excluded
+15,4,LAES < 5%,PHES excluded
+15,5,LAES < 5%,PHES excluded
+15,6,LAES < 5%,PHES excluded
+15,7,LAES < 5%,PHES excluded
+15,9,LAES < 5%,PHES excluded
+15,10,LAES < 5%,PHES excluded
+15,12,LAES < 5%,PHES excluded
+15,15,LAES < 5%,PHES excluded
+15,17,LAES < 5%,PHES excluded
+15,20,LAES < 5%,PHES excluded
+15,24,LAES < 5%,PHES excluded
+15,29,LAES < 5%,PHES excluded
+15,34,LAES < 5%,PHES excluded
+15,40,LAES < 5%,PHES excluded
+15,47,LAES < 5%,PHES excluded
+15,56,LAES < 5%,PHES excluded
+15,66,LAES < 5%,PHES excluded
+15,78,LAES < 5%,PHES excluded
+15,93,LAES < 5%,PHES excluded
+15,109,LAES < 5%,PHES excluded
+15,129,LAES < 5%,PHES excluded
+15,153,LAES < 5%,PHES excluded
+15,181,LAES < 5%,PHES excluded
+15,214,LAES < 5%,PHES excluded
+15,253,LAES < 5%,PHES excluded
+17,1,LAES 5%,PHES excluded
+17,2,LAES 5%,PHES excluded
+17,3,LAES 5%,PHES excluded
+17,4,LAES 5%,PHES excluded
+17,5,LAES 5%,PHES excluded
+17,6,LAES 5%,PHES excluded
+17,7,LAES 5%,PHES excluded
+17,9,LAES 5%,PHES excluded
+17,10,LAES 5%,PHES excluded
+17,12,LAES 5%,PHES excluded
+17,15,LAES 5%,PHES excluded
+17,17,LAES 5%,PHES excluded
+17,20,LAES 5%,PHES excluded
+17,24,LAES 5%,PHES excluded
+17,29,LAES 5%,PHES excluded
+17,34,LAES 5%,PHES excluded
+17,40,LAES 5%,PHES excluded
+17,47,LAES 5%,PHES excluded
+17,56,LAES 5%,PHES excluded
+17,66,LAES 5%,PHES excluded
+17,78,LAES 5%,PHES excluded
+17,93,LAES 5%,PHES excluded
+17,109,LAES 5%,PHES excluded
+17,129,LAES 5%,PHES excluded
+17,153,LAES 5%,PHES excluded
+17,181,LAES 5%,PHES excluded
+17,214,LAES 5%,PHES excluded
+17,253,LAES 5%,PHES excluded
+20,1,LAES 10%,PHES excluded
+20,2,LAES 10%,PHES excluded
+20,3,LAES 10%,PHES excluded
+20,4,LAES 10%,PHES excluded
+20,5,LAES 10%,PHES excluded
+20,6,LAES 10%,PHES excluded
+20,7,LAES 10%,PHES excluded
+20,9,LAES 10%,PHES excluded
+20,10,LAES 10%,PHES excluded
+20,12,LAES 10%,PHES excluded
+20,15,LAES 10%,PHES excluded
+20,17,LAES 10%,PHES excluded
+20,20,LAES 10%,PHES excluded
+20,24,LAES 10%,PHES excluded
+20,29,LAES 10%,PHES excluded
+20,34,LAES 10%,PHES excluded
+20,40,LAES 10%,PHES excluded
+20,47,LAES 10%,PHES excluded
+20,56,LAES 10%,PHES excluded
+20,66,LAES 10%,PHES excluded
+20,78,LAES 10%,PHES excluded
+20,93,LAES 10%,PHES excluded
+20,109,LAES 10%,PHES excluded
+20,129,LAES 10%,PHES excluded
+20,153,LAES 10%,PHES excluded
+20,181,LAES 10%,PHES excluded
+20,214,LAES 10%,PHES excluded
+23,1,LAES 10%,PHES excluded
+23,2,LAES 10%,PHES excluded
+23,3,LAES 10%,PHES excluded
+23,4,LAES 10%,PHES excluded
+23,5,LAES 10%,PHES excluded
+23,6,LAES 10%,PHES excluded
+23,7,LAES 10%,PHES excluded
+23,9,LAES 10%,PHES excluded
+23,10,LAES 10%,PHES excluded
+23,12,LAES 10%,PHES excluded
+23,15,LAES 10%,PHES excluded
+23,17,LAES 10%,PHES excluded
+23,20,LAES 10%,PHES excluded
+23,24,LAES 10%,PHES excluded
+23,29,LAES 10%,PHES excluded
+23,34,LAES 10%,PHES excluded
+23,40,LAES 10%,PHES excluded
+23,47,LAES 10%,PHES excluded
+23,56,LAES 10%,PHES excluded
+23,66,LAES 10%,PHES excluded
+23,78,LAES 10%,PHES excluded
+23,93,LAES 10%,PHES excluded
+23,109,LAES 10%,PHES excluded
+23,129,LAES 10%,PHES excluded
+23,153,LAES 10%,PHES excluded
+23,181,LAES 10%,PHES excluded
+26,1,LAES 10%,PHES excluded
+26,2,LAES 10%,PHES excluded
+26,3,LAES 10%,PHES excluded
+26,4,LAES 10%,PHES excluded
+26,5,LAES 10%,PHES excluded
+26,6,LAES 10%,PHES excluded
+26,7,LAES 10%,PHES excluded
+26,9,LAES 10%,PHES excluded
+26,10,LAES 10%,PHES excluded
+26,12,LAES 10%,PHES excluded
+26,15,LAES 10%,PHES excluded
+26,17,LAES 10%,PHES excluded
+26,20,LAES 10%,PHES excluded
+26,24,LAES 10%,PHES excluded
+26,29,LAES 10%,PHES excluded
+26,34,LAES 10%,PHES excluded
+26,40,LAES 10%,PHES excluded
+26,47,LAES 10%,PHES excluded
+26,56,LAES 10%,PHES excluded
+26,66,LAES 10%,PHES excluded
+26,78,LAES 10%,PHES excluded
+26,93,LAES 10%,PHES excluded
+26,109,LAES 10%,PHES excluded
+26,129,LAES 10%,PHES excluded
+26,153,LAES 10%,PHES excluded
+31,1,LAES 10%,PHES excluded
+31,2,LAES 10%,PHES excluded
+31,3,LAES 10%,PHES excluded
+31,4,LAES 10%,PHES excluded
+31,5,LAES 10%,PHES excluded
+31,6,LAES 10%,PHES excluded
+31,7,LAES 10%,PHES excluded
+31,9,LAES 10%,PHES excluded
+31,10,LAES 10%,PHES excluded
+31,12,LAES 10%,PHES excluded
+31,15,LAES 10%,PHES excluded
+31,17,LAES 10%,PHES excluded
+31,20,LAES 10%,PHES excluded
+31,24,LAES 10%,PHES excluded
+31,29,LAES 10%,PHES excluded
+31,34,LAES 10%,PHES excluded
+31,40,LAES 10%,PHES excluded
+31,47,LAES 10%,PHES excluded
+31,56,LAES 10%,PHES excluded
+31,66,LAES 10%,PHES excluded
+31,78,LAES 10%,PHES excluded
+31,93,LAES 10%,PHES excluded
+31,109,LAES 10%,PHES excluded
+31,129,LAES 10%,PHES excluded
+36,1,LAES 20%,PHES excluded
+36,2,LAES 20%,PHES excluded
+36,3,LAES 20%,PHES excluded
+36,4,LAES 20%,PHES excluded
+36,5,LAES 20%,PHES excluded
+36,6,LAES 20%,PHES excluded
+36,7,LAES 20%,PHES excluded
+36,9,LAES 20%,PHES excluded
+36,10,LAES 20%,PHES excluded
+36,12,LAES 20%,PHES excluded
+36,15,LAES 20%,PHES excluded
+36,17,LAES 20%,PHES excluded
+36,20,LAES 20%,PHES excluded
+36,24,LAES 20%,PHES excluded
+36,29,LAES 20%,PHES excluded
+36,34,LAES 20%,PHES excluded
+36,40,LAES 20%,PHES excluded
+36,47,LAES 20%,PHES excluded
+36,56,LAES 20%,PHES excluded
+36,66,LAES 20%,PHES excluded
+36,78,LAES 20%,PHES excluded
+36,93,LAES 20%,PHES excluded
+36,109,LAES 20%,PHES excluded
+41,1,LAES 20%,PHES excluded
+41,2,LAES 20%,PHES excluded
+41,3,LAES 20%,PHES excluded
+41,4,LAES 20%,PHES excluded
+41,5,LAES 20%,PHES excluded
+41,6,LAES 20%,PHES excluded
+41,7,LAES 20%,PHES excluded
+41,9,LAES 20%,PHES excluded
+41,10,LAES 20%,PHES excluded
+41,12,LAES 20%,PHES excluded
+41,15,LAES 20%,PHES excluded
+41,17,LAES 20%,PHES excluded
+41,20,LAES 20%,PHES excluded
+41,24,LAES 20%,PHES excluded
+41,29,LAES 20%,PHES excluded
+41,34,LAES 20%,PHES excluded
+41,40,LAES 20%,PHES excluded
+41,47,LAES 20%,PHES excluded
+41,56,LAES 20%,PHES excluded
+41,66,LAES 20%,PHES excluded
+41,78,LAES 20%,PHES excluded
+41,93,LAES 20%,PHES excluded
+48,1,LAES 20%,PHES excluded
+48,2,LAES 20%,PHES excluded
+48,3,LAES 20%,PHES excluded
+48,4,LAES 20%,PHES excluded
+48,5,LAES 20%,PHES excluded
+48,6,LAES 20%,PHES excluded
+48,7,LAES 20%,PHES excluded
+48,9,LAES 20%,PHES excluded
+48,10,LAES 20%,PHES excluded
+48,12,LAES 20%,PHES excluded
+48,15,LAES 20%,PHES excluded
+48,17,LAES 20%,PHES excluded
+48,20,LAES 20%,PHES excluded
+48,24,LAES 20%,PHES excluded
+48,29,LAES 20%,PHES excluded
+48,34,LAES 20%,PHES excluded
+48,40,LAES 20%,PHES excluded
+48,47,LAES 20%,PHES excluded
+48,56,LAES 20%,PHES excluded
+48,66,LAES 20%,PHES excluded
+48,78,LAES 20%,PHES excluded
+56,1,LAES 20%,PHES excluded
+56,2,LAES 20%,PHES excluded
+56,3,LAES 20%,PHES excluded
+56,4,LAES 20%,PHES excluded
+56,5,LAES 20%,PHES excluded
+56,6,LAES 20%,PHES excluded
+56,7,LAES 20%,PHES excluded
+56,9,LAES 20%,PHES excluded
+56,10,LAES 20%,PHES excluded
+56,12,LAES 20%,PHES excluded
+56,15,LAES 20%,PHES excluded
+56,17,LAES 20%,PHES excluded
+56,20,LAES 20%,PHES excluded
+56,24,LAES 20%,PHES excluded
+56,29,LAES 20%,PHES excluded
+56,34,LAES 20%,PHES excluded
+56,40,LAES 20%,PHES excluded
+56,47,LAES 20%,PHES excluded
+56,56,LAES 20%,PHES excluded
+56,66,LAES 20%,PHES excluded
+56,78,LAES 20%,PHES excluded
+65,1,LAES 20%,PHES excluded
+65,2,LAES 20%,PHES excluded
+65,3,LAES 20%,PHES excluded
+65,4,LAES 20%,PHES excluded
+65,5,LAES 20%,PHES excluded
+65,6,LAES 20%,PHES excluded
+65,7,LAES 20%,PHES excluded
+65,9,LAES 20%,PHES excluded
+65,10,LAES 20%,PHES excluded
+65,12,LAES 20%,PHES excluded
+65,15,LAES 20%,PHES excluded
+65,17,LAES 20%,PHES excluded
+65,20,LAES 20%,PHES excluded
+65,24,LAES 20%,PHES excluded
+65,29,LAES 20%,PHES excluded
+65,34,LAES 20%,PHES excluded
+65,40,LAES 20%,PHES excluded
+65,47,LAES 20%,PHES excluded
+65,56,LAES 20%,PHES excluded
+65,66,LAES 20%,PHES excluded
+75,1,LAES 20%,PHES excluded
+75,2,LAES 20%,PHES excluded
+75,3,LAES 20%,PHES excluded
+75,4,LAES 20%,PHES excluded
+75,5,LAES 20%,PHES excluded
+75,6,LAES 20%,PHES excluded
+75,7,LAES 20%,PHES excluded
+75,9,LAES 20%,PHES excluded
+75,10,LAES 20%,PHES excluded
+75,12,LAES 20%,PHES excluded
+75,15,LAES 20%,PHES excluded
+75,17,LAES 20%,PHES excluded
+75,20,LAES 20%,PHES excluded
+75,24,LAES 20%,PHES excluded
+75,29,LAES 20%,PHES excluded
+75,34,LAES 20%,PHES excluded
+75,40,LAES 20%,PHES excluded
+75,47,LAES 20%,PHES excluded
+75,56,LAES 20%,PHES excluded
+87,1,LAES 10%,PHES excluded
+87,2,LAES 10%,PHES excluded
+87,3,LAES 10%,PHES excluded
+87,4,LAES 10%,PHES excluded
+87,5,LAES 10%,PHES excluded
+87,6,LAES 10%,PHES excluded
+87,7,LAES 10%,PHES excluded
+87,9,LAES 10%,PHES excluded
+87,10,LAES 10%,PHES excluded
+87,12,LAES 10%,PHES excluded
+87,15,LAES 10%,PHES excluded
+87,17,LAES 10%,PHES excluded
+87,20,LAES 10%,PHES excluded
+87,24,LAES 10%,PHES excluded
+87,29,LAES 10%,PHES excluded
+87,34,LAES 10%,PHES excluded
+87,40,LAES 10%,PHES excluded
+87,47,LAES 10%,PHES excluded
+101,1,LAES 10%,PHES excluded
+101,2,LAES 10%,PHES excluded
+101,3,LAES 10%,PHES excluded
+101,4,LAES 10%,PHES excluded
+101,5,LAES 10%,PHES excluded
+101,6,LAES 10%,PHES excluded
+101,7,LAES 10%,PHES excluded
+101,9,LAES 10%,PHES excluded
+101,10,LAES 10%,PHES excluded
+101,12,LAES 10%,PHES excluded
+101,15,LAES 10%,PHES excluded
+101,17,LAES 10%,PHES excluded
+101,20,LAES 10%,PHES excluded
+101,24,LAES 10%,PHES excluded
+101,29,LAES 10%,PHES excluded
+101,34,LAES 10%,PHES excluded
+101,40,LAES 10%,PHES excluded
+118,1,LAES 10%,PHES excluded
+118,2,LAES 10%,PHES excluded
+118,3,LAES 10%,PHES excluded
+118,4,LAES 10%,PHES excluded
+118,5,LAES 10%,PHES excluded
+118,6,LAES 10%,PHES excluded
+118,7,LAES 10%,PHES excluded
+118,9,LAES 10%,PHES excluded
+118,10,LAES 10%,PHES excluded
+118,12,LAES 10%,PHES excluded
+118,15,LAES 10%,PHES excluded
+118,17,LAES 10%,PHES excluded
+118,20,LAES 10%,PHES excluded
+118,24,LAES 10%,PHES excluded
+118,29,LAES 10%,PHES excluded
+118,34,LAES 10%,PHES excluded
+136,1,LAES 5%,PHES excluded
+136,2,LAES 5%,PHES excluded
+136,3,LAES 5%,PHES excluded
+136,4,LAES 5%,PHES excluded
+136,5,LAES 5%,PHES excluded
+136,6,LAES 5%,PHES excluded
+136,7,LAES 5%,PHES excluded
+136,9,LAES 5%,PHES excluded
+136,10,LAES 5%,PHES excluded
+136,12,LAES 5%,PHES excluded
+136,15,LAES 5%,PHES excluded
+136,17,LAES 5%,PHES excluded
+136,20,LAES 5%,PHES excluded
+136,24,LAES 5%,PHES excluded
+136,29,LAES 5%,PHES excluded
+158,1,LAES < 5%,PHES excluded
+158,2,LAES < 5%,PHES excluded
+158,3,LAES < 5%,PHES excluded
+158,4,LAES < 5%,PHES excluded
+158,5,LAES < 5%,PHES excluded
+158,6,LAES < 5%,PHES excluded
+158,7,LAES < 5%,PHES excluded
+158,9,LAES < 5%,PHES excluded
+158,10,LAES < 5%,PHES excluded
+158,12,LAES < 5%,PHES excluded
+158,15,LAES < 5%,PHES excluded
+158,17,LAES < 5%,PHES excluded
+158,20,LAES < 5%,PHES excluded
+158,24,LAES < 5%,PHES excluded
+184,1,LAES < 5%,PHES excluded
+184,2,LAES < 5%,PHES excluded
+184,3,LAES < 5%,PHES excluded
+184,4,LAES < 5%,PHES excluded
+184,5,LAES < 5%,PHES excluded
+184,6,LAES < 5%,PHES excluded
+184,7,LAES < 5%,PHES excluded
+184,9,LAES < 5%,PHES excluded
+184,10,LAES < 5%,PHES excluded
+184,12,LAES < 5%,PHES excluded
+184,15,LAES < 5%,PHES excluded
+184,17,LAES < 5%,PHES excluded
+184,20,LAES < 5%,PHES excluded
+213,1,on par,PHES excluded
+213,2,on par,PHES excluded
+213,3,on par,PHES excluded
+213,4,on par,PHES excluded
+213,5,on par,PHES excluded
+213,6,on par,PHES excluded
+213,7,on par,PHES excluded
+213,9,on par,PHES excluded
+213,10,on par,PHES excluded
+213,12,on par,PHES excluded
+213,15,on par,PHES excluded
+213,17,on par,PHES excluded
+213,20,on par,PHES excluded
+247,1,Iron-air < 5%,PHES excluded
+247,2,Iron-air < 5%,PHES excluded
+247,3,Iron-air < 5%,PHES excluded
+247,4,Iron-air < 5%,PHES excluded
+247,5,Iron-air < 5%,PHES excluded
+247,6,Iron-air < 5%,PHES excluded
+247,7,Iron-air < 5%,PHES excluded
+247,9,Iron-air < 5%,PHES excluded
+247,10,Iron-air < 5%,PHES excluded
+247,12,Iron-air < 5%,PHES excluded
+247,15,Iron-air < 5%,PHES excluded
+247,17,Iron-air < 5%,PHES excluded
+287,1,Iron-air < 5%,PHES excluded
+287,2,Iron-air < 5%,PHES excluded
+287,3,Iron-air < 5%,PHES excluded
+287,4,Iron-air < 5%,PHES excluded
+287,5,Iron-air < 5%,PHES excluded
+287,6,Iron-air < 5%,PHES excluded
+287,7,Iron-air < 5%,PHES excluded
+287,9,Iron-air < 5%,PHES excluded
+287,10,Iron-air < 5%,PHES excluded
+287,12,Iron-air < 5%,PHES excluded
+287,15,Iron-air < 5%,PHES excluded
+333,1,Iron-air 5%,PHES excluded
+333,2,Iron-air 5%,PHES excluded
+333,3,Iron-air 5%,PHES excluded
+333,4,Iron-air 5%,PHES excluded
+333,5,Iron-air 5%,PHES excluded
+333,6,Iron-air 5%,PHES excluded
+333,7,Iron-air 5%,PHES excluded
+333,9,Iron-air 5%,PHES excluded
+333,10,Iron-air 5%,PHES excluded
+333,12,Iron-air 5%,PHES excluded
+387,1,Iron-air 5%,PHES excluded
+387,2,Iron-air 5%,PHES excluded
+387,3,Iron-air 5%,PHES excluded
+387,4,Iron-air 5%,PHES excluded
+387,5,Iron-air 5%,PHES excluded
+387,6,Iron-air 5%,PHES excluded
+387,7,Iron-air 5%,PHES excluded
+387,9,Iron-air 5%,PHES excluded
+387,10,Iron-air 5%,PHES excluded
+449,1,Iron-air 5%,PHES excluded
+449,2,Iron-air 5%,PHES excluded
+449,3,Iron-air 5%,PHES excluded
+449,4,Iron-air 5%,PHES excluded
+449,5,Iron-air 5%,PHES excluded
+449,6,Iron-air 5%,PHES excluded
+449,7,Iron-air 5%,PHES excluded
+449,9,Iron-air 5%,PHES excluded
+521,1,Iron-air 5%,PHES excluded
+521,2,Iron-air 5%,PHES excluded
+521,3,Iron-air 5%,PHES excluded
+521,4,Iron-air 5%,PHES excluded
+521,5,Iron-air 5%,PHES excluded
+521,6,Iron-air 5%,PHES excluded
+521,7,Iron-air 5%,PHES excluded
+605,1,Iron-air 10%,PHES excluded
+605,2,Iron-air 10%,PHES excluded
+605,3,Iron-air 10%,PHES excluded
+605,4,Iron-air 10%,PHES excluded
+605,5,Iron-air 10%,PHES excluded
+605,6,Iron-air 10%,PHES excluded
+702,1,Iron-air 10%,PHES excluded
+702,2,Iron-air 10%,PHES excluded
+702,3,Iron-air 10%,PHES excluded
+702,4,Iron-air 10%,PHES excluded
+702,5,Iron-air 10%,PHES excluded
 1,1,Li-ion 40%+,PHES included
 1,2,Li-ion 40%+,PHES included
 1,3,Li-ion 40%+,PHES included
@@ -982,478 +982,478 @@ Discharge duration (h),Cycles per year,Category,Filter
 4,418,Li-ion 40%+,PHES included
 4,495,Li-ion 40%+,PHES included
 4,585,Li-ion 40%+,PHES included
-4,692,Li-ion 40%+,PHES included
-4,818,Li-ion 40%+,PHES included
+4,692,Li-ion 30%,PHES included
+4,818,Li-ion 30%,PHES included
 4,968,Li-ion 30%,PHES included
-5,1,Li-ion 40%+,PHES included
-5,2,Li-ion 40%+,PHES included
-5,3,Li-ion 40%+,PHES included
-5,4,Li-ion 40%+,PHES included
-5,5,Li-ion 40%+,PHES included
-5,6,Li-ion 40%+,PHES included
-5,7,Li-ion 40%+,PHES included
-5,9,Li-ion 40%+,PHES included
-5,10,Li-ion 40%+,PHES included
-5,12,Li-ion 40%+,PHES included
-5,15,Li-ion 40%+,PHES included
-5,17,Li-ion 40%+,PHES included
-5,20,Li-ion 40%+,PHES included
-5,24,Li-ion 40%+,PHES included
-5,29,Li-ion 40%+,PHES included
-5,34,Li-ion 40%+,PHES included
-5,40,Li-ion 40%+,PHES included
-5,47,Li-ion 40%+,PHES included
-5,56,Li-ion 40%+,PHES included
-5,66,Li-ion 40%+,PHES included
-5,78,Li-ion 40%+,PHES included
-5,93,Li-ion 40%+,PHES included
-5,109,Li-ion 40%+,PHES included
-5,129,Li-ion 40%+,PHES included
-5,153,Li-ion 40%+,PHES included
-5,181,Li-ion 40%+,PHES included
-5,214,Li-ion 40%+,PHES included
-5,253,Li-ion 40%+,PHES included
-5,299,Li-ion 40%+,PHES included
-5,354,Li-ion 40%+,PHES included
-5,418,Li-ion 40%+,PHES included
-5,495,Li-ion 40%+,PHES included
-5,585,Li-ion 40%+,PHES included
-5,692,Li-ion 40%+,PHES included
-5,818,Li-ion 30%,PHES included
-6,1,Li-ion 40%+,PHES included
-6,2,Li-ion 40%+,PHES included
-6,3,Li-ion 40%+,PHES included
-6,4,Li-ion 40%+,PHES included
-6,5,Li-ion 40%+,PHES included
-6,6,Li-ion 40%+,PHES included
-6,7,Li-ion 40%+,PHES included
-6,9,Li-ion 40%+,PHES included
-6,10,Li-ion 40%+,PHES included
-6,12,Li-ion 40%+,PHES included
-6,15,Li-ion 40%+,PHES included
-6,17,Li-ion 40%+,PHES included
-6,20,Li-ion 40%+,PHES included
-6,24,Li-ion 40%+,PHES included
-6,29,Li-ion 40%+,PHES included
-6,34,Li-ion 40%+,PHES included
-6,40,Li-ion 40%+,PHES included
-6,47,Li-ion 40%+,PHES included
-6,56,Li-ion 40%+,PHES included
-6,66,Li-ion 40%+,PHES included
-6,78,Li-ion 40%+,PHES included
-6,93,Li-ion 40%+,PHES included
-6,109,Li-ion 40%+,PHES included
-6,129,Li-ion 40%+,PHES included
-6,153,Li-ion 40%+,PHES included
-6,181,Li-ion 40%+,PHES included
-6,214,Li-ion 40%+,PHES included
-6,253,Li-ion 40%+,PHES included
-6,299,Li-ion 40%+,PHES included
-6,354,Li-ion 40%+,PHES included
-6,418,Li-ion 40%+,PHES included
-6,495,Li-ion 40%+,PHES included
-6,585,Li-ion 40%+,PHES included
-6,692,Li-ion 30%,PHES included
-7,1,Li-ion 40%+,PHES included
-7,2,Li-ion 40%+,PHES included
-7,3,Li-ion 40%+,PHES included
-7,4,Li-ion 40%+,PHES included
-7,5,Li-ion 40%+,PHES included
-7,6,Li-ion 40%+,PHES included
-7,7,Li-ion 40%+,PHES included
-7,9,Li-ion 40%+,PHES included
-7,10,Li-ion 40%+,PHES included
-7,12,Li-ion 40%+,PHES included
-7,15,Li-ion 40%+,PHES included
-7,17,Li-ion 40%+,PHES included
-7,20,Li-ion 40%+,PHES included
-7,24,Li-ion 40%+,PHES included
-7,29,Li-ion 40%+,PHES included
-7,34,Li-ion 40%+,PHES included
-7,40,Li-ion 40%+,PHES included
-7,47,Li-ion 40%+,PHES included
-7,56,Li-ion 40%+,PHES included
-7,66,Li-ion 40%+,PHES included
-7,78,Li-ion 40%+,PHES included
-7,93,Li-ion 40%+,PHES included
-7,109,Li-ion 40%+,PHES included
-7,129,Li-ion 40%+,PHES included
-7,153,Li-ion 40%+,PHES included
-7,181,Li-ion 40%+,PHES included
-7,214,Li-ion 40%+,PHES included
-7,253,Li-ion 40%+,PHES included
-7,299,Li-ion 40%+,PHES included
-7,354,Li-ion 40%+,PHES included
-7,418,Li-ion 40%+,PHES included
-7,495,Li-ion 40%+,PHES included
-7,585,Li-ion 40%+,PHES included
-8,1,Li-ion 40%+,PHES included
-8,2,Li-ion 40%+,PHES included
-8,3,Li-ion 40%+,PHES included
-8,4,Li-ion 40%+,PHES included
-8,5,Li-ion 40%+,PHES included
-8,6,Li-ion 40%+,PHES included
-8,7,Li-ion 40%+,PHES included
-8,9,Li-ion 40%+,PHES included
-8,10,Li-ion 40%+,PHES included
-8,12,Li-ion 40%+,PHES included
-8,15,Li-ion 40%+,PHES included
-8,17,Li-ion 40%+,PHES included
-8,20,Li-ion 40%+,PHES included
-8,24,Li-ion 40%+,PHES included
-8,29,Li-ion 40%+,PHES included
-8,34,Li-ion 40%+,PHES included
-8,40,Li-ion 40%+,PHES included
-8,47,Li-ion 40%+,PHES included
-8,56,Li-ion 40%+,PHES included
-8,66,Li-ion 40%+,PHES included
-8,78,Li-ion 40%+,PHES included
-8,93,Li-ion 40%+,PHES included
-8,109,Li-ion 40%+,PHES included
-8,129,Li-ion 40%+,PHES included
-8,153,Li-ion 40%+,PHES included
-8,181,Li-ion 40%+,PHES included
-8,214,Li-ion 40%+,PHES included
-8,253,Li-ion 40%+,PHES included
-8,299,Li-ion 40%+,PHES included
-8,354,Li-ion 40%+,PHES included
-8,418,Li-ion 40%+,PHES included
-8,495,Li-ion 40%+,PHES included
-9,1,Li-ion 40%+,PHES included
-9,2,Li-ion 40%+,PHES included
-9,3,Li-ion 40%+,PHES included
-9,4,Li-ion 40%+,PHES included
-9,5,Li-ion 40%+,PHES included
-9,6,Li-ion 40%+,PHES included
-9,7,Li-ion 40%+,PHES included
-9,9,Li-ion 40%+,PHES included
-9,10,Li-ion 40%+,PHES included
-9,12,Li-ion 40%+,PHES included
-9,15,Li-ion 40%+,PHES included
-9,17,Li-ion 40%+,PHES included
-9,20,Li-ion 40%+,PHES included
-9,24,Li-ion 40%+,PHES included
-9,29,Li-ion 40%+,PHES included
-9,34,Li-ion 40%+,PHES included
-9,40,Li-ion 40%+,PHES included
-9,47,Li-ion 40%+,PHES included
-9,56,Li-ion 40%+,PHES included
-9,66,Li-ion 40%+,PHES included
-9,78,Li-ion 40%+,PHES included
-9,93,Li-ion 40%+,PHES included
-9,109,Li-ion 40%+,PHES included
-9,129,Li-ion 40%+,PHES included
-9,153,Li-ion 40%+,PHES included
-9,181,Li-ion 40%+,PHES included
-9,214,Li-ion 40%+,PHES included
-9,253,Li-ion 40%+,PHES included
-9,299,Li-ion 40%+,PHES included
-9,354,Li-ion 40%+,PHES included
-9,418,Li-ion 40%+,PHES included
-11,1,Li-ion 30%,PHES included
-11,2,Li-ion 30%,PHES included
-11,3,Li-ion 30%,PHES included
-11,4,Li-ion 30%,PHES included
-11,5,Li-ion 30%,PHES included
-11,6,Li-ion 30%,PHES included
-11,7,Li-ion 30%,PHES included
-11,9,Li-ion 30%,PHES included
-11,10,Li-ion 30%,PHES included
-11,12,Li-ion 30%,PHES included
-11,15,Li-ion 30%,PHES included
-11,17,Li-ion 30%,PHES included
-11,20,Li-ion 30%,PHES included
-11,24,Li-ion 30%,PHES included
-11,29,Li-ion 30%,PHES included
-11,34,Li-ion 30%,PHES included
-11,40,Li-ion 30%,PHES included
-11,47,Li-ion 30%,PHES included
-11,56,Li-ion 30%,PHES included
-11,66,Li-ion 30%,PHES included
-11,78,Li-ion 30%,PHES included
-11,93,Li-ion 30%,PHES included
-11,109,Li-ion 30%,PHES included
-11,129,Li-ion 30%,PHES included
-11,153,Li-ion 30%,PHES included
-11,181,Li-ion 30%,PHES included
-11,214,Li-ion 30%,PHES included
-11,253,Li-ion 30%,PHES included
-11,299,Li-ion 30%,PHES included
-11,354,Li-ion 30%,PHES included
-13,1,Li-ion 20%,PHES included
-13,2,Li-ion 20%,PHES included
-13,3,Li-ion 20%,PHES included
-13,4,Li-ion 20%,PHES included
-13,5,Li-ion 20%,PHES included
-13,6,Li-ion 20%,PHES included
-13,7,Li-ion 20%,PHES included
-13,9,Li-ion 20%,PHES included
-13,10,Li-ion 20%,PHES included
-13,12,Li-ion 20%,PHES included
-13,15,Li-ion 20%,PHES included
-13,17,Li-ion 20%,PHES included
-13,20,Li-ion 20%,PHES included
-13,24,Li-ion 20%,PHES included
-13,29,Li-ion 20%,PHES included
-13,34,Li-ion 20%,PHES included
-13,40,Li-ion 20%,PHES included
-13,47,Li-ion 20%,PHES included
-13,56,Li-ion 20%,PHES included
-13,66,Li-ion 20%,PHES included
-13,78,Li-ion 20%,PHES included
-13,93,Li-ion 20%,PHES included
-13,109,Li-ion 20%,PHES included
-13,129,Li-ion 20%,PHES included
-13,153,Li-ion 20%,PHES included
-13,181,Li-ion 20%,PHES included
-13,214,Li-ion 20%,PHES included
-13,253,Li-ion 20%,PHES included
-13,299,Li-ion 20%,PHES included
-15,1,Li-ion 10%,PHES included
-15,2,Li-ion 10%,PHES included
-15,3,Li-ion 10%,PHES included
-15,4,Li-ion 10%,PHES included
-15,5,Li-ion 10%,PHES included
-15,6,Li-ion 10%,PHES included
-15,7,Li-ion 10%,PHES included
-15,9,Li-ion 10%,PHES included
-15,10,Li-ion 10%,PHES included
-15,12,Li-ion 10%,PHES included
-15,15,Li-ion 10%,PHES included
-15,17,Li-ion 10%,PHES included
-15,20,Li-ion 10%,PHES included
-15,24,Li-ion 10%,PHES included
-15,29,Li-ion 10%,PHES included
-15,34,Li-ion 10%,PHES included
-15,40,Li-ion 10%,PHES included
-15,47,Li-ion 10%,PHES included
-15,56,Li-ion 10%,PHES included
-15,66,Li-ion 10%,PHES included
-15,78,Li-ion 10%,PHES included
-15,93,Li-ion 10%,PHES included
-15,109,Li-ion 10%,PHES included
-15,129,Li-ion 10%,PHES included
-15,153,Li-ion 10%,PHES included
-15,181,Li-ion 10%,PHES included
-15,214,Li-ion 10%,PHES included
-15,253,Li-ion 10%,PHES included
-17,1,Li-ion < 5%,PHES included
-17,2,Li-ion < 5%,PHES included
-17,3,Li-ion < 5%,PHES included
-17,4,Li-ion < 5%,PHES included
-17,5,Li-ion < 5%,PHES included
-17,6,Li-ion < 5%,PHES included
-17,7,Li-ion < 5%,PHES included
-17,9,Li-ion < 5%,PHES included
-17,10,Li-ion < 5%,PHES included
-17,12,Li-ion < 5%,PHES included
-17,15,Li-ion < 5%,PHES included
-17,17,Li-ion < 5%,PHES included
-17,20,Li-ion < 5%,PHES included
-17,24,Li-ion < 5%,PHES included
-17,29,Li-ion < 5%,PHES included
-17,34,Li-ion < 5%,PHES included
-17,40,Li-ion < 5%,PHES included
-17,47,Li-ion < 5%,PHES included
-17,56,Li-ion < 5%,PHES included
-17,66,Li-ion < 5%,PHES included
-17,78,Li-ion < 5%,PHES included
-17,93,Li-ion < 5%,PHES included
-17,109,Li-ion < 5%,PHES included
-17,129,Li-ion < 5%,PHES included
-17,153,Li-ion < 5%,PHES included
-17,181,Li-ion < 5%,PHES included
-17,214,Li-ion < 5%,PHES included
-17,253,Li-ion < 5%,PHES included
-20,1,Pumped hydro 5%,PHES included
-20,2,Pumped hydro 5%,PHES included
-20,3,Pumped hydro 5%,PHES included
-20,4,Pumped hydro 5%,PHES included
-20,5,Pumped hydro 5%,PHES included
-20,6,Pumped hydro 5%,PHES included
-20,7,Pumped hydro 5%,PHES included
-20,9,Pumped hydro 5%,PHES included
-20,10,Pumped hydro 5%,PHES included
-20,12,Pumped hydro 5%,PHES included
-20,15,Pumped hydro 5%,PHES included
-20,17,Pumped hydro 5%,PHES included
-20,20,Pumped hydro 5%,PHES included
-20,24,Pumped hydro 5%,PHES included
-20,29,Pumped hydro 5%,PHES included
-20,34,Pumped hydro 5%,PHES included
-20,40,Pumped hydro 5%,PHES included
-20,47,Pumped hydro 5%,PHES included
-20,56,Pumped hydro 5%,PHES included
-20,66,Pumped hydro 5%,PHES included
-20,78,Pumped hydro 5%,PHES included
-20,93,Pumped hydro 5%,PHES included
-20,109,Pumped hydro 5%,PHES included
-20,129,Pumped hydro 5%,PHES included
-20,153,Pumped hydro 5%,PHES included
-20,181,Pumped hydro 5%,PHES included
-20,214,Pumped hydro 5%,PHES included
-23,1,Pumped hydro 10%,PHES included
-23,2,Pumped hydro 10%,PHES included
-23,3,Pumped hydro 10%,PHES included
-23,4,Pumped hydro 10%,PHES included
-23,5,Pumped hydro 10%,PHES included
-23,6,Pumped hydro 10%,PHES included
-23,7,Pumped hydro 10%,PHES included
-23,9,Pumped hydro 10%,PHES included
-23,10,Pumped hydro 10%,PHES included
-23,12,Pumped hydro 10%,PHES included
-23,15,Pumped hydro 10%,PHES included
-23,17,Pumped hydro 10%,PHES included
-23,20,Pumped hydro 10%,PHES included
-23,24,Pumped hydro 10%,PHES included
-23,29,Pumped hydro 10%,PHES included
-23,34,Pumped hydro 10%,PHES included
-23,40,Pumped hydro 10%,PHES included
-23,47,Pumped hydro 10%,PHES included
-23,56,Pumped hydro 10%,PHES included
-23,66,Pumped hydro 10%,PHES included
-23,78,Pumped hydro 10%,PHES included
-23,93,Pumped hydro 10%,PHES included
-23,109,Pumped hydro 10%,PHES included
-23,129,Pumped hydro 10%,PHES included
-23,153,Pumped hydro 10%,PHES included
-23,181,Pumped hydro 10%,PHES included
-26,1,Pumped hydro 20%,PHES included
-26,2,Pumped hydro 20%,PHES included
-26,3,Pumped hydro 20%,PHES included
-26,4,Pumped hydro 20%,PHES included
-26,5,Pumped hydro 20%,PHES included
-26,6,Pumped hydro 20%,PHES included
-26,7,Pumped hydro 20%,PHES included
-26,9,Pumped hydro 20%,PHES included
-26,10,Pumped hydro 20%,PHES included
-26,12,Pumped hydro 20%,PHES included
-26,15,Pumped hydro 20%,PHES included
-26,17,Pumped hydro 20%,PHES included
-26,20,Pumped hydro 20%,PHES included
-26,24,Pumped hydro 20%,PHES included
-26,29,Pumped hydro 20%,PHES included
-26,34,Pumped hydro 20%,PHES included
-26,40,Pumped hydro 20%,PHES included
-26,47,Pumped hydro 20%,PHES included
-26,56,Pumped hydro 20%,PHES included
-26,66,Pumped hydro 20%,PHES included
-26,78,Pumped hydro 20%,PHES included
-26,93,Pumped hydro 20%,PHES included
-26,109,Pumped hydro 20%,PHES included
-26,129,Pumped hydro 20%,PHES included
-26,153,Pumped hydro 20%,PHES included
-31,1,Pumped hydro 30%,PHES included
-31,2,Pumped hydro 30%,PHES included
-31,3,Pumped hydro 30%,PHES included
-31,4,Pumped hydro 30%,PHES included
-31,5,Pumped hydro 30%,PHES included
-31,6,Pumped hydro 30%,PHES included
-31,7,Pumped hydro 30%,PHES included
-31,9,Pumped hydro 30%,PHES included
-31,10,Pumped hydro 30%,PHES included
-31,12,Pumped hydro 30%,PHES included
-31,15,Pumped hydro 30%,PHES included
-31,17,Pumped hydro 30%,PHES included
-31,20,Pumped hydro 30%,PHES included
-31,24,Pumped hydro 30%,PHES included
-31,29,Pumped hydro 30%,PHES included
-31,34,Pumped hydro 30%,PHES included
-31,40,Pumped hydro 30%,PHES included
-31,47,Pumped hydro 30%,PHES included
-31,56,Pumped hydro 30%,PHES included
-31,66,Pumped hydro 30%,PHES included
-31,78,Pumped hydro 30%,PHES included
-31,93,Pumped hydro 30%,PHES included
-31,109,Pumped hydro 30%,PHES included
-31,129,Pumped hydro 30%,PHES included
-36,1,Pumped hydro 40%+,PHES included
-36,2,Pumped hydro 40%+,PHES included
-36,3,Pumped hydro 40%+,PHES included
-36,4,Pumped hydro 40%+,PHES included
-36,5,Pumped hydro 40%+,PHES included
-36,6,Pumped hydro 40%+,PHES included
-36,7,Pumped hydro 40%+,PHES included
-36,9,Pumped hydro 40%+,PHES included
-36,10,Pumped hydro 40%+,PHES included
-36,12,Pumped hydro 40%+,PHES included
-36,15,Pumped hydro 40%+,PHES included
-36,17,Pumped hydro 40%+,PHES included
-36,20,Pumped hydro 40%+,PHES included
-36,24,Pumped hydro 40%+,PHES included
-36,29,Pumped hydro 40%+,PHES included
-36,34,Pumped hydro 40%+,PHES included
-36,40,Pumped hydro 40%+,PHES included
-36,47,Pumped hydro 40%+,PHES included
-36,56,Pumped hydro 40%+,PHES included
-36,66,Pumped hydro 40%+,PHES included
-36,78,Pumped hydro 40%+,PHES included
-36,93,Pumped hydro 40%+,PHES included
-36,109,Pumped hydro 40%+,PHES included
-41,1,Pumped hydro 40%+,PHES included
-41,2,Pumped hydro 40%+,PHES included
-41,3,Pumped hydro 40%+,PHES included
-41,4,Pumped hydro 40%+,PHES included
-41,5,Pumped hydro 40%+,PHES included
-41,6,Pumped hydro 40%+,PHES included
-41,7,Pumped hydro 40%+,PHES included
-41,9,Pumped hydro 40%+,PHES included
-41,10,Pumped hydro 40%+,PHES included
-41,12,Pumped hydro 40%+,PHES included
-41,15,Pumped hydro 40%+,PHES included
-41,17,Pumped hydro 40%+,PHES included
-41,20,Pumped hydro 40%+,PHES included
-41,24,Pumped hydro 40%+,PHES included
-41,29,Pumped hydro 40%+,PHES included
-41,34,Pumped hydro 40%+,PHES included
-41,40,Pumped hydro 40%+,PHES included
-41,47,Pumped hydro 40%+,PHES included
-41,56,Pumped hydro 40%+,PHES included
-41,66,Pumped hydro 40%+,PHES included
-41,78,Pumped hydro 40%+,PHES included
-41,93,Pumped hydro 40%+,PHES included
-48,1,Pumped hydro 40%+,PHES included
-48,2,Pumped hydro 40%+,PHES included
-48,3,Pumped hydro 40%+,PHES included
-48,4,Pumped hydro 40%+,PHES included
-48,5,Pumped hydro 40%+,PHES included
-48,6,Pumped hydro 40%+,PHES included
-48,7,Pumped hydro 40%+,PHES included
-48,9,Pumped hydro 40%+,PHES included
-48,10,Pumped hydro 40%+,PHES included
-48,12,Pumped hydro 40%+,PHES included
-48,15,Pumped hydro 40%+,PHES included
-48,17,Pumped hydro 40%+,PHES included
-48,20,Pumped hydro 40%+,PHES included
-48,24,Pumped hydro 40%+,PHES included
-48,29,Pumped hydro 40%+,PHES included
-48,34,Pumped hydro 40%+,PHES included
-48,40,Pumped hydro 40%+,PHES included
-48,47,Pumped hydro 40%+,PHES included
-48,56,Pumped hydro 40%+,PHES included
-48,66,Pumped hydro 40%+,PHES included
-48,78,Pumped hydro 40%+,PHES included
-56,1,Pumped hydro 40%+,PHES included
-56,2,Pumped hydro 40%+,PHES included
-56,3,Pumped hydro 40%+,PHES included
-56,4,Pumped hydro 40%+,PHES included
-56,5,Pumped hydro 40%+,PHES included
-56,6,Pumped hydro 40%+,PHES included
-56,7,Pumped hydro 40%+,PHES included
-56,9,Pumped hydro 40%+,PHES included
-56,10,Pumped hydro 40%+,PHES included
-56,12,Pumped hydro 40%+,PHES included
-56,15,Pumped hydro 40%+,PHES included
-56,17,Pumped hydro 40%+,PHES included
-56,20,Pumped hydro 40%+,PHES included
-56,24,Pumped hydro 40%+,PHES included
-56,29,Pumped hydro 40%+,PHES included
-56,34,Pumped hydro 40%+,PHES included
-56,40,Pumped hydro 40%+,PHES included
-56,47,Pumped hydro 40%+,PHES included
-56,56,Pumped hydro 40%+,PHES included
-56,66,Pumped hydro 40%+,PHES included
-56,78,Pumped hydro 40%+,PHES included
+5,1,Li-ion 30%,PHES included
+5,2,Li-ion 30%,PHES included
+5,3,Li-ion 30%,PHES included
+5,4,Li-ion 30%,PHES included
+5,5,Li-ion 30%,PHES included
+5,6,Li-ion 30%,PHES included
+5,7,Li-ion 30%,PHES included
+5,9,Li-ion 30%,PHES included
+5,10,Li-ion 30%,PHES included
+5,12,Li-ion 30%,PHES included
+5,15,Li-ion 30%,PHES included
+5,17,Li-ion 30%,PHES included
+5,20,Li-ion 30%,PHES included
+5,24,Li-ion 30%,PHES included
+5,29,Li-ion 30%,PHES included
+5,34,Li-ion 30%,PHES included
+5,40,Li-ion 30%,PHES included
+5,47,Li-ion 30%,PHES included
+5,56,Li-ion 30%,PHES included
+5,66,Li-ion 30%,PHES included
+5,78,Li-ion 30%,PHES included
+5,93,Li-ion 30%,PHES included
+5,109,Li-ion 30%,PHES included
+5,129,Li-ion 30%,PHES included
+5,153,Li-ion 30%,PHES included
+5,181,Li-ion 30%,PHES included
+5,214,Li-ion 30%,PHES included
+5,253,Li-ion 30%,PHES included
+5,299,Li-ion 30%,PHES included
+5,354,Li-ion 30%,PHES included
+5,418,Li-ion 30%,PHES included
+5,495,Li-ion 30%,PHES included
+5,585,Li-ion 20%,PHES included
+5,692,Li-ion 20%,PHES included
+5,818,Li-ion 20%,PHES included
+6,1,Li-ion 20%,PHES included
+6,2,Li-ion 20%,PHES included
+6,3,Li-ion 20%,PHES included
+6,4,Li-ion 20%,PHES included
+6,5,Li-ion 20%,PHES included
+6,6,Li-ion 20%,PHES included
+6,7,Li-ion 20%,PHES included
+6,9,Li-ion 20%,PHES included
+6,10,Li-ion 20%,PHES included
+6,12,Li-ion 20%,PHES included
+6,15,Li-ion 20%,PHES included
+6,17,Li-ion 20%,PHES included
+6,20,Li-ion 20%,PHES included
+6,24,Li-ion 20%,PHES included
+6,29,Li-ion 20%,PHES included
+6,34,Li-ion 20%,PHES included
+6,40,Li-ion 20%,PHES included
+6,47,Li-ion 20%,PHES included
+6,56,Li-ion 20%,PHES included
+6,66,Li-ion 20%,PHES included
+6,78,Li-ion 20%,PHES included
+6,93,Li-ion 20%,PHES included
+6,109,Li-ion 20%,PHES included
+6,129,Li-ion 20%,PHES included
+6,153,Li-ion 20%,PHES included
+6,181,Li-ion 20%,PHES included
+6,214,Li-ion 20%,PHES included
+6,253,Li-ion 20%,PHES included
+6,299,Li-ion 20%,PHES included
+6,354,Li-ion 20%,PHES included
+6,418,Li-ion 30%,PHES included
+6,495,Li-ion 20%,PHES included
+6,585,Li-ion 20%,PHES included
+6,692,Li-ion 10%,PHES included
+7,1,Li-ion 20%,PHES included
+7,2,Li-ion 20%,PHES included
+7,3,Li-ion 20%,PHES included
+7,4,Li-ion 20%,PHES included
+7,5,Li-ion 20%,PHES included
+7,6,Li-ion 20%,PHES included
+7,7,Li-ion 20%,PHES included
+7,9,Li-ion 20%,PHES included
+7,10,Li-ion 20%,PHES included
+7,12,Li-ion 20%,PHES included
+7,15,Li-ion 20%,PHES included
+7,17,Li-ion 20%,PHES included
+7,20,Li-ion 20%,PHES included
+7,24,Li-ion 20%,PHES included
+7,29,Li-ion 20%,PHES included
+7,34,Li-ion 20%,PHES included
+7,40,Li-ion 20%,PHES included
+7,47,Li-ion 20%,PHES included
+7,56,Li-ion 20%,PHES included
+7,66,Li-ion 20%,PHES included
+7,78,Li-ion 20%,PHES included
+7,93,Li-ion 20%,PHES included
+7,109,Li-ion 20%,PHES included
+7,129,Li-ion 20%,PHES included
+7,153,Li-ion 20%,PHES included
+7,181,Li-ion 20%,PHES included
+7,214,Li-ion 20%,PHES included
+7,253,Li-ion 20%,PHES included
+7,299,Li-ion 20%,PHES included
+7,354,Li-ion 20%,PHES included
+7,418,Li-ion 20%,PHES included
+7,495,Li-ion 20%,PHES included
+7,585,Li-ion 10%,PHES included
+8,1,Li-ion 10%,PHES included
+8,2,Li-ion 10%,PHES included
+8,3,Li-ion 10%,PHES included
+8,4,Li-ion 10%,PHES included
+8,5,Li-ion 10%,PHES included
+8,6,Li-ion 10%,PHES included
+8,7,Li-ion 10%,PHES included
+8,9,Li-ion 10%,PHES included
+8,10,Li-ion 10%,PHES included
+8,12,Li-ion 10%,PHES included
+8,15,Li-ion 10%,PHES included
+8,17,Li-ion 10%,PHES included
+8,20,Li-ion 10%,PHES included
+8,24,Li-ion 10%,PHES included
+8,29,Li-ion 10%,PHES included
+8,34,Li-ion 10%,PHES included
+8,40,Li-ion 10%,PHES included
+8,47,Li-ion 10%,PHES included
+8,56,Li-ion 10%,PHES included
+8,66,Li-ion 10%,PHES included
+8,78,Li-ion 10%,PHES included
+8,93,Li-ion 10%,PHES included
+8,109,Li-ion 10%,PHES included
+8,129,Li-ion 10%,PHES included
+8,153,Li-ion 10%,PHES included
+8,181,Li-ion 10%,PHES included
+8,214,Li-ion 10%,PHES included
+8,253,Li-ion 10%,PHES included
+8,299,Li-ion 10%,PHES included
+8,354,Li-ion 10%,PHES included
+8,418,Li-ion 10%,PHES included
+8,495,Li-ion 10%,PHES included
+9,1,Li-ion 5%,PHES included
+9,2,Li-ion 5%,PHES included
+9,3,Li-ion 5%,PHES included
+9,4,Li-ion 5%,PHES included
+9,5,Li-ion 5%,PHES included
+9,6,Li-ion 5%,PHES included
+9,7,Li-ion 5%,PHES included
+9,9,Li-ion 5%,PHES included
+9,10,Li-ion 5%,PHES included
+9,12,Li-ion 5%,PHES included
+9,15,Li-ion 5%,PHES included
+9,17,Li-ion 5%,PHES included
+9,20,Li-ion 5%,PHES included
+9,24,Li-ion 5%,PHES included
+9,29,Li-ion 5%,PHES included
+9,34,Li-ion 5%,PHES included
+9,40,Li-ion 5%,PHES included
+9,47,Li-ion 5%,PHES included
+9,56,Li-ion 5%,PHES included
+9,66,Li-ion 5%,PHES included
+9,78,Li-ion 5%,PHES included
+9,93,Li-ion 5%,PHES included
+9,109,Li-ion 5%,PHES included
+9,129,Li-ion 5%,PHES included
+9,153,Li-ion 5%,PHES included
+9,181,Li-ion 5%,PHES included
+9,214,Li-ion 5%,PHES included
+9,253,Li-ion 5%,PHES included
+9,299,Li-ion 5%,PHES included
+9,354,Li-ion 10%,PHES included
+9,418,Li-ion 10%,PHES included
+11,1,Li-ion 5%,PHES included
+11,2,Li-ion 5%,PHES included
+11,3,Li-ion 5%,PHES included
+11,4,Li-ion 5%,PHES included
+11,5,Li-ion 5%,PHES included
+11,6,Li-ion 5%,PHES included
+11,7,Li-ion 5%,PHES included
+11,9,Li-ion 5%,PHES included
+11,10,Li-ion 5%,PHES included
+11,12,Li-ion 5%,PHES included
+11,15,Li-ion 5%,PHES included
+11,17,Li-ion 5%,PHES included
+11,20,Li-ion 5%,PHES included
+11,24,Li-ion 5%,PHES included
+11,29,Li-ion 5%,PHES included
+11,34,Li-ion 5%,PHES included
+11,40,Li-ion 5%,PHES included
+11,47,Li-ion 5%,PHES included
+11,56,Li-ion 5%,PHES included
+11,66,Li-ion 5%,PHES included
+11,78,Li-ion 5%,PHES included
+11,93,Li-ion 5%,PHES included
+11,109,Li-ion 5%,PHES included
+11,129,Li-ion 5%,PHES included
+11,153,Li-ion 5%,PHES included
+11,181,Li-ion 5%,PHES included
+11,214,Li-ion 5%,PHES included
+11,253,Li-ion 5%,PHES included
+11,299,Li-ion 5%,PHES included
+11,354,Li-ion 5%,PHES included
+13,1,on par,PHES included
+13,2,on par,PHES included
+13,3,on par,PHES included
+13,4,on par,PHES included
+13,5,on par,PHES included
+13,6,on par,PHES included
+13,7,on par,PHES included
+13,9,on par,PHES included
+13,10,on par,PHES included
+13,12,on par,PHES included
+13,15,on par,PHES included
+13,17,on par,PHES included
+13,20,on par,PHES included
+13,24,on par,PHES included
+13,29,on par,PHES included
+13,34,on par,PHES included
+13,40,on par,PHES included
+13,47,on par,PHES included
+13,56,on par,PHES included
+13,66,on par,PHES included
+13,78,on par,PHES included
+13,93,on par,PHES included
+13,109,on par,PHES included
+13,129,on par,PHES included
+13,153,on par,PHES included
+13,181,on par,PHES included
+13,214,on par,PHES included
+13,253,on par,PHES included
+13,299,on par,PHES included
+15,1,LAES < 5%,PHES included
+15,2,LAES < 5%,PHES included
+15,3,LAES < 5%,PHES included
+15,4,LAES < 5%,PHES included
+15,5,LAES < 5%,PHES included
+15,6,LAES < 5%,PHES included
+15,7,LAES < 5%,PHES included
+15,9,LAES < 5%,PHES included
+15,10,LAES < 5%,PHES included
+15,12,LAES < 5%,PHES included
+15,15,LAES < 5%,PHES included
+15,17,LAES < 5%,PHES included
+15,20,LAES < 5%,PHES included
+15,24,LAES < 5%,PHES included
+15,29,LAES < 5%,PHES included
+15,34,LAES < 5%,PHES included
+15,40,LAES < 5%,PHES included
+15,47,LAES < 5%,PHES included
+15,56,LAES < 5%,PHES included
+15,66,LAES < 5%,PHES included
+15,78,LAES < 5%,PHES included
+15,93,LAES < 5%,PHES included
+15,109,LAES < 5%,PHES included
+15,129,LAES < 5%,PHES included
+15,153,LAES < 5%,PHES included
+15,181,LAES < 5%,PHES included
+15,214,LAES < 5%,PHES included
+15,253,LAES < 5%,PHES included
+17,1,LAES 5%,PHES included
+17,2,LAES 5%,PHES included
+17,3,LAES 5%,PHES included
+17,4,LAES 5%,PHES included
+17,5,LAES 5%,PHES included
+17,6,LAES 5%,PHES included
+17,7,LAES 5%,PHES included
+17,9,LAES 5%,PHES included
+17,10,LAES 5%,PHES included
+17,12,LAES 5%,PHES included
+17,15,LAES 5%,PHES included
+17,17,LAES 5%,PHES included
+17,20,LAES 5%,PHES included
+17,24,LAES 5%,PHES included
+17,29,LAES 5%,PHES included
+17,34,LAES 5%,PHES included
+17,40,LAES 5%,PHES included
+17,47,LAES 5%,PHES included
+17,56,LAES 5%,PHES included
+17,66,LAES 5%,PHES included
+17,78,LAES 5%,PHES included
+17,93,LAES 5%,PHES included
+17,109,LAES 5%,PHES included
+17,129,LAES 5%,PHES included
+17,153,LAES 5%,PHES included
+17,181,LAES 5%,PHES included
+17,214,LAES 5%,PHES included
+17,253,LAES 5%,PHES included
+20,1,LAES < 5%,PHES included
+20,2,LAES < 5%,PHES included
+20,3,LAES < 5%,PHES included
+20,4,LAES < 5%,PHES included
+20,5,LAES < 5%,PHES included
+20,6,LAES < 5%,PHES included
+20,7,LAES < 5%,PHES included
+20,9,LAES < 5%,PHES included
+20,10,LAES < 5%,PHES included
+20,12,LAES < 5%,PHES included
+20,15,LAES < 5%,PHES included
+20,17,LAES < 5%,PHES included
+20,20,LAES < 5%,PHES included
+20,24,LAES < 5%,PHES included
+20,29,LAES < 5%,PHES included
+20,34,LAES < 5%,PHES included
+20,40,LAES < 5%,PHES included
+20,47,LAES < 5%,PHES included
+20,56,LAES < 5%,PHES included
+20,66,LAES < 5%,PHES included
+20,78,LAES < 5%,PHES included
+20,93,LAES < 5%,PHES included
+20,109,LAES < 5%,PHES included
+20,129,LAES < 5%,PHES included
+20,153,LAES < 5%,PHES included
+20,181,LAES < 5%,PHES included
+20,214,LAES < 5%,PHES included
+23,1,Pumped hydro < 5%,PHES included
+23,2,Pumped hydro < 5%,PHES included
+23,3,Pumped hydro < 5%,PHES included
+23,4,Pumped hydro < 5%,PHES included
+23,5,Pumped hydro < 5%,PHES included
+23,6,Pumped hydro < 5%,PHES included
+23,7,Pumped hydro < 5%,PHES included
+23,9,Pumped hydro < 5%,PHES included
+23,10,Pumped hydro < 5%,PHES included
+23,12,Pumped hydro < 5%,PHES included
+23,15,Pumped hydro < 5%,PHES included
+23,17,Pumped hydro < 5%,PHES included
+23,20,Pumped hydro < 5%,PHES included
+23,24,Pumped hydro < 5%,PHES included
+23,29,Pumped hydro < 5%,PHES included
+23,34,Pumped hydro < 5%,PHES included
+23,40,Pumped hydro < 5%,PHES included
+23,47,Pumped hydro < 5%,PHES included
+23,56,Pumped hydro < 5%,PHES included
+23,66,Pumped hydro < 5%,PHES included
+23,78,Pumped hydro < 5%,PHES included
+23,93,Pumped hydro < 5%,PHES included
+23,109,Pumped hydro < 5%,PHES included
+23,129,Pumped hydro < 5%,PHES included
+23,153,Pumped hydro < 5%,PHES included
+23,181,Pumped hydro < 5%,PHES included
+26,1,Pumped hydro 5%,PHES included
+26,2,Pumped hydro 5%,PHES included
+26,3,Pumped hydro 5%,PHES included
+26,4,Pumped hydro 5%,PHES included
+26,5,Pumped hydro 5%,PHES included
+26,6,Pumped hydro 5%,PHES included
+26,7,Pumped hydro 5%,PHES included
+26,9,Pumped hydro 5%,PHES included
+26,10,Pumped hydro 5%,PHES included
+26,12,Pumped hydro 5%,PHES included
+26,15,Pumped hydro 5%,PHES included
+26,17,Pumped hydro 5%,PHES included
+26,20,Pumped hydro 5%,PHES included
+26,24,Pumped hydro 5%,PHES included
+26,29,Pumped hydro 5%,PHES included
+26,34,Pumped hydro 5%,PHES included
+26,40,Pumped hydro 5%,PHES included
+26,47,Pumped hydro 5%,PHES included
+26,56,Pumped hydro 5%,PHES included
+26,66,Pumped hydro 5%,PHES included
+26,78,Pumped hydro 5%,PHES included
+26,93,Pumped hydro 5%,PHES included
+26,109,Pumped hydro 5%,PHES included
+26,129,Pumped hydro 5%,PHES included
+26,153,Pumped hydro 5%,PHES included
+31,1,Pumped hydro 10%,PHES included
+31,2,Pumped hydro 10%,PHES included
+31,3,Pumped hydro 10%,PHES included
+31,4,Pumped hydro 10%,PHES included
+31,5,Pumped hydro 10%,PHES included
+31,6,Pumped hydro 10%,PHES included
+31,7,Pumped hydro 10%,PHES included
+31,9,Pumped hydro 10%,PHES included
+31,10,Pumped hydro 10%,PHES included
+31,12,Pumped hydro 10%,PHES included
+31,15,Pumped hydro 10%,PHES included
+31,17,Pumped hydro 10%,PHES included
+31,20,Pumped hydro 10%,PHES included
+31,24,Pumped hydro 10%,PHES included
+31,29,Pumped hydro 10%,PHES included
+31,34,Pumped hydro 10%,PHES included
+31,40,Pumped hydro 10%,PHES included
+31,47,Pumped hydro 10%,PHES included
+31,56,Pumped hydro 10%,PHES included
+31,66,Pumped hydro 10%,PHES included
+31,78,Pumped hydro 10%,PHES included
+31,93,Pumped hydro 10%,PHES included
+31,109,Pumped hydro 10%,PHES included
+31,129,Pumped hydro 10%,PHES included
+36,1,Pumped hydro 20%,PHES included
+36,2,Pumped hydro 20%,PHES included
+36,3,Pumped hydro 20%,PHES included
+36,4,Pumped hydro 20%,PHES included
+36,5,Pumped hydro 20%,PHES included
+36,6,Pumped hydro 20%,PHES included
+36,7,Pumped hydro 20%,PHES included
+36,9,Pumped hydro 20%,PHES included
+36,10,Pumped hydro 20%,PHES included
+36,12,Pumped hydro 20%,PHES included
+36,15,Pumped hydro 20%,PHES included
+36,17,Pumped hydro 20%,PHES included
+36,20,Pumped hydro 20%,PHES included
+36,24,Pumped hydro 20%,PHES included
+36,29,Pumped hydro 20%,PHES included
+36,34,Pumped hydro 20%,PHES included
+36,40,Pumped hydro 20%,PHES included
+36,47,Pumped hydro 20%,PHES included
+36,56,Pumped hydro 20%,PHES included
+36,66,Pumped hydro 20%,PHES included
+36,78,Pumped hydro 20%,PHES included
+36,93,Pumped hydro 20%,PHES included
+36,109,Pumped hydro 20%,PHES included
+41,1,Pumped hydro 20%,PHES included
+41,2,Pumped hydro 20%,PHES included
+41,3,Pumped hydro 20%,PHES included
+41,4,Pumped hydro 20%,PHES included
+41,5,Pumped hydro 20%,PHES included
+41,6,Pumped hydro 20%,PHES included
+41,7,Pumped hydro 20%,PHES included
+41,9,Pumped hydro 20%,PHES included
+41,10,Pumped hydro 20%,PHES included
+41,12,Pumped hydro 20%,PHES included
+41,15,Pumped hydro 20%,PHES included
+41,17,Pumped hydro 20%,PHES included
+41,20,Pumped hydro 20%,PHES included
+41,24,Pumped hydro 20%,PHES included
+41,29,Pumped hydro 20%,PHES included
+41,34,Pumped hydro 20%,PHES included
+41,40,Pumped hydro 20%,PHES included
+41,47,Pumped hydro 20%,PHES included
+41,56,Pumped hydro 20%,PHES included
+41,66,Pumped hydro 20%,PHES included
+41,78,Pumped hydro 20%,PHES included
+41,93,Pumped hydro 20%,PHES included
+48,1,Pumped hydro 30%,PHES included
+48,2,Pumped hydro 30%,PHES included
+48,3,Pumped hydro 30%,PHES included
+48,4,Pumped hydro 30%,PHES included
+48,5,Pumped hydro 30%,PHES included
+48,6,Pumped hydro 30%,PHES included
+48,7,Pumped hydro 30%,PHES included
+48,9,Pumped hydro 30%,PHES included
+48,10,Pumped hydro 30%,PHES included
+48,12,Pumped hydro 30%,PHES included
+48,15,Pumped hydro 30%,PHES included
+48,17,Pumped hydro 30%,PHES included
+48,20,Pumped hydro 30%,PHES included
+48,24,Pumped hydro 30%,PHES included
+48,29,Pumped hydro 30%,PHES included
+48,34,Pumped hydro 30%,PHES included
+48,40,Pumped hydro 30%,PHES included
+48,47,Pumped hydro 30%,PHES included
+48,56,Pumped hydro 30%,PHES included
+48,66,Pumped hydro 30%,PHES included
+48,78,Pumped hydro 30%,PHES included
+56,1,Pumped hydro 30%,PHES included
+56,2,Pumped hydro 30%,PHES included
+56,3,Pumped hydro 30%,PHES included
+56,4,Pumped hydro 30%,PHES included
+56,5,Pumped hydro 30%,PHES included
+56,6,Pumped hydro 30%,PHES included
+56,7,Pumped hydro 30%,PHES included
+56,9,Pumped hydro 30%,PHES included
+56,10,Pumped hydro 30%,PHES included
+56,12,Pumped hydro 30%,PHES included
+56,15,Pumped hydro 30%,PHES included
+56,17,Pumped hydro 30%,PHES included
+56,20,Pumped hydro 30%,PHES included
+56,24,Pumped hydro 30%,PHES included
+56,29,Pumped hydro 30%,PHES included
+56,34,Pumped hydro 30%,PHES included
+56,40,Pumped hydro 30%,PHES included
+56,47,Pumped hydro 30%,PHES included
+56,56,Pumped hydro 30%,PHES included
+56,66,Pumped hydro 30%,PHES included
+56,78,Pumped hydro 30%,PHES included
 65,1,Pumped hydro 40%+,PHES included
 65,2,Pumped hydro 40%+,PHES included
 65,3,Pumped hydro 40%+,PHES included

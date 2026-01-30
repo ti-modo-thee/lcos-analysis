@@ -50,9 +50,9 @@ base_technologies = {
         "var_om": 1.0,
     },
     "LAES": {
-        "capex_power": 1000,       # Updated: 700 → 1000 (LDES Council/PV Magazine)
-        "capex_energy": 175,       # Updated: 80 → 175 (UK Industry/LDES Council avg)
-        "efficiency": 0.55,        # Updated: 0.65 → 0.55 (standalone system)
+        "capex_power": 700,        # Energy Dome CO2 Battery data
+        "capex_energy": 80,        # Energy Dome CO2 Battery data
+        "efficiency": 0.65,        # Energy Dome CO2 Battery data
         "lifetime_years": 30,
         "cycle_life": 10000,
         "fixed_om_frac": 0.02,
