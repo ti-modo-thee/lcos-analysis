@@ -59,11 +59,11 @@ base_technologies = {
         "var_om": 1.0,
     },
     "Iron-air": {
-        "capex_power": 1700,
-        "capex_energy": 35,        # Updated: 5 → 35 (Form Energy target + margin)
-        "efficiency": 0.40,
-        "lifetime_years": 17,
-        "cycle_life": 10000,
+        "capex_power": 1700,       # Form Energy data
+        "capex_energy": 5,         # Form Energy data
+        "efficiency": 0.40,        # Form Energy data
+        "lifetime_years": 17,      # Form Energy data
+        "cycle_life": 10000,       # Form Energy data
         "fixed_om_frac": 0.02,
         "var_om": 1.0,
     },
