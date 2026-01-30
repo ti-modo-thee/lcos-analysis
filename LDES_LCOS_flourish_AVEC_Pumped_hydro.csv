@@ -1,0 +1,835 @@
+Duration,Frequency,Category
+1,1,Li-ion 40%+
+1,2,Li-ion 40%+
+1,3,Li-ion 40%+
+1,4,Li-ion 40%+
+1,5,Li-ion 40%+
+1,6,Li-ion 40%+
+1,7,Li-ion 40%+
+1,9,Li-ion 40%+
+1,10,Li-ion 40%+
+1,12,Li-ion 40%+
+1,15,Li-ion 40%+
+1,17,Li-ion 40%+
+1,20,Li-ion 40%+
+1,24,Li-ion 40%+
+1,29,Li-ion 40%+
+1,34,Li-ion 40%+
+1,40,Li-ion 40%+
+1,47,Li-ion 40%+
+1,56,Li-ion 40%+
+1,66,Li-ion 40%+
+1,78,Li-ion 40%+
+1,93,Li-ion 40%+
+1,109,Li-ion 40%+
+1,129,Li-ion 40%+
+1,153,Li-ion 40%+
+1,181,Li-ion 40%+
+1,214,Li-ion 40%+
+1,253,Li-ion 40%+
+1,299,Li-ion 40%+
+1,354,Li-ion 40%+
+1,418,Li-ion 40%+
+1,495,Li-ion 40%+
+1,585,Li-ion 40%+
+1,692,Li-ion 40%+
+1,818,Li-ion 40%+
+1,968,Li-ion 40%+
+1,1144,Li-ion 40%+
+1,1353,Li-ion 30%
+1,1600,Li-ion 20%
+2,1,Li-ion 40%+
+2,2,Li-ion 40%+
+2,3,Li-ion 40%+
+2,4,Li-ion 40%+
+2,5,Li-ion 40%+
+2,6,Li-ion 40%+
+2,7,Li-ion 40%+
+2,9,Li-ion 40%+
+2,10,Li-ion 40%+
+2,12,Li-ion 40%+
+2,15,Li-ion 40%+
+2,17,Li-ion 40%+
+2,20,Li-ion 40%+
+2,24,Li-ion 40%+
+2,29,Li-ion 40%+
+2,34,Li-ion 40%+
+2,40,Li-ion 40%+
+2,47,Li-ion 40%+
+2,56,Li-ion 40%+
+2,66,Li-ion 40%+
+2,78,Li-ion 40%+
+2,93,Li-ion 40%+
+2,109,Li-ion 40%+
+2,129,Li-ion 40%+
+2,153,Li-ion 40%+
+2,181,Li-ion 40%+
+2,214,Li-ion 40%+
+2,253,Li-ion 40%+
+2,299,Li-ion 40%+
+2,354,Li-ion 40%+
+2,418,Li-ion 40%+
+2,495,Li-ion 40%+
+2,585,Li-ion 40%+
+2,692,Li-ion 40%+
+2,818,Li-ion 40%+
+2,968,Li-ion 30%
+2,1144,Li-ion 30%
+2,1353,Li-ion 20%
+2,1600,Li-ion 10%
+3,1,Li-ion 40%+
+3,2,Li-ion 40%+
+3,3,Li-ion 40%+
+3,4,Li-ion 40%+
+3,5,Li-ion 40%+
+3,6,Li-ion 40%+
+3,7,Li-ion 40%+
+3,9,Li-ion 40%+
+3,10,Li-ion 40%+
+3,12,Li-ion 40%+
+3,15,Li-ion 40%+
+3,17,Li-ion 40%+
+3,20,Li-ion 40%+
+3,24,Li-ion 40%+
+3,29,Li-ion 40%+
+3,34,Li-ion 40%+
+3,40,Li-ion 40%+
+3,47,Li-ion 40%+
+3,56,Li-ion 40%+
+3,66,Li-ion 40%+
+3,78,Li-ion 40%+
+3,93,Li-ion 40%+
+3,109,Li-ion 40%+
+3,129,Li-ion 40%+
+3,153,Li-ion 40%+
+3,181,Li-ion 40%+
+3,214,Li-ion 40%+
+3,253,Li-ion 40%+
+3,299,Li-ion 40%+
+3,354,Li-ion 40%+
+3,418,Li-ion 40%+
+3,495,Li-ion 40%+
+3,585,Li-ion 40%+
+3,692,Li-ion 30%
+3,818,Li-ion 30%
+3,968,Li-ion 20%
+3,1144,Li-ion 10%
+3,1353,Li-ion < 5%
+4,1,Li-ion 40%+
+4,2,Li-ion 40%+
+4,3,Li-ion 40%+
+4,4,Li-ion 40%+
+4,5,Li-ion 40%+
+4,6,Li-ion 40%+
+4,7,Li-ion 40%+
+4,9,Li-ion 40%+
+4,10,Li-ion 40%+
+4,12,Li-ion 40%+
+4,15,Li-ion 40%+
+4,17,Li-ion 40%+
+4,20,Li-ion 40%+
+4,24,Li-ion 40%+
+4,29,Li-ion 40%+
+4,34,Li-ion 40%+
+4,40,Li-ion 40%+
+4,47,Li-ion 40%+
+4,56,Li-ion 40%+
+4,66,Li-ion 40%+
+4,78,Li-ion 40%+
+4,93,Li-ion 40%+
+4,109,Li-ion 40%+
+4,129,Li-ion 40%+
+4,153,Li-ion 40%+
+4,181,Li-ion 40%+
+4,214,Li-ion 40%+
+4,253,Li-ion 40%+
+4,299,Li-ion 40%+
+4,354,Li-ion 40%+
+4,418,Li-ion 40%+
+4,495,Li-ion 40%+
+4,585,Li-ion 40%+
+4,692,Li-ion 30%
+4,818,Li-ion 20%
+4,968,Li-ion 10%
+5,1,Li-ion 30%
+5,2,Li-ion 30%
+5,3,Li-ion 30%
+5,4,Li-ion 30%
+5,5,Li-ion 30%
+5,6,Li-ion 30%
+5,7,Li-ion 30%
+5,9,Li-ion 30%
+5,10,Li-ion 30%
+5,12,Li-ion 30%
+5,15,Li-ion 30%
+5,17,Li-ion 30%
+5,20,Li-ion 30%
+5,24,Li-ion 30%
+5,29,Li-ion 30%
+5,34,Li-ion 30%
+5,40,Li-ion 30%
+5,47,Li-ion 30%
+5,56,Li-ion 30%
+5,66,Li-ion 30%
+5,78,Li-ion 30%
+5,93,Li-ion 30%
+5,109,Li-ion 30%
+5,129,Li-ion 30%
+5,153,Li-ion 30%
+5,181,Li-ion 30%
+5,214,Li-ion 30%
+5,253,Li-ion 30%
+5,299,Li-ion 30%
+5,354,Li-ion 30%
+5,418,Li-ion 30%
+5,495,Li-ion 30%
+5,585,Li-ion 20%
+5,692,Li-ion 10%
+5,818,Li-ion 5%
+6,1,Li-ion 20%
+6,2,Li-ion 20%
+6,3,Li-ion 20%
+6,4,Li-ion 20%
+6,5,Li-ion 20%
+6,6,Li-ion 20%
+6,7,Li-ion 20%
+6,9,Li-ion 20%
+6,10,Li-ion 20%
+6,12,Li-ion 20%
+6,15,Li-ion 20%
+6,17,Li-ion 20%
+6,20,Li-ion 20%
+6,24,Li-ion 20%
+6,29,Li-ion 20%
+6,34,Li-ion 20%
+6,40,Li-ion 20%
+6,47,Li-ion 20%
+6,56,Li-ion 20%
+6,66,Li-ion 20%
+6,78,Li-ion 20%
+6,93,Li-ion 20%
+6,109,Li-ion 20%
+6,129,Li-ion 20%
+6,153,Li-ion 20%
+6,181,Li-ion 20%
+6,214,Li-ion 20%
+6,253,Li-ion 20%
+6,299,Li-ion 20%
+6,354,Li-ion 20%
+6,418,Li-ion 30%
+6,495,Li-ion 20%
+6,585,Li-ion 10%
+6,692,Li-ion 5%
+7,1,Li-ion 20%
+7,2,Li-ion 20%
+7,3,Li-ion 20%
+7,4,Li-ion 20%
+7,5,Li-ion 20%
+7,6,Li-ion 20%
+7,7,Li-ion 20%
+7,9,Li-ion 20%
+7,10,Li-ion 20%
+7,12,Li-ion 20%
+7,15,Li-ion 20%
+7,17,Li-ion 20%
+7,20,Li-ion 20%
+7,24,Li-ion 20%
+7,29,Li-ion 20%
+7,34,Li-ion 20%
+7,40,Li-ion 20%
+7,47,Li-ion 20%
+7,56,Li-ion 20%
+7,66,Li-ion 20%
+7,78,Li-ion 20%
+7,93,Li-ion 20%
+7,109,Li-ion 20%
+7,129,Li-ion 20%
+7,153,Li-ion 20%
+7,181,Li-ion 20%
+7,214,Li-ion 20%
+7,253,Li-ion 20%
+7,299,Li-ion 20%
+7,354,Li-ion 20%
+7,418,Li-ion 20%
+7,495,Li-ion 10%
+7,585,Li-ion 5%
+8,1,Li-ion 10%
+8,2,Li-ion 10%
+8,3,Li-ion 10%
+8,4,Li-ion 10%
+8,5,Li-ion 10%
+8,6,Li-ion 10%
+8,7,Li-ion 10%
+8,9,Li-ion 10%
+8,10,Li-ion 10%
+8,12,Li-ion 10%
+8,15,Li-ion 10%
+8,17,Li-ion 10%
+8,20,Li-ion 10%
+8,24,Li-ion 10%
+8,29,Li-ion 10%
+8,34,Li-ion 10%
+8,40,Li-ion 10%
+8,47,Li-ion 10%
+8,56,Li-ion 10%
+8,66,Li-ion 10%
+8,78,Li-ion 10%
+8,93,Li-ion 10%
+8,109,Li-ion 10%
+8,129,Li-ion 10%
+8,153,Li-ion 10%
+8,181,Li-ion 10%
+8,214,Li-ion 10%
+8,253,Li-ion 10%
+8,299,Li-ion 10%
+8,354,Li-ion 10%
+8,418,Li-ion 10%
+8,495,Li-ion 5%
+9,1,Li-ion 5%
+9,2,Li-ion 5%
+9,3,Li-ion 5%
+9,4,Li-ion 5%
+9,5,Li-ion 5%
+9,6,Li-ion 5%
+9,7,Li-ion 5%
+9,9,Li-ion 5%
+9,10,Li-ion 5%
+9,12,Li-ion 5%
+9,15,Li-ion 5%
+9,17,Li-ion 5%
+9,20,Li-ion 5%
+9,24,Li-ion 5%
+9,29,Li-ion 5%
+9,34,Li-ion 5%
+9,40,Li-ion 5%
+9,47,Li-ion 5%
+9,56,Li-ion 5%
+9,66,Li-ion 5%
+9,78,Li-ion 5%
+9,93,Li-ion 5%
+9,109,Li-ion 5%
+9,129,Li-ion 5%
+9,153,Li-ion 5%
+9,181,Li-ion 5%
+9,214,Li-ion 5%
+9,253,Li-ion 5%
+9,299,Li-ion 5%
+9,354,Li-ion 10%
+9,418,Li-ion 5%
+11,1,Li-ion < 5%
+11,2,Li-ion < 5%
+11,3,Li-ion < 5%
+11,4,Li-ion < 5%
+11,5,Li-ion < 5%
+11,6,Li-ion < 5%
+11,7,Li-ion < 5%
+11,9,Li-ion < 5%
+11,10,Li-ion < 5%
+11,12,Li-ion < 5%
+11,15,Li-ion < 5%
+11,17,Li-ion < 5%
+11,20,Li-ion < 5%
+11,24,Li-ion < 5%
+11,29,Li-ion < 5%
+11,34,Li-ion < 5%
+11,40,Li-ion < 5%
+11,47,Li-ion < 5%
+11,56,Li-ion < 5%
+11,66,Li-ion < 5%
+11,78,Li-ion < 5%
+11,93,Li-ion < 5%
+11,109,Li-ion < 5%
+11,129,Li-ion < 5%
+11,153,Li-ion < 5%
+11,181,Li-ion < 5%
+11,214,Li-ion < 5%
+11,253,Li-ion < 5%
+11,299,Li-ion < 5%
+11,354,Li-ion < 5%
+13,1,Pumped hydro 5%
+13,2,Pumped hydro 5%
+13,3,Pumped hydro 5%
+13,4,Pumped hydro 5%
+13,5,Pumped hydro 5%
+13,6,Pumped hydro 5%
+13,7,Pumped hydro 5%
+13,9,Pumped hydro 5%
+13,10,Pumped hydro 5%
+13,12,Pumped hydro 5%
+13,15,Pumped hydro 5%
+13,17,Pumped hydro 5%
+13,20,Pumped hydro 5%
+13,24,Pumped hydro 5%
+13,29,Pumped hydro 5%
+13,34,Pumped hydro 5%
+13,40,Pumped hydro 5%
+13,47,Pumped hydro 5%
+13,56,Pumped hydro 5%
+13,66,Pumped hydro 5%
+13,78,Pumped hydro 5%
+13,93,Pumped hydro 5%
+13,109,Pumped hydro 5%
+13,129,Pumped hydro 5%
+13,153,Pumped hydro 5%
+13,181,Pumped hydro 5%
+13,214,Pumped hydro 5%
+13,253,Pumped hydro 5%
+13,299,Pumped hydro 5%
+15,1,Pumped hydro 10%
+15,2,Pumped hydro 10%
+15,3,Pumped hydro 10%
+15,4,Pumped hydro 10%
+15,5,Pumped hydro 10%
+15,6,Pumped hydro 10%
+15,7,Pumped hydro 10%
+15,9,Pumped hydro 10%
+15,10,Pumped hydro 10%
+15,12,Pumped hydro 10%
+15,15,Pumped hydro 10%
+15,17,Pumped hydro 10%
+15,20,Pumped hydro 10%
+15,24,Pumped hydro 10%
+15,29,Pumped hydro 10%
+15,34,Pumped hydro 10%
+15,40,Pumped hydro 10%
+15,47,Pumped hydro 10%
+15,56,Pumped hydro 10%
+15,66,Pumped hydro 10%
+15,78,Pumped hydro 10%
+15,93,Pumped hydro 10%
+15,109,Pumped hydro 10%
+15,129,Pumped hydro 10%
+15,153,Pumped hydro 10%
+15,181,Pumped hydro 10%
+15,214,Pumped hydro 10%
+15,253,Pumped hydro 10%
+17,1,Pumped hydro 10%
+17,2,Pumped hydro 10%
+17,3,Pumped hydro 10%
+17,4,Pumped hydro 10%
+17,5,Pumped hydro 10%
+17,6,Pumped hydro 10%
+17,7,Pumped hydro 10%
+17,9,Pumped hydro 10%
+17,10,Pumped hydro 10%
+17,12,Pumped hydro 10%
+17,15,Pumped hydro 10%
+17,17,Pumped hydro 10%
+17,20,Pumped hydro 10%
+17,24,Pumped hydro 10%
+17,29,Pumped hydro 10%
+17,34,Pumped hydro 10%
+17,40,Pumped hydro 10%
+17,47,Pumped hydro 10%
+17,56,Pumped hydro 10%
+17,66,Pumped hydro 10%
+17,78,Pumped hydro 10%
+17,93,Pumped hydro 10%
+17,109,Pumped hydro 10%
+17,129,Pumped hydro 10%
+17,153,Pumped hydro 10%
+17,181,Pumped hydro 10%
+17,214,Pumped hydro 10%
+17,253,Pumped hydro 10%
+20,1,Pumped hydro 20%
+20,2,Pumped hydro 20%
+20,3,Pumped hydro 20%
+20,4,Pumped hydro 20%
+20,5,Pumped hydro 20%
+20,6,Pumped hydro 20%
+20,7,Pumped hydro 20%
+20,9,Pumped hydro 20%
+20,10,Pumped hydro 20%
+20,12,Pumped hydro 20%
+20,15,Pumped hydro 20%
+20,17,Pumped hydro 20%
+20,20,Pumped hydro 20%
+20,24,Pumped hydro 20%
+20,29,Pumped hydro 20%
+20,34,Pumped hydro 20%
+20,40,Pumped hydro 20%
+20,47,Pumped hydro 20%
+20,56,Pumped hydro 20%
+20,66,Pumped hydro 20%
+20,78,Pumped hydro 20%
+20,93,Pumped hydro 20%
+20,109,Pumped hydro 20%
+20,129,Pumped hydro 20%
+20,153,Pumped hydro 20%
+20,181,Pumped hydro 20%
+20,214,Pumped hydro 20%
+23,1,Pumped hydro 20%
+23,2,Pumped hydro 20%
+23,3,Pumped hydro 20%
+23,4,Pumped hydro 20%
+23,5,Pumped hydro 20%
+23,6,Pumped hydro 20%
+23,7,Pumped hydro 20%
+23,9,Pumped hydro 20%
+23,10,Pumped hydro 20%
+23,12,Pumped hydro 20%
+23,15,Pumped hydro 20%
+23,17,Pumped hydro 20%
+23,20,Pumped hydro 20%
+23,24,Pumped hydro 20%
+23,29,Pumped hydro 20%
+23,34,Pumped hydro 20%
+23,40,Pumped hydro 20%
+23,47,Pumped hydro 20%
+23,56,Pumped hydro 20%
+23,66,Pumped hydro 20%
+23,78,Pumped hydro 20%
+23,93,Pumped hydro 20%
+23,109,Pumped hydro 20%
+23,129,Pumped hydro 20%
+23,153,Pumped hydro 20%
+23,181,Pumped hydro 20%
+26,1,Pumped hydro 30%
+26,2,Pumped hydro 30%
+26,3,Pumped hydro 30%
+26,4,Pumped hydro 30%
+26,5,Pumped hydro 30%
+26,6,Pumped hydro 30%
+26,7,Pumped hydro 30%
+26,9,Pumped hydro 30%
+26,10,Pumped hydro 30%
+26,12,Pumped hydro 30%
+26,15,Pumped hydro 30%
+26,17,Pumped hydro 30%
+26,20,Pumped hydro 30%
+26,24,Pumped hydro 30%
+26,29,Pumped hydro 30%
+26,34,Pumped hydro 30%
+26,40,Pumped hydro 30%
+26,47,Pumped hydro 30%
+26,56,Pumped hydro 30%
+26,66,Pumped hydro 30%
+26,78,Pumped hydro 30%
+26,93,Pumped hydro 30%
+26,109,Pumped hydro 30%
+26,129,Pumped hydro 30%
+26,153,Pumped hydro 30%
+31,1,Pumped hydro 30%
+31,2,Pumped hydro 30%
+31,3,Pumped hydro 30%
+31,4,Pumped hydro 30%
+31,5,Pumped hydro 30%
+31,6,Pumped hydro 30%
+31,7,Pumped hydro 30%
+31,9,Pumped hydro 30%
+31,10,Pumped hydro 30%
+31,12,Pumped hydro 30%
+31,15,Pumped hydro 30%
+31,17,Pumped hydro 30%
+31,20,Pumped hydro 30%
+31,24,Pumped hydro 30%
+31,29,Pumped hydro 30%
+31,34,Pumped hydro 30%
+31,40,Pumped hydro 30%
+31,47,Pumped hydro 30%
+31,56,Pumped hydro 30%
+31,66,Pumped hydro 30%
+31,78,Pumped hydro 30%
+31,93,Pumped hydro 30%
+31,109,Pumped hydro 30%
+31,129,Pumped hydro 30%
+36,1,Pumped hydro 40%+
+36,2,Pumped hydro 40%+
+36,3,Pumped hydro 40%+
+36,4,Pumped hydro 40%+
+36,5,Pumped hydro 40%+
+36,6,Pumped hydro 40%+
+36,7,Pumped hydro 40%+
+36,9,Pumped hydro 40%+
+36,10,Pumped hydro 40%+
+36,12,Pumped hydro 40%+
+36,15,Pumped hydro 40%+
+36,17,Pumped hydro 40%+
+36,20,Pumped hydro 40%+
+36,24,Pumped hydro 40%+
+36,29,Pumped hydro 40%+
+36,34,Pumped hydro 40%+
+36,40,Pumped hydro 40%+
+36,47,Pumped hydro 40%+
+36,56,Pumped hydro 40%+
+36,66,Pumped hydro 40%+
+36,78,Pumped hydro 40%+
+36,93,Pumped hydro 40%+
+36,109,Pumped hydro 40%+
+41,1,Pumped hydro 30%
+41,2,Pumped hydro 30%
+41,3,Pumped hydro 30%
+41,4,Pumped hydro 30%
+41,5,Pumped hydro 30%
+41,6,Pumped hydro 30%
+41,7,Pumped hydro 30%
+41,9,Pumped hydro 30%
+41,10,Pumped hydro 30%
+41,12,Pumped hydro 30%
+41,15,Pumped hydro 30%
+41,17,Pumped hydro 30%
+41,20,Pumped hydro 30%
+41,24,Pumped hydro 30%
+41,29,Pumped hydro 30%
+41,34,Pumped hydro 30%
+41,40,Pumped hydro 30%
+41,47,Pumped hydro 30%
+41,56,Pumped hydro 30%
+41,66,Pumped hydro 30%
+41,78,Pumped hydro 30%
+41,93,Pumped hydro 30%
+48,1,Pumped hydro 20%
+48,2,Pumped hydro 20%
+48,3,Pumped hydro 20%
+48,4,Pumped hydro 20%
+48,5,Pumped hydro 20%
+48,6,Pumped hydro 20%
+48,7,Pumped hydro 20%
+48,9,Pumped hydro 20%
+48,10,Pumped hydro 20%
+48,12,Pumped hydro 20%
+48,15,Pumped hydro 20%
+48,17,Pumped hydro 20%
+48,20,Pumped hydro 20%
+48,24,Pumped hydro 20%
+48,29,Pumped hydro 20%
+48,34,Pumped hydro 20%
+48,40,Pumped hydro 20%
+48,47,Pumped hydro 20%
+48,56,Pumped hydro 20%
+48,66,Pumped hydro 20%
+48,78,Pumped hydro 20%
+56,1,Pumped hydro 10%
+56,2,Pumped hydro 10%
+56,3,Pumped hydro 10%
+56,4,Pumped hydro 10%
+56,5,Pumped hydro 10%
+56,6,Pumped hydro 10%
+56,7,Pumped hydro 10%
+56,9,Pumped hydro 10%
+56,10,Pumped hydro 10%
+56,12,Pumped hydro 10%
+56,15,Pumped hydro 10%
+56,17,Pumped hydro 10%
+56,20,Pumped hydro 10%
+56,24,Pumped hydro 10%
+56,29,Pumped hydro 10%
+56,34,Pumped hydro 10%
+56,40,Pumped hydro 10%
+56,47,Pumped hydro 10%
+56,56,Pumped hydro 10%
+56,66,Pumped hydro 10%
+56,78,Pumped hydro 10%
+65,1,Pumped hydro 5%
+65,2,Pumped hydro 5%
+65,3,Pumped hydro 5%
+65,4,Pumped hydro 5%
+65,5,Pumped hydro 5%
+65,6,Pumped hydro 5%
+65,7,Pumped hydro 5%
+65,9,Pumped hydro 5%
+65,10,Pumped hydro 5%
+65,12,Pumped hydro 5%
+65,15,Pumped hydro 5%
+65,17,Pumped hydro 5%
+65,20,Pumped hydro 5%
+65,24,Pumped hydro 5%
+65,29,Pumped hydro 5%
+65,34,Pumped hydro 5%
+65,40,Pumped hydro 5%
+65,47,Pumped hydro 5%
+65,56,Pumped hydro 5%
+65,66,Pumped hydro 5%
+75,1,Pumped hydro < 5%
+75,2,Pumped hydro < 5%
+75,3,Pumped hydro < 5%
+75,4,Pumped hydro < 5%
+75,5,Pumped hydro < 5%
+75,6,Pumped hydro < 5%
+75,7,Pumped hydro < 5%
+75,9,Pumped hydro < 5%
+75,10,Pumped hydro < 5%
+75,12,Pumped hydro < 5%
+75,15,Pumped hydro < 5%
+75,17,Pumped hydro < 5%
+75,20,Pumped hydro < 5%
+75,24,Pumped hydro < 5%
+75,29,Pumped hydro < 5%
+75,34,Pumped hydro < 5%
+75,40,Pumped hydro < 5%
+75,47,Pumped hydro < 5%
+75,56,Pumped hydro < 5%
+87,1,Iron-air 5%
+87,2,Iron-air 5%
+87,3,Iron-air 5%
+87,4,Iron-air 5%
+87,5,Iron-air 5%
+87,6,Iron-air 5%
+87,7,Iron-air 5%
+87,9,Iron-air 5%
+87,10,Iron-air 5%
+87,12,Iron-air 5%
+87,15,Iron-air 5%
+87,17,Iron-air 5%
+87,20,Iron-air 5%
+87,24,Iron-air 5%
+87,29,Iron-air 5%
+87,34,Iron-air 5%
+87,40,Iron-air 5%
+87,47,Iron-air 5%
+101,1,Iron-air 10%
+101,2,Iron-air 10%
+101,3,Iron-air 10%
+101,4,Iron-air 10%
+101,5,Iron-air 10%
+101,6,Iron-air 10%
+101,7,Iron-air 10%
+101,9,Iron-air 10%
+101,10,Iron-air 10%
+101,12,Iron-air 10%
+101,15,Iron-air 10%
+101,17,Iron-air 10%
+101,20,Iron-air 10%
+101,24,Iron-air 10%
+101,29,Iron-air 10%
+101,34,Iron-air 10%
+101,40,Iron-air 10%
+118,1,Iron-air 20%
+118,2,Iron-air 20%
+118,3,Iron-air 20%
+118,4,Iron-air 20%
+118,5,Iron-air 20%
+118,6,Iron-air 20%
+118,7,Iron-air 20%
+118,9,Iron-air 20%
+118,10,Iron-air 20%
+118,12,Iron-air 20%
+118,15,Iron-air 20%
+118,17,Iron-air 20%
+118,20,Iron-air 20%
+118,24,Iron-air 20%
+118,29,Iron-air 20%
+118,34,Iron-air 20%
+136,1,Iron-air 30%
+136,2,Iron-air 30%
+136,3,Iron-air 30%
+136,4,Iron-air 30%
+136,5,Iron-air 30%
+136,6,Iron-air 30%
+136,7,Iron-air 30%
+136,9,Iron-air 30%
+136,10,Iron-air 30%
+136,12,Iron-air 30%
+136,15,Iron-air 30%
+136,17,Iron-air 30%
+136,20,Iron-air 30%
+136,24,Iron-air 30%
+136,29,Iron-air 30%
+158,1,Iron-air 40%+
+158,2,Iron-air 40%+
+158,3,Iron-air 40%+
+158,4,Iron-air 40%+
+158,5,Iron-air 40%+
+158,6,Iron-air 40%+
+158,7,Iron-air 40%+
+158,9,Iron-air 40%+
+158,10,Iron-air 40%+
+158,12,Iron-air 40%+
+158,15,Iron-air 40%+
+158,17,Iron-air 40%+
+158,20,Iron-air 40%+
+158,24,Iron-air 40%+
+184,1,Iron-air 40%+
+184,2,Iron-air 40%+
+184,3,Iron-air 40%+
+184,4,Iron-air 40%+
+184,5,Iron-air 40%+
+184,6,Iron-air 40%+
+184,7,Iron-air 40%+
+184,9,Iron-air 40%+
+184,10,Iron-air 40%+
+184,12,Iron-air 40%+
+184,15,Iron-air 40%+
+184,17,Iron-air 40%+
+184,20,Iron-air 40%+
+213,1,Iron-air 40%+
+213,2,Iron-air 40%+
+213,3,Iron-air 40%+
+213,4,Iron-air 40%+
+213,5,Iron-air 40%+
+213,6,Iron-air 40%+
+213,7,Iron-air 40%+
+213,9,Iron-air 40%+
+213,10,Iron-air 40%+
+213,12,Iron-air 40%+
+213,15,Iron-air 40%+
+213,17,Iron-air 40%+
+213,20,Iron-air 40%+
+247,1,Iron-air 40%+
+247,2,Iron-air 40%+
+247,3,Iron-air 40%+
+247,4,Iron-air 40%+
+247,5,Iron-air 40%+
+247,6,Iron-air 40%+
+247,7,Iron-air 40%+
+247,9,Iron-air 40%+
+247,10,Iron-air 40%+
+247,12,Iron-air 40%+
+247,15,Iron-air 40%+
+247,17,Iron-air 40%+
+287,1,Iron-air 40%+
+287,2,Iron-air 40%+
+287,3,Iron-air 40%+
+287,4,Iron-air 40%+
+287,5,Iron-air 40%+
+287,6,Iron-air 40%+
+287,7,Iron-air 40%+
+287,9,Iron-air 40%+
+287,10,Iron-air 40%+
+287,12,Iron-air 40%+
+287,15,Iron-air 40%+
+333,1,Iron-air 40%+
+333,2,Iron-air 40%+
+333,3,Iron-air 40%+
+333,4,Iron-air 40%+
+333,5,Iron-air 40%+
+333,6,Iron-air 40%+
+333,7,Iron-air 40%+
+333,9,Iron-air 40%+
+333,10,Iron-air 40%+
+333,12,Iron-air 40%+
+387,1,Iron-air 40%+
+387,2,Iron-air 40%+
+387,3,Iron-air 40%+
+387,4,Iron-air 40%+
+387,5,Iron-air 40%+
+387,6,Iron-air 40%+
+387,7,Iron-air 40%+
+387,9,Iron-air 40%+
+387,10,Iron-air 40%+
+449,1,Iron-air 40%+
+449,2,Iron-air 40%+
+449,3,Iron-air 40%+
+449,4,Iron-air 40%+
+449,5,Iron-air 40%+
+449,6,Iron-air 40%+
+449,7,Iron-air 40%+
+449,9,Iron-air 40%+
+521,1,Iron-air 40%+
+521,2,Iron-air 40%+
+521,3,Iron-air 40%+
+521,4,Iron-air 40%+
+521,5,Iron-air 40%+
+521,6,Iron-air 40%+
+521,7,Iron-air 40%+
+605,1,Iron-air 40%+
+605,2,Iron-air 40%+
+605,3,Iron-air 40%+
+605,4,Iron-air 40%+
+605,5,Iron-air 40%+
+605,6,Iron-air 40%+
+702,1,Iron-air 40%+
+702,2,Iron-air 40%+
+702,3,Iron-air 40%+
+702,4,Iron-air 40%+
+702,5,Iron-air 40%+
