@@ -36,8 +36,8 @@ Discharge duration (h),Cycles per year,Category,Filter
 1,818,Li-ion 40%+,PHES excluded
 1,968,Li-ion 40%+,PHES excluded
 1,1144,Li-ion 40%+,PHES excluded
-1,1353,Li-ion 30%,PHES excluded
-1,1600,Li-ion 30%,PHES excluded
+1,1353,Li-ion 40%+,PHES excluded
+1,1600,Li-ion 40%+,PHES excluded
 2,1,Li-ion 40%+,PHES excluded
 2,2,Li-ion 40%+,PHES excluded
 2,3,Li-ion 40%+,PHES excluded
@@ -75,8 +75,8 @@ Discharge duration (h),Cycles per year,Category,Filter
 2,818,Li-ion 40%+,PHES excluded
 2,968,Li-ion 40%+,PHES excluded
 2,1144,Li-ion 40%+,PHES excluded
-2,1353,Li-ion 30%,PHES excluded
-2,1600,Li-ion 20%,PHES excluded
+2,1353,Li-ion 40%+,PHES excluded
+2,1600,Li-ion 40%+,PHES excluded
 3,1,Li-ion 40%+,PHES excluded
 3,2,Li-ion 40%+,PHES excluded
 3,3,Li-ion 40%+,PHES excluded
@@ -870,8 +870,8 @@ Discharge duration (h),Cycles per year,Category,Filter
 1,818,Li-ion 40%+,PHES included
 1,968,Li-ion 40%+,PHES included
 1,1144,Li-ion 40%+,PHES included
-1,1353,Li-ion 30%,PHES included
-1,1600,Li-ion 30%,PHES included
+1,1353,Li-ion 40%+,PHES included
+1,1600,Li-ion 40%+,PHES included
 2,1,Li-ion 40%+,PHES included
 2,2,Li-ion 40%+,PHES included
 2,3,Li-ion 40%+,PHES included
@@ -909,8 +909,8 @@ Discharge duration (h),Cycles per year,Category,Filter
 2,818,Li-ion 40%+,PHES included
 2,968,Li-ion 40%+,PHES included
 2,1144,Li-ion 40%+,PHES included
-2,1353,Li-ion 30%,PHES included
-2,1600,Li-ion 20%,PHES included
+2,1353,Li-ion 40%+,PHES included
+2,1600,Li-ion 40%+,PHES included
 3,1,Li-ion 40%+,PHES included
 3,2,Li-ion 40%+,PHES included
 3,3,Li-ion 40%+,PHES included
@@ -1265,285 +1265,285 @@ Discharge duration (h),Cycles per year,Category,Filter
 17,181,LAES 5%,PHES included
 17,214,LAES 5%,PHES included
 17,253,LAES 5%,PHES included
-20,1,LAES 10%,PHES included
-20,2,LAES 10%,PHES included
-20,3,LAES 10%,PHES included
-20,4,LAES 10%,PHES included
-20,5,LAES 10%,PHES included
-20,6,LAES 10%,PHES included
-20,7,LAES 10%,PHES included
-20,9,LAES 10%,PHES included
-20,10,LAES 10%,PHES included
-20,12,LAES 10%,PHES included
-20,15,LAES 10%,PHES included
-20,17,LAES 10%,PHES included
-20,20,LAES 10%,PHES included
-20,24,LAES 10%,PHES included
-20,29,LAES 10%,PHES included
-20,34,LAES 10%,PHES included
-20,40,LAES 10%,PHES included
-20,47,LAES 10%,PHES included
-20,56,LAES 10%,PHES included
-20,66,LAES 10%,PHES included
-20,78,LAES 10%,PHES included
-20,93,LAES 10%,PHES included
-20,109,LAES 10%,PHES included
-20,129,LAES 10%,PHES included
-20,153,LAES 10%,PHES included
-20,181,LAES 10%,PHES included
-20,214,LAES 10%,PHES included
-23,1,LAES 10%,PHES included
-23,2,LAES 10%,PHES included
-23,3,LAES 10%,PHES included
-23,4,LAES 10%,PHES included
-23,5,LAES 10%,PHES included
-23,6,LAES 10%,PHES included
-23,7,LAES 10%,PHES included
-23,9,LAES 10%,PHES included
-23,10,LAES 10%,PHES included
-23,12,LAES 10%,PHES included
-23,15,LAES 10%,PHES included
-23,17,LAES 10%,PHES included
-23,20,LAES 10%,PHES included
-23,24,LAES 10%,PHES included
-23,29,LAES 10%,PHES included
-23,34,LAES 10%,PHES included
-23,40,LAES 10%,PHES included
-23,47,LAES 10%,PHES included
-23,56,LAES 10%,PHES included
-23,66,LAES 10%,PHES included
-23,78,LAES 10%,PHES included
-23,93,LAES 10%,PHES included
-23,109,LAES 10%,PHES included
-23,129,LAES 10%,PHES included
-23,153,LAES 10%,PHES included
-23,181,LAES 10%,PHES included
-26,1,LAES 10%,PHES included
-26,2,LAES 10%,PHES included
-26,3,LAES 10%,PHES included
-26,4,LAES 10%,PHES included
-26,5,LAES 10%,PHES included
-26,6,LAES 10%,PHES included
-26,7,LAES 10%,PHES included
-26,9,LAES 10%,PHES included
-26,10,LAES 10%,PHES included
-26,12,LAES 10%,PHES included
-26,15,LAES 10%,PHES included
-26,17,LAES 10%,PHES included
-26,20,LAES 10%,PHES included
-26,24,LAES 10%,PHES included
-26,29,LAES 10%,PHES included
-26,34,LAES 10%,PHES included
-26,40,LAES 10%,PHES included
-26,47,LAES 10%,PHES included
-26,56,LAES 10%,PHES included
-26,66,LAES 10%,PHES included
-26,78,LAES 10%,PHES included
-26,93,LAES 10%,PHES included
-26,109,LAES 10%,PHES included
-26,129,LAES 10%,PHES included
-26,153,LAES 10%,PHES included
-31,1,LAES 5%,PHES included
-31,2,LAES 5%,PHES included
-31,3,LAES 5%,PHES included
-31,4,LAES 5%,PHES included
-31,5,LAES 5%,PHES included
-31,6,LAES 5%,PHES included
-31,7,LAES 5%,PHES included
-31,9,LAES 5%,PHES included
-31,10,LAES 5%,PHES included
-31,12,LAES 5%,PHES included
-31,15,LAES 5%,PHES included
-31,17,LAES 5%,PHES included
-31,20,LAES 5%,PHES included
-31,24,LAES 5%,PHES included
-31,29,LAES 5%,PHES included
-31,34,LAES 5%,PHES included
-31,40,LAES 5%,PHES included
-31,47,LAES 5%,PHES included
-31,56,LAES 5%,PHES included
-31,66,LAES 5%,PHES included
-31,78,LAES 5%,PHES included
-31,93,LAES 5%,PHES included
-31,109,LAES 5%,PHES included
-31,129,LAES 5%,PHES included
-36,1,LAES < 5%,PHES included
-36,2,LAES < 5%,PHES included
-36,3,LAES < 5%,PHES included
-36,4,LAES < 5%,PHES included
-36,5,LAES < 5%,PHES included
-36,6,LAES < 5%,PHES included
-36,7,LAES < 5%,PHES included
-36,9,LAES < 5%,PHES included
-36,10,LAES < 5%,PHES included
-36,12,LAES < 5%,PHES included
-36,15,LAES < 5%,PHES included
-36,17,LAES < 5%,PHES included
-36,20,LAES < 5%,PHES included
-36,24,LAES < 5%,PHES included
-36,29,LAES < 5%,PHES included
-36,34,LAES < 5%,PHES included
-36,40,LAES < 5%,PHES included
-36,47,LAES < 5%,PHES included
-36,56,LAES < 5%,PHES included
-36,66,LAES < 5%,PHES included
-36,78,LAES < 5%,PHES included
-36,93,LAES < 5%,PHES included
-36,109,LAES < 5%,PHES included
-41,1,Iron-air < 5%,PHES included
-41,2,Iron-air < 5%,PHES included
-41,3,Iron-air < 5%,PHES included
-41,4,Iron-air < 5%,PHES included
-41,5,Iron-air < 5%,PHES included
-41,6,Iron-air < 5%,PHES included
-41,7,Iron-air < 5%,PHES included
-41,9,Iron-air < 5%,PHES included
-41,10,Iron-air < 5%,PHES included
-41,12,Iron-air < 5%,PHES included
-41,15,Iron-air < 5%,PHES included
-41,17,Iron-air < 5%,PHES included
-41,20,Iron-air < 5%,PHES included
-41,24,Iron-air < 5%,PHES included
-41,29,Iron-air < 5%,PHES included
-41,34,Iron-air < 5%,PHES included
-41,40,Iron-air < 5%,PHES included
-41,47,Iron-air < 5%,PHES included
-41,56,Iron-air < 5%,PHES included
-41,66,Iron-air < 5%,PHES included
-41,78,Iron-air < 5%,PHES included
-41,93,Iron-air < 5%,PHES included
-48,1,Iron-air 5%,PHES included
-48,2,Iron-air 5%,PHES included
-48,3,Iron-air 5%,PHES included
-48,4,Iron-air 5%,PHES included
-48,5,Iron-air 5%,PHES included
-48,6,Iron-air 5%,PHES included
-48,7,Iron-air 5%,PHES included
-48,9,Iron-air 5%,PHES included
-48,10,Iron-air 5%,PHES included
-48,12,Iron-air 5%,PHES included
-48,15,Iron-air 5%,PHES included
-48,17,Iron-air 5%,PHES included
-48,20,Iron-air 5%,PHES included
-48,24,Iron-air 5%,PHES included
-48,29,Iron-air 5%,PHES included
-48,34,Iron-air 5%,PHES included
-48,40,Iron-air 5%,PHES included
-48,47,Iron-air 5%,PHES included
-48,56,Iron-air 5%,PHES included
-48,66,Iron-air 5%,PHES included
-48,78,Iron-air 5%,PHES included
-56,1,Iron-air 10%,PHES included
-56,2,Iron-air 10%,PHES included
-56,3,Iron-air 10%,PHES included
-56,4,Iron-air 10%,PHES included
-56,5,Iron-air 10%,PHES included
-56,6,Iron-air 10%,PHES included
-56,7,Iron-air 10%,PHES included
-56,9,Iron-air 10%,PHES included
-56,10,Iron-air 10%,PHES included
-56,12,Iron-air 10%,PHES included
-56,15,Iron-air 10%,PHES included
-56,17,Iron-air 10%,PHES included
-56,20,Iron-air 10%,PHES included
-56,24,Iron-air 10%,PHES included
-56,29,Iron-air 10%,PHES included
-56,34,Iron-air 10%,PHES included
-56,40,Iron-air 10%,PHES included
-56,47,Iron-air 10%,PHES included
-56,56,Iron-air 10%,PHES included
-56,66,Iron-air 10%,PHES included
-56,78,Iron-air 10%,PHES included
-65,1,Iron-air 10%,PHES included
-65,2,Iron-air 10%,PHES included
-65,3,Iron-air 10%,PHES included
-65,4,Iron-air 10%,PHES included
-65,5,Iron-air 10%,PHES included
-65,6,Iron-air 10%,PHES included
-65,7,Iron-air 10%,PHES included
-65,9,Iron-air 10%,PHES included
-65,10,Iron-air 10%,PHES included
-65,12,Iron-air 10%,PHES included
-65,15,Iron-air 10%,PHES included
-65,17,Iron-air 10%,PHES included
-65,20,Iron-air 10%,PHES included
-65,24,Iron-air 10%,PHES included
-65,29,Iron-air 10%,PHES included
-65,34,Iron-air 10%,PHES included
-65,40,Iron-air 10%,PHES included
-65,47,Iron-air 10%,PHES included
-65,56,Iron-air 10%,PHES included
-65,66,Iron-air 10%,PHES included
-75,1,Iron-air 20%,PHES included
-75,2,Iron-air 20%,PHES included
-75,3,Iron-air 20%,PHES included
-75,4,Iron-air 20%,PHES included
-75,5,Iron-air 20%,PHES included
-75,6,Iron-air 20%,PHES included
-75,7,Iron-air 20%,PHES included
-75,9,Iron-air 20%,PHES included
-75,10,Iron-air 20%,PHES included
-75,12,Iron-air 20%,PHES included
-75,15,Iron-air 20%,PHES included
-75,17,Iron-air 20%,PHES included
-75,20,Iron-air 20%,PHES included
-75,24,Iron-air 20%,PHES included
-75,29,Iron-air 20%,PHES included
-75,34,Iron-air 20%,PHES included
-75,40,Iron-air 20%,PHES included
-75,47,Iron-air 20%,PHES included
-75,56,Iron-air 20%,PHES included
-87,1,Iron-air 30%,PHES included
-87,2,Iron-air 30%,PHES included
-87,3,Iron-air 30%,PHES included
-87,4,Iron-air 30%,PHES included
-87,5,Iron-air 30%,PHES included
-87,6,Iron-air 30%,PHES included
-87,7,Iron-air 30%,PHES included
-87,9,Iron-air 30%,PHES included
-87,10,Iron-air 30%,PHES included
-87,12,Iron-air 30%,PHES included
-87,15,Iron-air 30%,PHES included
-87,17,Iron-air 30%,PHES included
-87,20,Iron-air 30%,PHES included
-87,24,Iron-air 30%,PHES included
-87,29,Iron-air 30%,PHES included
-87,34,Iron-air 30%,PHES included
-87,40,Iron-air 30%,PHES included
-87,47,Iron-air 30%,PHES included
-101,1,Iron-air 40%+,PHES included
-101,2,Iron-air 40%+,PHES included
-101,3,Iron-air 40%+,PHES included
-101,4,Iron-air 40%+,PHES included
-101,5,Iron-air 40%+,PHES included
-101,6,Iron-air 40%+,PHES included
-101,7,Iron-air 40%+,PHES included
-101,9,Iron-air 40%+,PHES included
-101,10,Iron-air 40%+,PHES included
-101,12,Iron-air 40%+,PHES included
-101,15,Iron-air 40%+,PHES included
-101,17,Iron-air 40%+,PHES included
-101,20,Iron-air 40%+,PHES included
-101,24,Iron-air 40%+,PHES included
-101,29,Iron-air 40%+,PHES included
-101,34,Iron-air 40%+,PHES included
-101,40,Iron-air 40%+,PHES included
-118,1,Iron-air 40%+,PHES included
-118,2,Iron-air 40%+,PHES included
-118,3,Iron-air 40%+,PHES included
-118,4,Iron-air 40%+,PHES included
-118,5,Iron-air 40%+,PHES included
-118,6,Iron-air 40%+,PHES included
-118,7,Iron-air 40%+,PHES included
-118,9,Iron-air 40%+,PHES included
-118,10,Iron-air 40%+,PHES included
-118,12,Iron-air 40%+,PHES included
-118,15,Iron-air 40%+,PHES included
-118,17,Iron-air 40%+,PHES included
-118,20,Iron-air 40%+,PHES included
-118,24,Iron-air 40%+,PHES included
-118,29,Iron-air 40%+,PHES included
-118,34,Iron-air 40%+,PHES included
+20,1,LAES 5%,PHES included
+20,2,LAES 5%,PHES included
+20,3,LAES 5%,PHES included
+20,4,LAES 5%,PHES included
+20,5,LAES 5%,PHES included
+20,6,LAES 5%,PHES included
+20,7,LAES 5%,PHES included
+20,9,LAES 5%,PHES included
+20,10,LAES 5%,PHES included
+20,12,LAES 5%,PHES included
+20,15,LAES 5%,PHES included
+20,17,LAES 5%,PHES included
+20,20,LAES 5%,PHES included
+20,24,LAES 5%,PHES included
+20,29,LAES 5%,PHES included
+20,34,LAES 5%,PHES included
+20,40,LAES 5%,PHES included
+20,47,LAES 5%,PHES included
+20,56,LAES 5%,PHES included
+20,66,LAES 5%,PHES included
+20,78,LAES 5%,PHES included
+20,93,LAES 5%,PHES included
+20,109,LAES 5%,PHES included
+20,129,LAES 5%,PHES included
+20,153,LAES 5%,PHES included
+20,181,LAES 5%,PHES included
+20,214,LAES 5%,PHES included
+23,1,LAES < 5%,PHES included
+23,2,LAES < 5%,PHES included
+23,3,LAES < 5%,PHES included
+23,4,LAES < 5%,PHES included
+23,5,LAES < 5%,PHES included
+23,6,LAES < 5%,PHES included
+23,7,LAES < 5%,PHES included
+23,9,LAES < 5%,PHES included
+23,10,LAES < 5%,PHES included
+23,12,LAES < 5%,PHES included
+23,15,LAES < 5%,PHES included
+23,17,LAES < 5%,PHES included
+23,20,LAES < 5%,PHES included
+23,24,on par,PHES included
+23,29,on par,PHES included
+23,34,on par,PHES included
+23,40,on par,PHES included
+23,47,on par,PHES included
+23,56,on par,PHES included
+23,66,on par,PHES included
+23,78,on par,PHES included
+23,93,on par,PHES included
+23,109,on par,PHES included
+23,129,on par,PHES included
+23,153,on par,PHES included
+23,181,on par,PHES included
+26,1,Pumped hydro < 5%,PHES included
+26,2,Pumped hydro < 5%,PHES included
+26,3,Pumped hydro < 5%,PHES included
+26,4,Pumped hydro < 5%,PHES included
+26,5,Pumped hydro < 5%,PHES included
+26,6,Pumped hydro < 5%,PHES included
+26,7,Pumped hydro < 5%,PHES included
+26,9,Pumped hydro < 5%,PHES included
+26,10,Pumped hydro < 5%,PHES included
+26,12,Pumped hydro < 5%,PHES included
+26,15,Pumped hydro < 5%,PHES included
+26,17,Pumped hydro < 5%,PHES included
+26,20,Pumped hydro < 5%,PHES included
+26,24,Pumped hydro < 5%,PHES included
+26,29,Pumped hydro < 5%,PHES included
+26,34,Pumped hydro < 5%,PHES included
+26,40,Pumped hydro < 5%,PHES included
+26,47,Pumped hydro < 5%,PHES included
+26,56,Pumped hydro < 5%,PHES included
+26,66,Pumped hydro < 5%,PHES included
+26,78,Pumped hydro < 5%,PHES included
+26,93,Pumped hydro < 5%,PHES included
+26,109,Pumped hydro < 5%,PHES included
+26,129,Pumped hydro < 5%,PHES included
+26,153,Pumped hydro < 5%,PHES included
+31,1,Pumped hydro 10%,PHES included
+31,2,Pumped hydro 10%,PHES included
+31,3,Pumped hydro 10%,PHES included
+31,4,Pumped hydro 10%,PHES included
+31,5,Pumped hydro 10%,PHES included
+31,6,Pumped hydro 10%,PHES included
+31,7,Pumped hydro 10%,PHES included
+31,9,Pumped hydro 10%,PHES included
+31,10,Pumped hydro 10%,PHES included
+31,12,Pumped hydro 10%,PHES included
+31,15,Pumped hydro 10%,PHES included
+31,17,Pumped hydro 10%,PHES included
+31,20,Pumped hydro 10%,PHES included
+31,24,Pumped hydro 10%,PHES included
+31,29,Pumped hydro 10%,PHES included
+31,34,Pumped hydro 10%,PHES included
+31,40,Pumped hydro 10%,PHES included
+31,47,Pumped hydro 10%,PHES included
+31,56,Pumped hydro 10%,PHES included
+31,66,Pumped hydro 10%,PHES included
+31,78,Pumped hydro 10%,PHES included
+31,93,Pumped hydro 10%,PHES included
+31,109,Pumped hydro 10%,PHES included
+31,129,Pumped hydro 10%,PHES included
+36,1,Pumped hydro 10%,PHES included
+36,2,Pumped hydro 10%,PHES included
+36,3,Pumped hydro 10%,PHES included
+36,4,Pumped hydro 10%,PHES included
+36,5,Pumped hydro 10%,PHES included
+36,6,Pumped hydro 10%,PHES included
+36,7,Pumped hydro 10%,PHES included
+36,9,Pumped hydro 10%,PHES included
+36,10,Pumped hydro 10%,PHES included
+36,12,Pumped hydro 10%,PHES included
+36,15,Pumped hydro 10%,PHES included
+36,17,Pumped hydro 10%,PHES included
+36,20,Pumped hydro 10%,PHES included
+36,24,Pumped hydro 10%,PHES included
+36,29,Pumped hydro 10%,PHES included
+36,34,Pumped hydro 10%,PHES included
+36,40,Pumped hydro 10%,PHES included
+36,47,Pumped hydro 10%,PHES included
+36,56,Pumped hydro 10%,PHES included
+36,66,Pumped hydro 10%,PHES included
+36,78,Pumped hydro 10%,PHES included
+36,93,Pumped hydro 10%,PHES included
+36,109,Pumped hydro 10%,PHES included
+41,1,Pumped hydro 10%,PHES included
+41,2,Pumped hydro 10%,PHES included
+41,3,Pumped hydro 10%,PHES included
+41,4,Pumped hydro 10%,PHES included
+41,5,Pumped hydro 10%,PHES included
+41,6,Pumped hydro 10%,PHES included
+41,7,Pumped hydro 10%,PHES included
+41,9,Pumped hydro 10%,PHES included
+41,10,Pumped hydro 10%,PHES included
+41,12,Pumped hydro 10%,PHES included
+41,15,Pumped hydro 10%,PHES included
+41,17,Pumped hydro 10%,PHES included
+41,20,Pumped hydro 10%,PHES included
+41,24,Pumped hydro 10%,PHES included
+41,29,Pumped hydro 10%,PHES included
+41,34,Pumped hydro 10%,PHES included
+41,40,Pumped hydro 10%,PHES included
+41,47,Pumped hydro 10%,PHES included
+41,56,Pumped hydro 10%,PHES included
+41,66,Pumped hydro 10%,PHES included
+41,78,Pumped hydro 10%,PHES included
+41,93,Pumped hydro 10%,PHES included
+48,1,Pumped hydro 5%,PHES included
+48,2,Pumped hydro 5%,PHES included
+48,3,Pumped hydro 5%,PHES included
+48,4,Pumped hydro 5%,PHES included
+48,5,Pumped hydro 5%,PHES included
+48,6,Pumped hydro 5%,PHES included
+48,7,Pumped hydro 5%,PHES included
+48,9,Pumped hydro 5%,PHES included
+48,10,Pumped hydro 5%,PHES included
+48,12,Pumped hydro 5%,PHES included
+48,15,Pumped hydro 5%,PHES included
+48,17,Pumped hydro 5%,PHES included
+48,20,Pumped hydro 5%,PHES included
+48,24,Pumped hydro 5%,PHES included
+48,29,Pumped hydro 5%,PHES included
+48,34,Pumped hydro 5%,PHES included
+48,40,Pumped hydro 5%,PHES included
+48,47,Pumped hydro 5%,PHES included
+48,56,Pumped hydro 5%,PHES included
+48,66,Pumped hydro 5%,PHES included
+48,78,Pumped hydro 5%,PHES included
+56,1,on par,PHES included
+56,2,on par,PHES included
+56,3,Pumped hydro < 5%,PHES included
+56,4,Pumped hydro < 5%,PHES included
+56,5,Pumped hydro < 5%,PHES included
+56,6,Pumped hydro < 5%,PHES included
+56,7,Pumped hydro < 5%,PHES included
+56,9,Pumped hydro < 5%,PHES included
+56,10,Pumped hydro < 5%,PHES included
+56,12,Pumped hydro < 5%,PHES included
+56,15,Pumped hydro < 5%,PHES included
+56,17,Pumped hydro < 5%,PHES included
+56,20,Pumped hydro < 5%,PHES included
+56,24,Pumped hydro < 5%,PHES included
+56,29,Pumped hydro < 5%,PHES included
+56,34,Pumped hydro < 5%,PHES included
+56,40,Pumped hydro < 5%,PHES included
+56,47,Pumped hydro < 5%,PHES included
+56,56,Pumped hydro < 5%,PHES included
+56,66,Pumped hydro < 5%,PHES included
+56,78,Pumped hydro < 5%,PHES included
+65,1,Iron-air 5%,PHES included
+65,2,Iron-air 5%,PHES included
+65,3,Iron-air 5%,PHES included
+65,4,Iron-air 5%,PHES included
+65,5,Iron-air 5%,PHES included
+65,6,Iron-air 5%,PHES included
+65,7,Iron-air 5%,PHES included
+65,9,Iron-air 5%,PHES included
+65,10,Iron-air 5%,PHES included
+65,12,Iron-air 5%,PHES included
+65,15,Iron-air 5%,PHES included
+65,17,Iron-air 5%,PHES included
+65,20,Iron-air 5%,PHES included
+65,24,Iron-air 5%,PHES included
+65,29,Iron-air 5%,PHES included
+65,34,Iron-air 5%,PHES included
+65,40,Iron-air 5%,PHES included
+65,47,Iron-air 5%,PHES included
+65,56,Iron-air 5%,PHES included
+65,66,Iron-air 5%,PHES included
+75,1,Iron-air 10%,PHES included
+75,2,Iron-air 10%,PHES included
+75,3,Iron-air 10%,PHES included
+75,4,Iron-air 10%,PHES included
+75,5,Iron-air 10%,PHES included
+75,6,Iron-air 10%,PHES included
+75,7,Iron-air 10%,PHES included
+75,9,Iron-air 10%,PHES included
+75,10,Iron-air 10%,PHES included
+75,12,Iron-air 10%,PHES included
+75,15,Iron-air 10%,PHES included
+75,17,Iron-air 10%,PHES included
+75,20,Iron-air 10%,PHES included
+75,24,Iron-air 10%,PHES included
+75,29,Iron-air 10%,PHES included
+75,34,Iron-air 10%,PHES included
+75,40,Iron-air 10%,PHES included
+75,47,Iron-air 10%,PHES included
+75,56,Iron-air 10%,PHES included
+87,1,Iron-air 20%,PHES included
+87,2,Iron-air 20%,PHES included
+87,3,Iron-air 20%,PHES included
+87,4,Iron-air 20%,PHES included
+87,5,Iron-air 20%,PHES included
+87,6,Iron-air 20%,PHES included
+87,7,Iron-air 20%,PHES included
+87,9,Iron-air 20%,PHES included
+87,10,Iron-air 20%,PHES included
+87,12,Iron-air 20%,PHES included
+87,15,Iron-air 20%,PHES included
+87,17,Iron-air 20%,PHES included
+87,20,Iron-air 20%,PHES included
+87,24,Iron-air 20%,PHES included
+87,29,Iron-air 20%,PHES included
+87,34,Iron-air 20%,PHES included
+87,40,Iron-air 20%,PHES included
+87,47,Iron-air 20%,PHES included
+101,1,Iron-air 20%,PHES included
+101,2,Iron-air 20%,PHES included
+101,3,Iron-air 20%,PHES included
+101,4,Iron-air 20%,PHES included
+101,5,Iron-air 20%,PHES included
+101,6,Iron-air 20%,PHES included
+101,7,Iron-air 20%,PHES included
+101,9,Iron-air 20%,PHES included
+101,10,Iron-air 20%,PHES included
+101,12,Iron-air 20%,PHES included
+101,15,Iron-air 20%,PHES included
+101,17,Iron-air 20%,PHES included
+101,20,Iron-air 20%,PHES included
+101,24,Iron-air 20%,PHES included
+101,29,Iron-air 20%,PHES included
+101,34,Iron-air 20%,PHES included
+101,40,Iron-air 20%,PHES included
+118,1,Iron-air 30%,PHES included
+118,2,Iron-air 30%,PHES included
+118,3,Iron-air 30%,PHES included
+118,4,Iron-air 30%,PHES included
+118,5,Iron-air 30%,PHES included
+118,6,Iron-air 30%,PHES included
+118,7,Iron-air 30%,PHES included
+118,9,Iron-air 30%,PHES included
+118,10,Iron-air 30%,PHES included
+118,12,Iron-air 30%,PHES included
+118,15,Iron-air 30%,PHES included
+118,17,Iron-air 30%,PHES included
+118,20,Iron-air 30%,PHES included
+118,24,Iron-air 30%,PHES included
+118,29,Iron-air 30%,PHES included
+118,34,Iron-air 30%,PHES included
 136,1,Iron-air 40%+,PHES included
 136,2,Iron-air 40%+,PHES included
 136,3,Iron-air 40%+,PHES included

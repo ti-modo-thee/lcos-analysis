@@ -32,10 +32,11 @@ base_technologies = {
         "var_om": 1.0,           # $/MWh
     },
     "Pumped hydro": {
-        # NREL ATB 2024 Class 3: $3,794/kW for 838 MW/10h
-        # Project range: $586/kW (Upper Cisokan) to $9,000+/kW (Snowy 2.0)
-        # We use mid-range estimate for new-build with moderately favorable geology
-        "capex_power": 3000,       # Mid-range estimate (highly variable: $600-9,000/kW)
+        # Thunder Said Energy typical: $2,250/kW
+        # NREL ATB 2024 range: $1,999-5,505/kW
+        # PNNL Gordon Butte: $2,710/kW direct
+        # Source: https://thundersaidenergy.com/downloads/pumped-hydro-the-economics/
+        "capex_power": 2250,       # Thunder Said Energy typical (range: $2,000-5,500/kW)
         "capex_energy": 50,        # Reservoir costs relatively stable
         "efficiency": 0.80,
         "lifetime_years": 60,
@@ -50,7 +51,7 @@ base_technologies = {
         # Note: Corre Energy (salt cavern CAES) filed for bankruptcy - Hydrostor is main player
         "capex_power": 2500,       # Hydrostor A-CAES (purpose-built caverns)
         "capex_energy": 50,        # Hydrostor marginal cost per hour
-        "efficiency": 0.55,        # Diabatic CAES baseline (A-CAES could reach 60-65%)
+        "efficiency": 0.60,        # A-CAES with thermal storage (adiabatic)
         "lifetime_years": 50,
         "cycle_life": 15000,
         "fixed_om_frac": 0.02,
@@ -75,11 +76,12 @@ base_technologies = {
         "var_om": 1.0,
     },
     "VRFB": {
-        # Reverse-engineered from Dalian (100MW/400MWh) and Jimusar (200MW/1GWh) projects
-        # BloombergNEF 2024: $423/kWh (China), $701/kWh (RoW)
-        # Sources: ESS-News, BloombergNEF LDES Survey
-        "capex_power": 700,        # From project analysis ($600-800/kW range)
-        "capex_energy": 280,       # From BloombergNEF + projects ($250-350/kWh)
+        # PNNL methodology: stack (power) ~$350/kW + BOP, electrolyte (energy) ~$178/kWh
+        # Source: https://www.pnnl.gov/sites/default/files/media/file/RedoxFlow_Methodology.pdf
+        # Adjusted to reflect VRFB advantage: LOW energy cost relative to power cost
+        # Validates at 10h: $1,000 + $180×10 = $2,800/kW → $280/kWh (within LDES Council range)
+        "capex_power": 1000,       # Stack + BOP + power electronics
+        "capex_energy": 180,       # Electrolyte tanks (scales with duration)
         "efficiency": 0.75,
         "lifetime_years": 25,      # LDES Council: 20-25 years
         "cycle_life": 20000,
@@ -471,11 +473,11 @@ if __name__ == "__main__":
 # |               | ($/kW)      | ($/kWh)      |       | (yr) |        | (frac)    | ($/MWh) |
 # |---------------|-------------|--------------|-------|------|--------|-----------|---------|
 # | Li-ion 2025   | 250         | 120          | 0.85  | 15   | 6000   | 0.02      | 1.0     |
-# | Pumped hydro  | 3000        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     |
-# | CAES          | 2500        | 50           | 0.55  | 50   | 15000  | 0.02      | 1.0     |
+# | Pumped hydro  | 2250        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     |
+# | CAES          | 2500        | 50           | 0.60  | 50   | 15000  | 0.02      | 1.0     |
 # | LAES/CO2      | 700         | 80           | 0.65  | 30   | 10000  | 0.02      | 1.0     |
 # | Iron-air      | 1700        | 5            | 0.40  | 17   | 10000  | 0.02      | 1.0     |
-# | VRFB          | 700         | 280          | 0.75  | 25   | 20000  | 0.02      | 1.0     |
+# | VRFB          | 1000        | 180          | 0.75  | 25   | 20000  | 0.02      | 1.0     |
 # | Hydrogen*     | 3000        | 20           | 0.38  | 20   | 15000  | 0.03      | 1.0     |
 #
 # * Hydrogen not yet included in model
