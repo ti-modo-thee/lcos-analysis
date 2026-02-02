@@ -58,9 +58,13 @@ base_technologies = {
         "var_om": 1.0,
     },
     "LAES": {
-        "capex_power": 700,        # Energy Dome CO2 Battery data
-        "capex_energy": 80,        # Energy Dome CO2 Battery data
-        "efficiency": 0.65,        # Energy Dome CO2 Battery data
+        # Energy Dome CO2 Battery weighted with LDES Council benchmarking data
+        # LDES Council 2025 range: $158-471/kWh at 10h (Intraday Compressed Gas)
+        # Target: $170/kWh at 10h → $900 + $80×10 = $1,700/kW
+        # Higher power cost = more competitive at longer durations
+        "capex_power": 900,        # Weighted with LDES Council (vs Energy Dome $700)
+        "capex_energy": 80,        # Energy Dome CO2 Battery dome/storage
+        "efficiency": 0.65,        # Energy Dome data (LDES Council range: 53-72%)
         "lifetime_years": 30,
         "cycle_life": 10000,
         "fixed_om_frac": 0.02,
@@ -475,7 +479,7 @@ if __name__ == "__main__":
 # | Li-ion 2025   | 250         | 120          | 0.85  | 15   | 6000   | 0.02      | 1.0     |
 # | Pumped hydro  | 2250        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     |
 # | CAES          | 2500        | 50           | 0.60  | 50   | 15000  | 0.02      | 1.0     |
-# | LAES/CO2      | 700         | 80           | 0.65  | 30   | 10000  | 0.02      | 1.0     |
+# | LAES/CO2      | 900         | 80           | 0.65  | 30   | 10000  | 0.02      | 1.0     |
 # | Iron-air      | 1700        | 5            | 0.40  | 17   | 10000  | 0.02      | 1.0     |
 # | VRFB          | 1000        | 180          | 0.75  | 25   | 20000  | 0.02      | 1.0     |
 # | Hydrogen*     | 3000        | 20           | 0.38  | 20   | 15000  | 0.03      | 1.0     |
