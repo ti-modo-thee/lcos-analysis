@@ -36,8 +36,8 @@ Duration,Frequency,Category
 1,818,Li-ion 40%+
 1,968,Li-ion 40%+
 1,1144,Li-ion 40%+
-1,1353,Li-ion 40%+
-1,1600,Li-ion 40%+
+1,1353,Li-ion 30%
+1,1600,Li-ion 30%
 2,1,Li-ion 40%+
 2,2,Li-ion 40%+
 2,3,Li-ion 40%+
@@ -75,8 +75,8 @@ Duration,Frequency,Category
 2,818,Li-ion 40%+
 2,968,Li-ion 40%+
 2,1144,Li-ion 40%+
-2,1353,Li-ion 40%+
-2,1600,Li-ion 40%+
+2,1353,Li-ion 30%
+2,1600,Li-ion 20%
 3,1,Li-ion 40%+
 3,2,Li-ion 40%+
 3,3,Li-ion 40%+
@@ -431,285 +431,285 @@ Duration,Frequency,Category
 17,181,LAES 5%
 17,214,LAES 5%
 17,253,LAES 5%
-20,1,LAES < 5%
-20,2,LAES < 5%
-20,3,LAES < 5%
-20,4,LAES < 5%
-20,5,LAES < 5%
-20,6,LAES < 5%
-20,7,LAES < 5%
-20,9,LAES < 5%
-20,10,LAES < 5%
-20,12,LAES < 5%
-20,15,LAES < 5%
-20,17,LAES < 5%
-20,20,LAES < 5%
-20,24,LAES < 5%
-20,29,LAES < 5%
-20,34,LAES < 5%
-20,40,LAES < 5%
-20,47,LAES < 5%
-20,56,LAES < 5%
-20,66,LAES < 5%
-20,78,LAES < 5%
-20,93,LAES < 5%
-20,109,LAES < 5%
-20,129,LAES < 5%
-20,153,LAES < 5%
-20,181,LAES < 5%
-20,214,LAES < 5%
-23,1,Pumped hydro < 5%
-23,2,Pumped hydro < 5%
-23,3,Pumped hydro < 5%
-23,4,Pumped hydro < 5%
-23,5,Pumped hydro < 5%
-23,6,Pumped hydro < 5%
-23,7,Pumped hydro < 5%
-23,9,Pumped hydro < 5%
-23,10,Pumped hydro < 5%
-23,12,Pumped hydro < 5%
-23,15,Pumped hydro < 5%
-23,17,Pumped hydro < 5%
-23,20,Pumped hydro < 5%
-23,24,Pumped hydro < 5%
-23,29,Pumped hydro < 5%
-23,34,Pumped hydro < 5%
-23,40,Pumped hydro < 5%
-23,47,Pumped hydro < 5%
-23,56,Pumped hydro < 5%
-23,66,Pumped hydro < 5%
-23,78,Pumped hydro < 5%
-23,93,Pumped hydro < 5%
-23,109,Pumped hydro < 5%
-23,129,Pumped hydro < 5%
-23,153,Pumped hydro < 5%
-23,181,Pumped hydro < 5%
-26,1,Pumped hydro 5%
-26,2,Pumped hydro 5%
-26,3,Pumped hydro 5%
-26,4,Pumped hydro 5%
-26,5,Pumped hydro 5%
-26,6,Pumped hydro 5%
-26,7,Pumped hydro 5%
-26,9,Pumped hydro 5%
-26,10,Pumped hydro 5%
-26,12,Pumped hydro 5%
-26,15,Pumped hydro 5%
-26,17,Pumped hydro 5%
-26,20,Pumped hydro 5%
-26,24,Pumped hydro 5%
-26,29,Pumped hydro 5%
-26,34,Pumped hydro 5%
-26,40,Pumped hydro 5%
-26,47,Pumped hydro 5%
-26,56,Pumped hydro 5%
-26,66,Pumped hydro 5%
-26,78,Pumped hydro 5%
-26,93,Pumped hydro 5%
-26,109,Pumped hydro 5%
-26,129,Pumped hydro 5%
-26,153,Pumped hydro 5%
-31,1,Pumped hydro 10%
-31,2,Pumped hydro 10%
-31,3,Pumped hydro 10%
-31,4,Pumped hydro 10%
-31,5,Pumped hydro 10%
-31,6,Pumped hydro 10%
-31,7,Pumped hydro 10%
-31,9,Pumped hydro 10%
-31,10,Pumped hydro 10%
-31,12,Pumped hydro 10%
-31,15,Pumped hydro 10%
-31,17,Pumped hydro 10%
-31,20,Pumped hydro 10%
-31,24,Pumped hydro 10%
-31,29,Pumped hydro 10%
-31,34,Pumped hydro 10%
-31,40,Pumped hydro 10%
-31,47,Pumped hydro 10%
-31,56,Pumped hydro 10%
-31,66,Pumped hydro 10%
-31,78,Pumped hydro 10%
-31,93,Pumped hydro 10%
-31,109,Pumped hydro 10%
-31,129,Pumped hydro 10%
-36,1,Pumped hydro 20%
-36,2,Pumped hydro 20%
-36,3,Pumped hydro 20%
-36,4,Pumped hydro 20%
-36,5,Pumped hydro 20%
-36,6,Pumped hydro 20%
-36,7,Pumped hydro 20%
-36,9,Pumped hydro 20%
-36,10,Pumped hydro 20%
-36,12,Pumped hydro 20%
-36,15,Pumped hydro 20%
-36,17,Pumped hydro 20%
-36,20,Pumped hydro 20%
-36,24,Pumped hydro 20%
-36,29,Pumped hydro 20%
-36,34,Pumped hydro 20%
-36,40,Pumped hydro 20%
-36,47,Pumped hydro 20%
-36,56,Pumped hydro 20%
-36,66,Pumped hydro 20%
-36,78,Pumped hydro 20%
-36,93,Pumped hydro 20%
-36,109,Pumped hydro 20%
-41,1,Pumped hydro 10%
-41,2,Pumped hydro 10%
-41,3,Pumped hydro 10%
-41,4,Pumped hydro 10%
-41,5,Pumped hydro 10%
-41,6,Pumped hydro 10%
-41,7,Pumped hydro 10%
-41,9,Pumped hydro 10%
-41,10,Pumped hydro 10%
-41,12,Pumped hydro 10%
-41,15,Pumped hydro 10%
-41,17,Pumped hydro 10%
-41,20,Pumped hydro 10%
-41,24,Pumped hydro 10%
-41,29,Pumped hydro 10%
-41,34,Pumped hydro 10%
-41,40,Pumped hydro 10%
-41,47,Pumped hydro 10%
-41,56,Pumped hydro 10%
-41,66,Pumped hydro 10%
-41,78,Pumped hydro 10%
-41,93,Pumped hydro 10%
-48,1,Pumped hydro 10%
-48,2,Pumped hydro 10%
-48,3,Pumped hydro 10%
-48,4,Pumped hydro 10%
-48,5,Pumped hydro 10%
-48,6,Pumped hydro 10%
-48,7,Pumped hydro 10%
-48,9,Pumped hydro 10%
-48,10,Pumped hydro 10%
-48,12,Pumped hydro 10%
-48,15,Pumped hydro 10%
-48,17,Pumped hydro 10%
-48,20,Pumped hydro 10%
-48,24,Pumped hydro 10%
-48,29,Pumped hydro 10%
-48,34,Pumped hydro 10%
-48,40,Pumped hydro 10%
-48,47,Pumped hydro 10%
-48,56,Pumped hydro 10%
-48,66,Pumped hydro 10%
-48,78,Pumped hydro 10%
-56,1,Pumped hydro < 5%
-56,2,Pumped hydro < 5%
-56,3,Pumped hydro < 5%
-56,4,Pumped hydro < 5%
-56,5,Pumped hydro < 5%
-56,6,Pumped hydro < 5%
-56,7,Pumped hydro < 5%
-56,9,Pumped hydro < 5%
-56,10,Pumped hydro < 5%
-56,12,Pumped hydro < 5%
-56,15,Pumped hydro < 5%
-56,17,Pumped hydro < 5%
-56,20,Pumped hydro < 5%
-56,24,Pumped hydro < 5%
-56,29,Pumped hydro < 5%
-56,34,Pumped hydro < 5%
-56,40,Pumped hydro < 5%
-56,47,Pumped hydro < 5%
-56,56,Pumped hydro < 5%
-56,66,Pumped hydro < 5%
-56,78,Pumped hydro < 5%
-65,1,Iron-air < 5%
-65,2,Iron-air < 5%
-65,3,Iron-air < 5%
-65,4,Iron-air < 5%
-65,5,Iron-air < 5%
-65,6,Iron-air < 5%
-65,7,Iron-air < 5%
-65,9,Iron-air < 5%
-65,10,Iron-air < 5%
-65,12,Iron-air < 5%
-65,15,Iron-air < 5%
-65,17,Iron-air < 5%
-65,20,Iron-air < 5%
-65,24,Iron-air < 5%
-65,29,Iron-air < 5%
-65,34,Iron-air < 5%
-65,40,Iron-air < 5%
-65,47,Iron-air < 5%
-65,56,Iron-air < 5%
-65,66,Iron-air < 5%
-75,1,Iron-air 10%
-75,2,Iron-air 10%
-75,3,Iron-air 10%
-75,4,Iron-air 10%
-75,5,Iron-air 10%
-75,6,Iron-air 10%
-75,7,Iron-air 10%
-75,9,Iron-air 10%
-75,10,Iron-air 10%
-75,12,Iron-air 10%
-75,15,Iron-air 10%
-75,17,Iron-air 10%
-75,20,Iron-air 10%
-75,24,Iron-air 10%
-75,29,Iron-air 10%
-75,34,Iron-air 10%
-75,40,Iron-air 10%
-75,47,Iron-air 10%
-75,56,Iron-air 10%
-87,1,Iron-air 10%
-87,2,Iron-air 10%
-87,3,Iron-air 10%
-87,4,Iron-air 10%
-87,5,Iron-air 10%
-87,6,Iron-air 10%
-87,7,Iron-air 10%
-87,9,Iron-air 10%
-87,10,Iron-air 10%
-87,12,Iron-air 10%
-87,15,Iron-air 10%
-87,17,Iron-air 10%
-87,20,Iron-air 10%
-87,24,Iron-air 10%
-87,29,Iron-air 10%
-87,34,Iron-air 10%
-87,40,Iron-air 10%
-87,47,Iron-air 10%
-101,1,Iron-air 20%
-101,2,Iron-air 20%
-101,3,Iron-air 20%
-101,4,Iron-air 20%
-101,5,Iron-air 20%
-101,6,Iron-air 20%
-101,7,Iron-air 20%
-101,9,Iron-air 20%
-101,10,Iron-air 20%
-101,12,Iron-air 20%
-101,15,Iron-air 20%
-101,17,Iron-air 20%
-101,20,Iron-air 20%
-101,24,Iron-air 20%
-101,29,Iron-air 20%
-101,34,Iron-air 20%
-101,40,Iron-air 20%
-118,1,Iron-air 30%
-118,2,Iron-air 30%
-118,3,Iron-air 30%
-118,4,Iron-air 30%
-118,5,Iron-air 30%
-118,6,Iron-air 30%
-118,7,Iron-air 30%
-118,9,Iron-air 30%
-118,10,Iron-air 30%
-118,12,Iron-air 30%
-118,15,Iron-air 30%
-118,17,Iron-air 30%
-118,20,Iron-air 30%
-118,24,Iron-air 30%
-118,29,Iron-air 30%
-118,34,Iron-air 30%
+20,1,LAES 10%
+20,2,LAES 10%
+20,3,LAES 10%
+20,4,LAES 10%
+20,5,LAES 10%
+20,6,LAES 10%
+20,7,LAES 10%
+20,9,LAES 10%
+20,10,LAES 10%
+20,12,LAES 10%
+20,15,LAES 10%
+20,17,LAES 10%
+20,20,LAES 10%
+20,24,LAES 10%
+20,29,LAES 10%
+20,34,LAES 10%
+20,40,LAES 10%
+20,47,LAES 10%
+20,56,LAES 10%
+20,66,LAES 10%
+20,78,LAES 10%
+20,93,LAES 10%
+20,109,LAES 10%
+20,129,LAES 10%
+20,153,LAES 10%
+20,181,LAES 10%
+20,214,LAES 10%
+23,1,LAES 10%
+23,2,LAES 10%
+23,3,LAES 10%
+23,4,LAES 10%
+23,5,LAES 10%
+23,6,LAES 10%
+23,7,LAES 10%
+23,9,LAES 10%
+23,10,LAES 10%
+23,12,LAES 10%
+23,15,LAES 10%
+23,17,LAES 10%
+23,20,LAES 10%
+23,24,LAES 10%
+23,29,LAES 10%
+23,34,LAES 10%
+23,40,LAES 10%
+23,47,LAES 10%
+23,56,LAES 10%
+23,66,LAES 10%
+23,78,LAES 10%
+23,93,LAES 10%
+23,109,LAES 10%
+23,129,LAES 10%
+23,153,LAES 10%
+23,181,LAES 10%
+26,1,LAES 10%
+26,2,LAES 10%
+26,3,LAES 10%
+26,4,LAES 10%
+26,5,LAES 10%
+26,6,LAES 10%
+26,7,LAES 10%
+26,9,LAES 10%
+26,10,LAES 10%
+26,12,LAES 10%
+26,15,LAES 10%
+26,17,LAES 10%
+26,20,LAES 10%
+26,24,LAES 10%
+26,29,LAES 10%
+26,34,LAES 10%
+26,40,LAES 10%
+26,47,LAES 10%
+26,56,LAES 10%
+26,66,LAES 10%
+26,78,LAES 10%
+26,93,LAES 10%
+26,109,LAES 10%
+26,129,LAES 10%
+26,153,LAES 10%
+31,1,LAES 5%
+31,2,LAES 5%
+31,3,LAES 5%
+31,4,LAES 5%
+31,5,LAES 5%
+31,6,LAES 5%
+31,7,LAES 5%
+31,9,LAES 5%
+31,10,LAES 5%
+31,12,LAES 5%
+31,15,LAES 5%
+31,17,LAES 5%
+31,20,LAES 5%
+31,24,LAES 5%
+31,29,LAES 5%
+31,34,LAES 5%
+31,40,LAES 5%
+31,47,LAES 5%
+31,56,LAES 5%
+31,66,LAES 5%
+31,78,LAES 5%
+31,93,LAES 5%
+31,109,LAES 5%
+31,129,LAES 5%
+36,1,LAES < 5%
+36,2,LAES < 5%
+36,3,LAES < 5%
+36,4,LAES < 5%
+36,5,LAES < 5%
+36,6,LAES < 5%
+36,7,LAES < 5%
+36,9,LAES < 5%
+36,10,LAES < 5%
+36,12,LAES < 5%
+36,15,LAES < 5%
+36,17,LAES < 5%
+36,20,LAES < 5%
+36,24,LAES < 5%
+36,29,LAES < 5%
+36,34,LAES < 5%
+36,40,LAES < 5%
+36,47,LAES < 5%
+36,56,LAES < 5%
+36,66,LAES < 5%
+36,78,LAES < 5%
+36,93,LAES < 5%
+36,109,LAES < 5%
+41,1,Iron-air < 5%
+41,2,Iron-air < 5%
+41,3,Iron-air < 5%
+41,4,Iron-air < 5%
+41,5,Iron-air < 5%
+41,6,Iron-air < 5%
+41,7,Iron-air < 5%
+41,9,Iron-air < 5%
+41,10,Iron-air < 5%
+41,12,Iron-air < 5%
+41,15,Iron-air < 5%
+41,17,Iron-air < 5%
+41,20,Iron-air < 5%
+41,24,Iron-air < 5%
+41,29,Iron-air < 5%
+41,34,Iron-air < 5%
+41,40,Iron-air < 5%
+41,47,Iron-air < 5%
+41,56,Iron-air < 5%
+41,66,Iron-air < 5%
+41,78,Iron-air < 5%
+41,93,Iron-air < 5%
+48,1,Iron-air 5%
+48,2,Iron-air 5%
+48,3,Iron-air 5%
+48,4,Iron-air 5%
+48,5,Iron-air 5%
+48,6,Iron-air 5%
+48,7,Iron-air 5%
+48,9,Iron-air 5%
+48,10,Iron-air 5%
+48,12,Iron-air 5%
+48,15,Iron-air 5%
+48,17,Iron-air 5%
+48,20,Iron-air 5%
+48,24,Iron-air 5%
+48,29,Iron-air 5%
+48,34,Iron-air 5%
+48,40,Iron-air 5%
+48,47,Iron-air 5%
+48,56,Iron-air 5%
+48,66,Iron-air 5%
+48,78,Iron-air 5%
+56,1,Iron-air 10%
+56,2,Iron-air 10%
+56,3,Iron-air 10%
+56,4,Iron-air 10%
+56,5,Iron-air 10%
+56,6,Iron-air 10%
+56,7,Iron-air 10%
+56,9,Iron-air 10%
+56,10,Iron-air 10%
+56,12,Iron-air 10%
+56,15,Iron-air 10%
+56,17,Iron-air 10%
+56,20,Iron-air 10%
+56,24,Iron-air 10%
+56,29,Iron-air 10%
+56,34,Iron-air 10%
+56,40,Iron-air 10%
+56,47,Iron-air 10%
+56,56,Iron-air 10%
+56,66,Iron-air 10%
+56,78,Iron-air 10%
+65,1,Iron-air 10%
+65,2,Iron-air 10%
+65,3,Iron-air 10%
+65,4,Iron-air 10%
+65,5,Iron-air 10%
+65,6,Iron-air 10%
+65,7,Iron-air 10%
+65,9,Iron-air 10%
+65,10,Iron-air 10%
+65,12,Iron-air 10%
+65,15,Iron-air 10%
+65,17,Iron-air 10%
+65,20,Iron-air 10%
+65,24,Iron-air 10%
+65,29,Iron-air 10%
+65,34,Iron-air 10%
+65,40,Iron-air 10%
+65,47,Iron-air 10%
+65,56,Iron-air 10%
+65,66,Iron-air 10%
+75,1,Iron-air 20%
+75,2,Iron-air 20%
+75,3,Iron-air 20%
+75,4,Iron-air 20%
+75,5,Iron-air 20%
+75,6,Iron-air 20%
+75,7,Iron-air 20%
+75,9,Iron-air 20%
+75,10,Iron-air 20%
+75,12,Iron-air 20%
+75,15,Iron-air 20%
+75,17,Iron-air 20%
+75,20,Iron-air 20%
+75,24,Iron-air 20%
+75,29,Iron-air 20%
+75,34,Iron-air 20%
+75,40,Iron-air 20%
+75,47,Iron-air 20%
+75,56,Iron-air 20%
+87,1,Iron-air 30%
+87,2,Iron-air 30%
+87,3,Iron-air 30%
+87,4,Iron-air 30%
+87,5,Iron-air 30%
+87,6,Iron-air 30%
+87,7,Iron-air 30%
+87,9,Iron-air 30%
+87,10,Iron-air 30%
+87,12,Iron-air 30%
+87,15,Iron-air 30%
+87,17,Iron-air 30%
+87,20,Iron-air 30%
+87,24,Iron-air 30%
+87,29,Iron-air 30%
+87,34,Iron-air 30%
+87,40,Iron-air 30%
+87,47,Iron-air 30%
+101,1,Iron-air 40%+
+101,2,Iron-air 40%+
+101,3,Iron-air 40%+
+101,4,Iron-air 40%+
+101,5,Iron-air 40%+
+101,6,Iron-air 40%+
+101,7,Iron-air 40%+
+101,9,Iron-air 40%+
+101,10,Iron-air 40%+
+101,12,Iron-air 40%+
+101,15,Iron-air 40%+
+101,17,Iron-air 40%+
+101,20,Iron-air 40%+
+101,24,Iron-air 40%+
+101,29,Iron-air 40%+
+101,34,Iron-air 40%+
+101,40,Iron-air 40%+
+118,1,Iron-air 40%+
+118,2,Iron-air 40%+
+118,3,Iron-air 40%+
+118,4,Iron-air 40%+
+118,5,Iron-air 40%+
+118,6,Iron-air 40%+
+118,7,Iron-air 40%+
+118,9,Iron-air 40%+
+118,10,Iron-air 40%+
+118,12,Iron-air 40%+
+118,15,Iron-air 40%+
+118,17,Iron-air 40%+
+118,20,Iron-air 40%+
+118,24,Iron-air 40%+
+118,29,Iron-air 40%+
+118,34,Iron-air 40%+
 136,1,Iron-air 40%+
 136,2,Iron-air 40%+
 136,3,Iron-air 40%+

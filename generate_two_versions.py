@@ -32,8 +32,11 @@ base_technologies = {
         "var_om": 1.0,           # $/MWh
     },
     "Pumped hydro": {
-        "capex_power": 2125,       # Updated: 1500 → 2125 (NREL/Thunder Said Energy avg)
-        "capex_energy": 50,
+        # NREL ATB 2024 Class 3: $3,794/kW for 838 MW/10h
+        # Project range: $586/kW (Upper Cisokan) to $9,000+/kW (Snowy 2.0)
+        # We use mid-range estimate for new-build with moderately favorable geology
+        "capex_power": 3000,       # Mid-range estimate (highly variable: $600-9,000/kW)
+        "capex_energy": 50,        # Reservoir costs relatively stable
         "efficiency": 0.80,
         "lifetime_years": 60,
         "cycle_life": 50000,
@@ -72,10 +75,13 @@ base_technologies = {
         "var_om": 1.0,
     },
     "VRFB": {
-        "capex_power": 1100,       # Updated: 800 → 1100 (LDES Council avg)
-        "capex_energy": 150,
+        # Reverse-engineered from Dalian (100MW/400MWh) and Jimusar (200MW/1GWh) projects
+        # BloombergNEF 2024: $423/kWh (China), $701/kWh (RoW)
+        # Sources: ESS-News, BloombergNEF LDES Survey
+        "capex_power": 700,        # From project analysis ($600-800/kW range)
+        "capex_energy": 280,       # From BloombergNEF + projects ($250-350/kWh)
         "efficiency": 0.75,
-        "lifetime_years": 30,
+        "lifetime_years": 25,      # LDES Council: 20-25 years
         "cycle_life": 20000,
         "fixed_om_frac": 0.02,
         "var_om": 1.0,
@@ -459,27 +465,60 @@ if __name__ == "__main__":
 # ASSUMPTIONS TABLE - DOCUMENTATION
 # =============================================================================
 #
-# All values in EUR (for USD, multiply by ~1.08)
+# All values in USD
 #
-# | Technology    | capex_power | capex_energy | RTE   | Life | Cycles | Fixed O&M | Var O&M | Source                                |
-# |               | (EUR/kW)    | (EUR/kWh)    |       | (yr) |        | (frac)    | ($/MWh) |                                       |
-# |---------------|-------------|--------------|-------|------|--------|-----------|---------|---------------------------------------|
-# | Li-ion 2025   | 400         | 120          | 0.85  | 15   | 6000   | 0.02      | 1       | Modo Energy cost study                |
-# | Pumped hydro  | 1800        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     | Recent projects and academic lit.     |
-# | CAES          | 2750        | 55           | 0.55  | 50   | 15000  | 0.02      | 1       | Hydrostor Willow Rock project         |
-# | LAES/CO2      | 700         | 80           | 0.65  | 30   | 10000  | 0.02      | 1       | Energy Dome (technology provider)     |
-# | Iron-air      | 1870        | 5.5          | 0.40  | 17   | 10000  | 0.02      | 1       | Form Energy (technology provider)     |
-# | VRFB          | 800         | 150          | 0.75  | 30   | 20000  | 0.02      | 1       | Recent projects and academic lit.     |
+# | Technology    | capex_power | capex_energy | RTE   | Life | Cycles | Fixed O&M | Var O&M |
+# |               | ($/kW)      | ($/kWh)      |       | (yr) |        | (frac)    | ($/MWh) |
+# |---------------|-------------|--------------|-------|------|--------|-----------|---------|
+# | Li-ion 2025   | 250         | 120          | 0.85  | 15   | 6000   | 0.02      | 1.0     |
+# | Pumped hydro  | 3000        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     |
+# | CAES          | 2500        | 50           | 0.55  | 50   | 15000  | 0.02      | 1.0     |
+# | LAES/CO2      | 700         | 80           | 0.65  | 30   | 10000  | 0.02      | 1.0     |
+# | Iron-air      | 1700        | 5            | 0.40  | 17   | 10000  | 0.02      | 1.0     |
+# | VRFB          | 700         | 280          | 0.75  | 25   | 20000  | 0.02      | 1.0     |
+# | Hydrogen*     | 3000        | 20           | 0.38  | 20   | 15000  | 0.03      | 1.0     |
 #
-# Notes:
-# - CAES: Based on Hydrostor A-CAES (Willow Rock 500MW/4GWh project, $1.5B total)
-#         CEO quote (July 2024): "$3,000/kW for 10h, ~$50/kWh marginal"
-#         Corre Energy (salt cavern CAES) filed for bankruptcy in 2024
-# - LAES: Energy Dome CO2 Battery - data shared directly by provider
-# - Iron-air: Form Energy - data shared directly by provider
-# - VRFB: BloombergNEF 2024 survey shows $423/kWh (China) to $701/kWh (RoW)
-#         Our values are optimistic, reflecting projected cost reductions
-# - Pumped hydro: NREL/Thunder Said Energy average for new-build projects
+# * Hydrogen not yet included in model
 #
-# Currency conversion: EUR/USD ≈ 1.08 (2024-2025 average)
+# =============================================================================
+# SOURCES & REFERENCES
+# =============================================================================
+#
+# Li-ion:
+#   - Modo Energy internal cost study (proprietary)
+#
+# Pumped hydro:
+#   - Thunder Said Energy: https://thundersaidenergy.com/downloads/Global-Pumped-Hydro-Projects.xlsx
+#   - NREL ATB 2024: https://atb.nrel.gov/electricity/2024/pumped-storage-hydropower
+#
+# CAES (Hydrostor A-CAES):
+#   - Willow Rock project: https://hydrostor.ca/projects/willow-rock-energy-storage-center/
+#   - DOE Loan: https://www.energy.gov/lpo/hydrostor
+#   - CEO quote (July 2024): "$3,000/kW for 10h, ~$50/kWh marginal"
+#     Source: https://www.utilitydive.com/news/hydrostor-caes-long-duration-energy-storage-california-willow-rock/721444/
+#   - Note: Corre Energy (salt cavern CAES) filed for bankruptcy in 2024
+#
+# LAES / CO2 Battery:
+#   - Energy Dome (technology provider) - data shared directly
+#   - Company website: https://energydome.com/
+#
+# Iron-air:
+#   - Form Energy (technology provider) - data shared directly
+#   - Company website: https://formenergy.com/
+#
+# VRFB:
+#   - BloombergNEF LDES Survey 2024: https://about.bnef.com/blog/lithium-ion-batteries-are-set-to-face-competition-from-novel-tech-for-long-duration-storage-bloombergnef-research/
+#   - PV Magazine analysis: https://www.pv-magazine.com/2024/03/15/evaluating-profitability-of-vanadium-flow-batteries/
+#   - Note: Survey shows $423/kWh (China) to $701/kWh (RoW) - our values are optimistic
+#
+# Hydrogen (not yet in model):
+#   - DOE LDES Report: https://www.energy.gov/sites/default/files/2024-08/Achieving%20the%20Promise%20of%20Low-Cost%20Long%20Duration%20Energy%20Storage_FINAL_08052024.pdf
+#   - PNNL methodology: https://www.pnnl.gov/sites/default/files/media/file/Hydrogen_Methodology.pdf
+#   - Capex = Electrolyzer (~$1,200/kW) + Fuel Cell (~$1,800/kW)
+#   - RTE = ~70% electrolysis × ~55% fuel cell ≈ 38%
+#
+# General references:
+#   - LDES Council 2024 Report: https://ldescouncil.com/2024-ldes-annual-report/
+#   - Lazard LCOE+ 2024: https://www.lazard.com/media/xemfey0k/lazards-lcoeplus-june-2024-_vf.pdf
+#
 # =============================================================================
