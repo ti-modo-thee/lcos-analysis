@@ -41,9 +41,13 @@ base_technologies = {
         "var_om": 0.8,
     },
     "CAES": {
-        "capex_power": 1500,       # Updated: 2500 → 1500 (NREL/Thunder Said Energy)
-        "capex_energy": 90,        # Updated: 50 → 90 (PMC/BloombergNEF avg)
-        "efficiency": 0.60,        # Updated: 0.55 → 0.60 (A-CAES potential)
+        # Hydrostor A-CAES (Willow Rock project: 500MW/4GWh @ $1.5B = $3,000/kW for 8h)
+        # CEO quote (July 2024): "$3,000/kW for 10h system, ~$50/kWh per additional hour"
+        # Reverse-engineered: capex_power = $2,500/kW, capex_energy = $50/kWh
+        # Note: Corre Energy (salt cavern CAES) filed for bankruptcy - Hydrostor is main player
+        "capex_power": 2500,       # Hydrostor A-CAES (purpose-built caverns)
+        "capex_energy": 50,        # Hydrostor marginal cost per hour
+        "efficiency": 0.55,        # Diabatic CAES baseline (A-CAES could reach 60-65%)
         "lifetime_years": 50,
         "cycle_life": 15000,
         "fixed_om_frac": 0.02,
@@ -449,3 +453,33 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# =============================================================================
+# ASSUMPTIONS TABLE - DOCUMENTATION
+# =============================================================================
+#
+# All values in EUR (for USD, multiply by ~1.08)
+#
+# | Technology    | capex_power | capex_energy | RTE   | Life | Cycles | Fixed O&M | Var O&M | Source                                |
+# |               | (EUR/kW)    | (EUR/kWh)    |       | (yr) |        | (frac)    | ($/MWh) |                                       |
+# |---------------|-------------|--------------|-------|------|--------|-----------|---------|---------------------------------------|
+# | Li-ion 2025   | 400         | 120          | 0.85  | 15   | 6000   | 0.02      | 1       | Modo Energy cost study                |
+# | Pumped hydro  | 1800        | 50           | 0.80  | 60   | 50000  | 0.02      | 0.8     | Recent projects and academic lit.     |
+# | CAES          | 2750        | 55           | 0.55  | 50   | 15000  | 0.02      | 1       | Hydrostor Willow Rock project         |
+# | LAES/CO2      | 700         | 80           | 0.65  | 30   | 10000  | 0.02      | 1       | Energy Dome (technology provider)     |
+# | Iron-air      | 1870        | 5.5          | 0.40  | 17   | 10000  | 0.02      | 1       | Form Energy (technology provider)     |
+# | VRFB          | 800         | 150          | 0.75  | 30   | 20000  | 0.02      | 1       | Recent projects and academic lit.     |
+#
+# Notes:
+# - CAES: Based on Hydrostor A-CAES (Willow Rock 500MW/4GWh project, $1.5B total)
+#         CEO quote (July 2024): "$3,000/kW for 10h, ~$50/kWh marginal"
+#         Corre Energy (salt cavern CAES) filed for bankruptcy in 2024
+# - LAES: Energy Dome CO2 Battery - data shared directly by provider
+# - Iron-air: Form Energy - data shared directly by provider
+# - VRFB: BloombergNEF 2024 survey shows $423/kWh (China) to $701/kWh (RoW)
+#         Our values are optimistic, reflecting projected cost reductions
+# - Pumped hydro: NREL/Thunder Said Energy average for new-build projects
+#
+# Currency conversion: EUR/USD ≈ 1.08 (2024-2025 average)
+# =============================================================================
