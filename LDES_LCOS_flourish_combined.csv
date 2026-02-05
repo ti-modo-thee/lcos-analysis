@@ -32,12 +32,12 @@ Discharge duration (h),Cycles per year,Category,Filter
 1,418,Li-ion 40%+,PHES excluded
 1,495,Li-ion 40%+,PHES excluded
 1,585,Li-ion 40%+,PHES excluded
-1,692,Li-ion 40%+,PHES excluded
-1,818,Li-ion 30%,PHES excluded
-1,968,Li-ion 20%,PHES excluded
-1,1144,Li-ion 10%,PHES excluded
-1,1353,Li-ion 10%,PHES excluded
-1,1600,Li-ion 5%,PHES excluded
+1,692,Li-ion 20%,PHES excluded
+1,818,Li-ion 10%,PHES excluded
+1,968,Li-ion 5%,PHES excluded
+1,1144,Li-ion < 5%,PHES excluded
+1,1353,VRFB < 5%,PHES excluded
+1,1600,VRFB 5%,PHES excluded
 2,1,Li-ion 40%+,PHES excluded
 2,2,Li-ion 40%+,PHES excluded
 2,3,Li-ion 40%+,PHES excluded
@@ -70,13 +70,13 @@ Discharge duration (h),Cycles per year,Category,Filter
 2,354,Li-ion 40%+,PHES excluded
 2,418,Li-ion 40%+,PHES excluded
 2,495,Li-ion 40%+,PHES excluded
-2,585,Li-ion 40%+,PHES excluded
-2,692,Li-ion 40%+,PHES excluded
-2,818,Li-ion 20%,PHES excluded
-2,968,Li-ion 10%,PHES excluded
-2,1144,Li-ion 10%,PHES excluded
-2,1353,Li-ion 5%,PHES excluded
-2,1600,on par,PHES excluded
+2,585,Li-ion 30%,PHES excluded
+2,692,Li-ion 20%,PHES excluded
+2,818,Li-ion 10%,PHES excluded
+2,968,Li-ion < 5%,PHES excluded
+2,1144,VRFB < 5%,PHES excluded
+2,1353,VRFB 5%,PHES excluded
+2,1600,VRFB 10%,PHES excluded
 3,1,Li-ion 40%+,PHES excluded
 3,2,Li-ion 40%+,PHES excluded
 3,3,Li-ion 40%+,PHES excluded
@@ -108,13 +108,13 @@ Discharge duration (h),Cycles per year,Category,Filter
 3,299,Li-ion 40%+,PHES excluded
 3,354,Li-ion 40%+,PHES excluded
 3,418,Li-ion 40%+,PHES excluded
-3,495,Li-ion 40%+,PHES excluded
-3,585,Li-ion 40%+,PHES excluded
-3,692,Li-ion 20%,PHES excluded
-3,818,Li-ion 10%,PHES excluded
-3,968,Li-ion 5%,PHES excluded
-3,1144,Li-ion < 5%,PHES excluded
-3,1353,VRFB < 5%,PHES excluded
+3,495,Li-ion 30%,PHES excluded
+3,585,Li-ion 20%,PHES excluded
+3,692,Li-ion 10%,PHES excluded
+3,818,Li-ion < 5%,PHES excluded
+3,968,VRFB < 5%,PHES excluded
+3,1144,VRFB 10%,PHES excluded
+3,1353,VRFB 10%,PHES excluded
 4,1,Li-ion 40%+,PHES excluded
 4,2,Li-ion 40%+,PHES excluded
 4,3,Li-ion 40%+,PHES excluded
@@ -145,47 +145,47 @@ Discharge duration (h),Cycles per year,Category,Filter
 4,253,Li-ion 40%+,PHES excluded
 4,299,Li-ion 40%+,PHES excluded
 4,354,Li-ion 40%+,PHES excluded
-4,418,Li-ion 40%+,PHES excluded
-4,495,Li-ion 40%+,PHES excluded
-4,585,Li-ion 30%,PHES excluded
-4,692,Li-ion 10%,PHES excluded
-4,818,Li-ion 5%,PHES excluded
-4,968,Li-ion < 5%,PHES excluded
-5,1,Li-ion 40%+,PHES excluded
-5,2,Li-ion 40%+,PHES excluded
-5,3,Li-ion 40%+,PHES excluded
-5,4,Li-ion 40%+,PHES excluded
-5,5,Li-ion 40%+,PHES excluded
-5,6,Li-ion 40%+,PHES excluded
-5,7,Li-ion 40%+,PHES excluded
-5,9,Li-ion 40%+,PHES excluded
-5,10,Li-ion 40%+,PHES excluded
-5,12,Li-ion 40%+,PHES excluded
-5,15,Li-ion 40%+,PHES excluded
-5,17,Li-ion 40%+,PHES excluded
-5,20,Li-ion 40%+,PHES excluded
-5,24,Li-ion 40%+,PHES excluded
-5,29,Li-ion 40%+,PHES excluded
-5,34,Li-ion 40%+,PHES excluded
-5,40,Li-ion 40%+,PHES excluded
-5,47,Li-ion 40%+,PHES excluded
-5,56,Li-ion 40%+,PHES excluded
-5,66,Li-ion 40%+,PHES excluded
-5,78,Li-ion 40%+,PHES excluded
-5,93,Li-ion 40%+,PHES excluded
-5,109,Li-ion 40%+,PHES excluded
-5,129,Li-ion 40%+,PHES excluded
-5,153,Li-ion 40%+,PHES excluded
-5,181,Li-ion 40%+,PHES excluded
-5,214,Li-ion 40%+,PHES excluded
-5,253,Li-ion 40%+,PHES excluded
-5,299,Li-ion 40%+,PHES excluded
-5,354,Li-ion 40%+,PHES excluded
-5,418,Li-ion 40%+,PHES excluded
-5,495,Li-ion 30%,PHES excluded
-5,585,Li-ion 20%,PHES excluded
-5,692,Li-ion 10%,PHES excluded
-5,818,Li-ion < 5%,PHES excluded
+4,418,Li-ion 30%,PHES excluded
+4,495,Li-ion 20%,PHES excluded
+4,585,Li-ion 10%,PHES excluded
+4,692,Li-ion 5%,PHES excluded
+4,818,VRFB < 5%,PHES excluded
+4,968,VRFB 10%,PHES excluded
+5,1,Li-ion 30%,PHES excluded
+5,2,Li-ion 30%,PHES excluded
+5,3,Li-ion 30%,PHES excluded
+5,4,Li-ion 30%,PHES excluded
+5,5,Li-ion 30%,PHES excluded
+5,6,Li-ion 30%,PHES excluded
+5,7,Li-ion 30%,PHES excluded
+5,9,Li-ion 30%,PHES excluded
+5,10,Li-ion 30%,PHES excluded
+5,12,Li-ion 30%,PHES excluded
+5,15,Li-ion 30%,PHES excluded
+5,17,Li-ion 30%,PHES excluded
+5,20,Li-ion 30%,PHES excluded
+5,24,Li-ion 30%,PHES excluded
+5,29,Li-ion 30%,PHES excluded
+5,34,Li-ion 30%,PHES excluded
+5,40,Li-ion 30%,PHES excluded
+5,47,Li-ion 30%,PHES excluded
+5,56,Li-ion 30%,PHES excluded
+5,66,Li-ion 30%,PHES excluded
+5,78,Li-ion 30%,PHES excluded
+5,93,Li-ion 30%,PHES excluded
+5,109,Li-ion 30%,PHES excluded
+5,129,Li-ion 30%,PHES excluded
+5,153,Li-ion 30%,PHES excluded
+5,181,Li-ion 30%,PHES excluded
+5,214,Li-ion 30%,PHES excluded
+5,253,Li-ion 30%,PHES excluded
+5,299,Li-ion 30%,PHES excluded
+5,354,Li-ion 30%,PHES excluded
+5,418,Li-ion 30%,PHES excluded
+5,495,Li-ion 20%,PHES excluded
+5,585,Li-ion 10%,PHES excluded
+5,692,Li-ion < 5%,PHES excluded
+5,818,VRFB 5%,PHES excluded
 6,1,Li-ion 30%,PHES excluded
 6,2,Li-ion 30%,PHES excluded
 6,3,Li-ion 30%,PHES excluded
@@ -216,10 +216,10 @@ Discharge duration (h),Cycles per year,Category,Filter
 6,253,Li-ion 30%,PHES excluded
 6,299,Li-ion 30%,PHES excluded
 6,354,Li-ion 30%,PHES excluded
-6,418,Li-ion 40%+,PHES excluded
-6,495,Li-ion 30%,PHES excluded
-6,585,Li-ion 20%,PHES excluded
-6,692,Li-ion 10%,PHES excluded
+6,418,Li-ion 30%,PHES excluded
+6,495,Li-ion 20%,PHES excluded
+6,585,Li-ion 10%,PHES excluded
+6,692,on par,PHES excluded
 7,1,Li-ion 30%,PHES excluded
 7,2,Li-ion 30%,PHES excluded
 7,3,Li-ion 30%,PHES excluded
@@ -250,9 +250,9 @@ Discharge duration (h),Cycles per year,Category,Filter
 7,253,Li-ion 30%,PHES excluded
 7,299,Li-ion 30%,PHES excluded
 7,354,Li-ion 30%,PHES excluded
-7,418,Li-ion 30%,PHES excluded
-7,495,Li-ion 30%,PHES excluded
-7,585,Li-ion 10%,PHES excluded
+7,418,Li-ion 20%,PHES excluded
+7,495,Li-ion 10%,PHES excluded
+7,585,Li-ion 5%,PHES excluded
 8,1,Li-ion 20%,PHES excluded
 8,2,Li-ion 20%,PHES excluded
 8,3,Li-ion 20%,PHES excluded
@@ -284,7 +284,7 @@ Discharge duration (h),Cycles per year,Category,Filter
 8,299,Li-ion 20%,PHES excluded
 8,354,Li-ion 20%,PHES excluded
 8,418,Li-ion 20%,PHES excluded
-8,495,Li-ion 20%,PHES excluded
+8,495,Li-ion 10%,PHES excluded
 9,1,Li-ion 10%,PHES excluded
 9,2,Li-ion 10%,PHES excluded
 9,3,Li-ion 10%,PHES excluded
@@ -904,12 +904,12 @@ Discharge duration (h),Cycles per year,Category,Filter
 1,418,Li-ion 40%+,PHES included
 1,495,Li-ion 40%+,PHES included
 1,585,Li-ion 40%+,PHES included
-1,692,Li-ion 40%+,PHES included
-1,818,Li-ion 30%,PHES included
-1,968,Li-ion 20%,PHES included
-1,1144,Li-ion 10%,PHES included
-1,1353,Li-ion 10%,PHES included
-1,1600,Li-ion 5%,PHES included
+1,692,Li-ion 20%,PHES included
+1,818,Li-ion 10%,PHES included
+1,968,Li-ion 5%,PHES included
+1,1144,Li-ion < 5%,PHES included
+1,1353,VRFB < 5%,PHES included
+1,1600,VRFB 5%,PHES included
 2,1,Li-ion 40%+,PHES included
 2,2,Li-ion 40%+,PHES included
 2,3,Li-ion 40%+,PHES included
@@ -942,13 +942,13 @@ Discharge duration (h),Cycles per year,Category,Filter
 2,354,Li-ion 40%+,PHES included
 2,418,Li-ion 40%+,PHES included
 2,495,Li-ion 40%+,PHES included
-2,585,Li-ion 40%+,PHES included
-2,692,Li-ion 40%+,PHES included
-2,818,Li-ion 20%,PHES included
-2,968,Li-ion 10%,PHES included
-2,1144,Li-ion 10%,PHES included
-2,1353,Li-ion 5%,PHES included
-2,1600,on par,PHES included
+2,585,Li-ion 30%,PHES included
+2,692,Li-ion 20%,PHES included
+2,818,Li-ion 10%,PHES included
+2,968,Li-ion < 5%,PHES included
+2,1144,VRFB < 5%,PHES included
+2,1353,VRFB 5%,PHES included
+2,1600,VRFB 10%,PHES included
 3,1,Li-ion 40%+,PHES included
 3,2,Li-ion 40%+,PHES included
 3,3,Li-ion 40%+,PHES included
@@ -980,13 +980,13 @@ Discharge duration (h),Cycles per year,Category,Filter
 3,299,Li-ion 40%+,PHES included
 3,354,Li-ion 40%+,PHES included
 3,418,Li-ion 40%+,PHES included
-3,495,Li-ion 40%+,PHES included
-3,585,Li-ion 40%+,PHES included
-3,692,Li-ion 20%,PHES included
-3,818,Li-ion 10%,PHES included
-3,968,Li-ion 5%,PHES included
-3,1144,Li-ion < 5%,PHES included
-3,1353,VRFB < 5%,PHES included
+3,495,Li-ion 30%,PHES included
+3,585,Li-ion 20%,PHES included
+3,692,Li-ion 10%,PHES included
+3,818,Li-ion < 5%,PHES included
+3,968,VRFB < 5%,PHES included
+3,1144,VRFB 10%,PHES included
+3,1353,VRFB 10%,PHES included
 4,1,Li-ion 40%+,PHES included
 4,2,Li-ion 40%+,PHES included
 4,3,Li-ion 40%+,PHES included
@@ -1017,47 +1017,47 @@ Discharge duration (h),Cycles per year,Category,Filter
 4,253,Li-ion 40%+,PHES included
 4,299,Li-ion 40%+,PHES included
 4,354,Li-ion 40%+,PHES included
-4,418,Li-ion 40%+,PHES included
-4,495,Li-ion 40%+,PHES included
-4,585,Li-ion 30%,PHES included
-4,692,Li-ion 10%,PHES included
-4,818,Li-ion 5%,PHES included
-4,968,Li-ion < 5%,PHES included
-5,1,Li-ion 40%+,PHES included
-5,2,Li-ion 40%+,PHES included
-5,3,Li-ion 40%+,PHES included
-5,4,Li-ion 40%+,PHES included
-5,5,Li-ion 40%+,PHES included
-5,6,Li-ion 40%+,PHES included
-5,7,Li-ion 40%+,PHES included
-5,9,Li-ion 40%+,PHES included
-5,10,Li-ion 40%+,PHES included
-5,12,Li-ion 40%+,PHES included
-5,15,Li-ion 40%+,PHES included
-5,17,Li-ion 40%+,PHES included
-5,20,Li-ion 40%+,PHES included
-5,24,Li-ion 40%+,PHES included
-5,29,Li-ion 40%+,PHES included
-5,34,Li-ion 40%+,PHES included
-5,40,Li-ion 40%+,PHES included
-5,47,Li-ion 40%+,PHES included
-5,56,Li-ion 40%+,PHES included
-5,66,Li-ion 40%+,PHES included
-5,78,Li-ion 40%+,PHES included
-5,93,Li-ion 40%+,PHES included
-5,109,Li-ion 40%+,PHES included
-5,129,Li-ion 40%+,PHES included
-5,153,Li-ion 40%+,PHES included
-5,181,Li-ion 40%+,PHES included
-5,214,Li-ion 40%+,PHES included
-5,253,Li-ion 40%+,PHES included
-5,299,Li-ion 40%+,PHES included
-5,354,Li-ion 40%+,PHES included
-5,418,Li-ion 40%+,PHES included
-5,495,Li-ion 30%,PHES included
-5,585,Li-ion 20%,PHES included
-5,692,Li-ion 10%,PHES included
-5,818,Li-ion < 5%,PHES included
+4,418,Li-ion 30%,PHES included
+4,495,Li-ion 20%,PHES included
+4,585,Li-ion 10%,PHES included
+4,692,Li-ion 5%,PHES included
+4,818,VRFB < 5%,PHES included
+4,968,VRFB 10%,PHES included
+5,1,Li-ion 30%,PHES included
+5,2,Li-ion 30%,PHES included
+5,3,Li-ion 30%,PHES included
+5,4,Li-ion 30%,PHES included
+5,5,Li-ion 30%,PHES included
+5,6,Li-ion 30%,PHES included
+5,7,Li-ion 30%,PHES included
+5,9,Li-ion 30%,PHES included
+5,10,Li-ion 30%,PHES included
+5,12,Li-ion 30%,PHES included
+5,15,Li-ion 30%,PHES included
+5,17,Li-ion 30%,PHES included
+5,20,Li-ion 30%,PHES included
+5,24,Li-ion 30%,PHES included
+5,29,Li-ion 30%,PHES included
+5,34,Li-ion 30%,PHES included
+5,40,Li-ion 30%,PHES included
+5,47,Li-ion 30%,PHES included
+5,56,Li-ion 30%,PHES included
+5,66,Li-ion 30%,PHES included
+5,78,Li-ion 30%,PHES included
+5,93,Li-ion 30%,PHES included
+5,109,Li-ion 30%,PHES included
+5,129,Li-ion 30%,PHES included
+5,153,Li-ion 30%,PHES included
+5,181,Li-ion 30%,PHES included
+5,214,Li-ion 30%,PHES included
+5,253,Li-ion 30%,PHES included
+5,299,Li-ion 30%,PHES included
+5,354,Li-ion 30%,PHES included
+5,418,Li-ion 30%,PHES included
+5,495,Li-ion 20%,PHES included
+5,585,Li-ion 10%,PHES included
+5,692,Li-ion < 5%,PHES included
+5,818,VRFB 5%,PHES included
 6,1,Li-ion 30%,PHES included
 6,2,Li-ion 30%,PHES included
 6,3,Li-ion 30%,PHES included
@@ -1088,10 +1088,10 @@ Discharge duration (h),Cycles per year,Category,Filter
 6,253,Li-ion 30%,PHES included
 6,299,Li-ion 30%,PHES included
 6,354,Li-ion 30%,PHES included
-6,418,Li-ion 40%+,PHES included
-6,495,Li-ion 30%,PHES included
-6,585,Li-ion 20%,PHES included
-6,692,Li-ion 10%,PHES included
+6,418,Li-ion 30%,PHES included
+6,495,Li-ion 20%,PHES included
+6,585,Li-ion 10%,PHES included
+6,692,on par,PHES included
 7,1,Li-ion 30%,PHES included
 7,2,Li-ion 30%,PHES included
 7,3,Li-ion 30%,PHES included
@@ -1122,9 +1122,9 @@ Discharge duration (h),Cycles per year,Category,Filter
 7,253,Li-ion 30%,PHES included
 7,299,Li-ion 30%,PHES included
 7,354,Li-ion 30%,PHES included
-7,418,Li-ion 30%,PHES included
-7,495,Li-ion 20%,PHES included
-7,585,Li-ion 10%,PHES included
+7,418,Li-ion 20%,PHES included
+7,495,Li-ion 10%,PHES included
+7,585,Li-ion 5%,PHES included
 8,1,Li-ion 20%,PHES included
 8,2,Li-ion 20%,PHES included
 8,3,Li-ion 20%,PHES included
